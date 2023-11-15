@@ -1,0 +1,3717 @@
+id,code,name,continent,iso_country
+302811,AD-02,Canillo Parish,EU,AD
+302812,AD-03,Encamp Parish,EU,AD
+302813,AD-04,La Massana Parish,EU,AD
+302814,AD-05,Ordino Parish,EU,AD
+302815,AD-06,Sant Julià de Lòria Parish,EU,AD
+302816,AD-07,Andorra la Vella Parish,EU,AD
+302817,AD-08,Escaldes-Engordany Parish,EU,AD
+302819,AE-AJ,Ajman Emirate,AS,AE
+302820,AE-AZ,Abu Dhabi Emirate,AS,AE
+302821,AE-DU,Dubai Emirate,AS,AE
+302822,AE-FU,Fujairah Emirate,AS,AE
+302823,AE-RK,Ras al-Khaimah Emirate,AS,AE
+302824,AE-SH,Sharjah Emirate,AS,AE
+302826,AE-UQ,Umm al-Quwain Emirate,AS,AE
+302827,AF-BAL,Balkh Province,AS,AF
+302828,AF-BAM,Bamiyan Province,AS,AF
+302829,AF-BDG,Badghis Province,AS,AF
+302830,AF-BDS,Badakhshan Province,AS,AF
+302831,AF-BGL,Baghlan Province,AS,AF
+306897,AF-DAY,Daykundi Province,AS,AF
+302832,AF-FRA,Farah Province,AS,AF
+302833,AF-FYB,Faryab Province,AS,AF
+302834,AF-GHA,Ghazni Province,AS,AF
+302835,AF-GHO,Ghōr Province,AS,AF
+302836,AF-HEL,Helmand Province,AS,AF
+302837,AF-HER,Herat Province,AS,AF
+302838,AF-JOW,Jowzjan Province,AS,AF
+302839,AF-KAB,Kabul Province,AS,AF
+302840,AF-KAN,Kandahar Province,AS,AF
+302841,AF-KAP,Kapisa Province,AS,AF
+302842,AF-KDZ,Kunduz Province,AS,AF
+302843,AF-KHO,Khost Province,AS,AF
+302844,AF-KNR,Kunar Province,AS,AF
+302845,AF-LAG,Laghman Province,AS,AF
+302846,AF-LOW,Logar Province,AS,AF
+302847,AF-NAN,Nangarhar Province,AS,AF
+302848,AF-NIM,Nimruz Province,AS,AF
+302849,AF-NUR,Nurestan Province,AS,AF
+302850,AF-ORU,Orūzgān Province,AS,AF
+306898,AF-PAN,Panjshir Province,AS,AF
+302851,AF-PAR,Parwan Province,AS,AF
+302852,AF-PIA,Paktia Province,AS,AF
+302853,AF-PKA,Paktika Province,AS,AF
+302854,AF-SAM,Samangan Province,AS,AF
+302855,AF-SAR,Sar-e Pol Province,AS,AF
+302856,AF-TAK,Takhar Province,AS,AF
+302858,AF-WAR,Wardak Province,AS,AF
+302859,AF-ZAB,Zabul Province,AS,AF
+306768,AG-03,Saint George,NA,AG
+306769,AG-04,Saint John,NA,AG
+306770,AG-05,Saint Mary,NA,AG
+306771,AG-06,Saint Paul,NA,AG
+306772,AG-07,Saint Peter,NA,AG
+306773,AG-08,Saint Philip,NA,AG
+306774,AG-10,Barbuda,NA,AG
+302862,AL-01,Berat County,EU,AL
+302866,AL-02,Durrës County,EU,AL
+302868,AL-03,Elbasan County,EU,AL
+302870,AL-04,Fier County,EU,AL
+302871,AL-05,Gjirokastër County,EU,AL
+302877,AL-06,Korçë County,EU,AL
+302879,AL-07,Kukës County,EU,AL
+302881,AL-08,Lezhë County,EU,AL
+302864,AL-09,Dibër County,EU,AL
+302891,AL-10,Shkodër County,EU,AL
+302896,AL-11,Tirana County,EU,AL
+302898,AL-12,Vlorë County,EU,AL
+302899,AM-AG,Aragatsotn Province,AS,AM
+302900,AM-AR,Ararat Province,AS,AM
+302901,AM-AV,Armavir Province,AS,AM
+302902,AM-ER,Yerevan (capital district),AS,AM
+302903,AM-GR,Gegharkunik Province,AS,AM
+302904,AM-KT,Kotayk Province,AS,AM
+302905,AM-LO,Lori Province,AS,AM
+302906,AM-SH,Shirak Province,AS,AM
+302907,AM-SU,Syunik Province,AS,AM
+302908,AM-TV,Tavush Province,AS,AM
+302910,AM-VD,Vayots Dzor Province,AS,AM
+302912,AO-BGO,Bengo Province,AF,AO
+302913,AO-BGU,Benguela Province,AF,AO
+302914,AO-BIE,Bié Province,AF,AO
+302915,AO-CAB,Cabinda Province,AF,AO
+302916,AO-CCU,Cuando Cubango Province,AF,AO
+302917,AO-CNN,Cunene Province,AF,AO
+302918,AO-CNO,Cuanza Norte Province,AF,AO
+302919,AO-CUS,Cuanza Sul Province,AF,AO
+302920,AO-HUA,Huambo Province,AF,AO
+302921,AO-HUI,Huíla Province,AF,AO
+302922,AO-LNO,Lunda Norte Province,AF,AO
+302923,AO-LSU,Lunda Sul Province,AF,AO
+302924,AO-LUA,Luanda Province,AF,AO
+302925,AO-MAL,Malanje Province,AF,AO
+302926,AO-MOX,Moxico Province,AF,AO
+302927,AO-NAM,Namibe Province,AF,AO
+302929,AO-UIG,Uíge Province,AF,AO
+302930,AO-ZAI,Zaire Province,AF,AO
+302932,AR-A,Salta Province,SA,AR
+302933,AR-B,Buenos Aires Province,SA,AR
+302934,AR-C,Capital federal,SA,AR
+302935,AR-D,San Luis Province,SA,AR
+302936,AR-E,Entre Ríos Province,SA,AR
+306324,AR-F,La Rioja Province,SA,AR
+302937,AR-G,Santiago del Estero Province,SA,AR
+302938,AR-H,Chaco Province,SA,AR
+302939,AR-J,San Juan Province,SA,AR
+302940,AR-K,Catamarca Province,SA,AR
+302941,AR-L,La Pampa Province,SA,AR
+302942,AR-M,Mendoza Province,SA,AR
+302943,AR-N,Misiones Province,SA,AR
+302944,AR-P,Formosa Province,SA,AR
+302945,AR-Q,Neuquén Province,SA,AR
+302946,AR-R,Río Negro Province,SA,AR
+302947,AR-S,Santa Fe Province,SA,AR
+302948,AR-T,Tucumán Province,SA,AR
+302949,AR-U,Chubut Province,SA,AR
+302951,AR-V,Tierra del Fuego Province,SA,AR
+302952,AR-W,Corrientes Province,SA,AR
+302953,AR-X,Córdoba Province,SA,AR
+302954,AR-Y,Jujuy Province,SA,AR
+302955,AR-Z,Santa Cruz Province,SA,AR
+302957,AT-1,Burgenland,EU,AT
+302958,AT-2,Carinthia,EU,AT
+302959,AT-3,Lower Austria,EU,AT
+302960,AT-4,Upper Austria,EU,AT
+302961,AT-5,Salzburg,EU,AT
+302962,AT-6,Styria,EU,AT
+302963,AT-7,Tyrol,EU,AT
+302964,AT-8,Vorarlberg,EU,AT
+302965,AT-9,Vienna,EU,AT
+302967,AU-AAT,Australian Antarctic Territory,OC,AU
+302968,AU-ACT,Australian Capital Territory,OC,AU
+302969,AU-NSW,New South Wales,OC,AU
+302970,AU-NT,Northern Territory,OC,AU
+302971,AU-QLD,Queensland,OC,AU
+302972,AU-SA,South Australia,OC,AU
+302973,AU-TAS,Tasmania,OC,AU
+302975,AU-VIC,Victoria,OC,AU
+302976,AU-WA,Western Australia,OC,AU
+302978,AZ-AB,Ali Bayramli District,AS,AZ
+302979,AZ-ABS,Abseron District,AS,AZ
+302980,AZ-AGA,Agstafa District,AS,AZ
+302981,AZ-AGC,Agjabadi District,AS,AZ
+302982,AZ-AGM,Agdam District,AS,AZ
+302983,AZ-AGS,Agdash District,AS,AZ
+302984,AZ-AGU,Agsu District,AS,AZ
+302985,AZ-AST,Astara District,AS,AZ
+302986,AZ-BA,Baku (city),AS,AZ
+302987,AZ-BAB,Babak District,AS,AZ
+302988,AZ-BAL,Balakan District,AS,AZ
+302989,AZ-BAR,Barda District,AS,AZ
+302990,AZ-BEY,Beylagan District,AS,AZ
+302991,AZ-BIL,Bilasuvar District,AS,AZ
+302992,AZ-CAB,Cabrayll District,AS,AZ
+302993,AZ-CAL,Calilabad District,AS,AZ
+302994,AZ-CUL,Culfa District,AS,AZ
+302995,AZ-DAS,Daskasan District,AS,AZ
+302996,AZ-DAV,Davaci District,AS,AZ
+302997,AZ-FUZ,Fuzuli District,AS,AZ
+302998,AZ-GA,Ganja (city),AS,AZ
+302999,AZ-GAD,Gadabay District,AS,AZ
+303000,AZ-GOR,Goranboy District,AS,AZ
+303001,AZ-GOY,Goychay District,AS,AZ
+303002,AZ-HAC,Hajigabul District,AS,AZ
+303003,AZ-IMI,Imisli District,AS,AZ
+303004,AZ-ISM,Ismayilli District,AS,AZ
+303005,AZ-KAL,Kalbacar District,AS,AZ
+303006,AZ-KUR,Kurdamir District,AS,AZ
+303007,AZ-LA,Lankaran District,AS,AZ
+303008,AZ-LAC,Lacin District,AS,AZ
+303009,AZ-LER,Lerik District,AS,AZ
+303010,AZ-MAS,Masally District,AS,AZ
+303011,AZ-MI,Mingacevir District,AS,AZ
+303012,AZ-NA,Naftalan District,AS,AZ
+303013,AZ-NEF,Neftcala District,AS,AZ
+303014,AZ-NX,Nakhchivan Autonomous Republic,AS,AZ
+303015,AZ-OGU,Oguz District,AS,AZ
+303016,AZ-ORD,Ordubad District,AS,AZ
+303017,AZ-QAB,Qabala District,AS,AZ
+303018,AZ-QAX,Qax District,AS,AZ
+303019,AZ-QAZ,Qazax District,AS,AZ
+303020,AZ-QBA,Quba District,AS,AZ
+303021,AZ-QBI,Qubadli District,AS,AZ
+303022,AZ-QOB,Qobustan District,AS,AZ
+303023,AZ-QUS,Qusar District,AS,AZ
+303024,AZ-SA,Shaki District,AS,AZ
+303025,AZ-SAB,Sabirabad District,AS,AZ
+303026,AZ-SAD,Sadarak District,AS,AZ
+303027,AZ-SAH,Sahbuz District,AS,AZ
+303028,AZ-SAL,Salyan District,AS,AZ
+303029,AZ-SAR,Sarur District,AS,AZ
+303030,AZ-SAT,Saatli District,AS,AZ
+303031,AZ-SIY,Siyazan District,AS,AZ
+303032,AZ-SKR,Samkir District,AS,AZ
+303033,AZ-SM,Sumqayit (city),AS,AZ
+303034,AZ-SMI,Samaxi District,AS,AZ
+303035,AZ-SMX,Samux District,AS,AZ
+303036,AZ-SS,Susa District,AS,AZ
+303037,AZ-TAR,Tartar District,AS,AZ
+303038,AZ-TOV,Tovuz District,AS,AZ
+303040,AZ-UCA,Ucar District,AS,AZ
+303041,AZ-XA,Xankandi District,AS,AZ
+303042,AZ-XAC,Khachmaz District,AS,AZ
+303043,AZ-XAN,Xanlar District,AS,AZ
+303044,AZ-XCI,Khojaly District,AS,AZ
+303045,AZ-XIZ,Khizi District,AS,AZ
+303046,AZ-XVD,Xocavand District,AS,AZ
+303047,AZ-YAR,Yardimli District,AS,AZ
+303048,AZ-YE,Yevlax (city),AS,AZ
+303049,AZ-ZAN,Zangilan District,AS,AZ
+303050,AZ-ZAQ,Zaqatala District,AS,AZ
+303051,AZ-ZAR,Zardab District,AS,AZ
+303052,BA-BIH,Federacija Bosna i Hercegovina,EU,BA
+303053,BA-SRP,Republika Srpska,EU,BA
+303055,BB-01,Christ Church,NA,BB
+303056,BB-02,Saint Andrew,NA,BB
+303057,BB-03,Saint George,NA,BB
+303058,BB-04,Saint James,NA,BB
+303059,BB-05,Saint John,NA,BB
+303060,BB-06,Saint Joseph,NA,BB
+303061,BB-07,Saint Lucy,NA,BB
+303062,BB-08,Saint Michael,NA,BB
+303063,BB-09,Saint Peter,NA,BB
+303064,BB-10,Saint Philip,NA,BB
+303065,BB-11,Saint Thomas,NA,BB
+306743,BD-1,Barisal Division,AS,BD
+306744,BD-2,Chittagong Division,AS,BD
+306742,BD-3,Dhaka Division,AS,BD
+306741,BD-4,Khulna Division,AS,BD
+306740,BD-5,Rajshahi Division,AS,BD
+306739,BD-6,Sylhet Division,AS,BD
+303068,BE-BRU,Brussels-Capital Region,EU,BE
+303070,BE-VAN,Antwerp Province,EU,BE
+303071,BE-VBR,Flemish Brabant Province,EU,BE
+303072,BE-VLI,Limburg Province,EU,BE
+303073,BE-VOV,East Flanders Province,EU,BE
+303074,BE-VWV,West Flanders Province,EU,BE
+303075,BE-WBR,Walloon Brabant Province,EU,BE
+303076,BE-WHT,Hainaut Province,EU,BE
+303077,BE-WLG,Liège Province,EU,BE
+303078,BE-WLX,Luxembourg Province,EU,BE
+303079,BE-WNA,Namur Province,EU,BE
+303080,BF-BAL,Bale,AF,BF
+303081,BF-BAM,Bam,AF,BF
+303082,BF-BAN,Banwa,AF,BF
+303083,BF-BAZ,Bazega,AF,BF
+303084,BF-BGR,Bougouriba,AF,BF
+303085,BF-BLG,Boulgou,AF,BF
+303086,BF-BLK,Boulkiemde,AF,BF
+303087,BF-COM,Comoe,AF,BF
+303088,BF-GAN,Ganzourgou,AF,BF
+303089,BF-GNA,Gnagna,AF,BF
+303090,BF-GOU,Gourma,AF,BF
+303091,BF-HOU,Houet,AF,BF
+303092,BF-IOB,Ioba,AF,BF
+303093,BF-KAD,Kadiogo,AF,BF
+303094,BF-KEN,Kenedougou,AF,BF
+303095,BF-KMD,Komondjari,AF,BF
+303096,BF-KMP,Kompienga,AF,BF
+303097,BF-KOP,Koulpulogo,AF,BF
+303098,BF-KOS,Kossi,AF,BF
+303099,BF-KOT,Kouritenga,AF,BF
+303100,BF-KOW,Kourweogo,AF,BF
+303101,BF-LER,Leraba,AF,BF
+303102,BF-LOR,Loroum,AF,BF
+303103,BF-MOU,Mouhoun,AF,BF
+303104,BF-NAM,Namentenga,AF,BF
+303105,BF-NAO,Nahouri,AF,BF
+303106,BF-NAY,Nayala,AF,BF
+303107,BF-NOU,Noumbiel,AF,BF
+303108,BF-OUB,Oubritenga,AF,BF
+303109,BF-OUD,Oudalan,AF,BF
+303110,BF-PAS,Passore,AF,BF
+303111,BF-PON,Poni,AF,BF
+303112,BF-SEN,Seno,AF,BF
+303113,BF-SIS,Siasili,AF,BF
+303114,BF-SMT,Sanmatenga,AF,BF
+303115,BF-SNG,Sanguie,AF,BF
+303116,BF-SOM,Soum,AF,BF
+303117,BF-SOR,Sourou,AF,BF
+303118,BF-TAP,Tapoa,AF,BF
+303119,BF-TUI,Tui,AF,BF
+303121,BF-YAG,Yagha,AF,BF
+303122,BF-YAT,Yatenga,AF,BF
+303123,BF-ZIR,Ziro,AF,BF
+303124,BF-ZON,Zondoma,AF,BF
+303125,BF-ZOU,Zoundweogo,AF,BF
+303126,BG-01,Blagoevgrad Province,EU,BG
+303127,BG-02,Burgas Province,EU,BG
+303128,BG-03,Varna Province,EU,BG
+303129,BG-04,Veliko Tarnovo Province,EU,BG
+303130,BG-05,Vidin Province,EU,BG
+303131,BG-06,Vraca Province,EU,BG
+303132,BG-07,Gabrovo Province,EU,BG
+303133,BG-08,Dobric Province,EU,BG
+303134,BG-09,Kardzali Province,EU,BG
+303135,BG-10,Kyustendil Province,EU,BG
+303136,BG-11,Lovec Province,EU,BG
+303137,BG-12,Montana Province,EU,BG
+303138,BG-13,Pazardzhik Province,EU,BG
+303139,BG-14,Pernik Province,EU,BG
+303140,BG-15,Pleven Province,EU,BG
+303141,BG-16,Plovdiv Province,EU,BG
+303142,BG-17,Razgrad Province,EU,BG
+303143,BG-18,Ruse Province,EU,BG
+303144,BG-19,Silistra Province,EU,BG
+303145,BG-20,Sliven Province,EU,BG
+303146,BG-21,Smoljan Province,EU,BG
+303147,BG-23,Sofia Province,EU,BG
+303148,BG-24,Stara Zagora Province,EU,BG
+303149,BG-25,Targovishte Province,EU,BG
+303150,BG-26,Haskovo Province,EU,BG
+303151,BG-27,Sumen Province,EU,BG
+303152,BG-28,Jambol Province,EU,BG
+306734,BH-13,Capital Governorate,AS,BH
+306733,BH-14,Southern Governorate,AS,BH
+306732,BH-15,Muharraq Governorate,AS,BH
+306731,BH-16,Central Governorate,AS,BH
+306730,BH-17,Northern Governorate,AS,BH
+303155,BI-BB,Bubanza Province,AF,BI
+332643,BI-BL,Bujumbura Rural Province,AF,BI
+303156,BI-BM,Bujumbura Mairie Province,AF,BI
+303157,BI-BR,Bururi Province,AF,BI
+303158,BI-CA,Cankuzo Province,AF,BI
+303159,BI-CI,Cibitoke Province,AF,BI
+303160,BI-GI,Gitega Province,AF,BI
+332644,BI-KI,Kirundo Province,AF,BI
+303161,BI-KR,Karuzi Province,AF,BI
+303162,BI-KY,Kayanza Province,AF,BI
+303163,BI-MA,Makamba Province,AF,BI
+303164,BI-MU,Muramvya Province,AF,BI
+303165,BI-MW,Mwaro Province,AF,BI
+332645,BI-MY,Muyinga Province,AF,BI
+303166,BI-NG,Ngozi Province,AF,BI
+332646,BI-RM,Rumonge Province,AF,BI
+303167,BI-RT,Rutana Province,AF,BI
+303168,BI-RY,Ruyigi Province,AF,BI
+303170,BJ-AK,Atakora,AF,BJ
+303171,BJ-AL,Alibori,AF,BJ
+303172,BJ-AQ,Atlantique,AF,BJ
+303173,BJ-BO,Borgou,AF,BJ
+303174,BJ-CO,Collines,AF,BJ
+303175,BJ-DO,Donga,AF,BJ
+303176,BJ-KO,Kouffo,AF,BJ
+303177,BJ-LI,Littoral,AF,BJ
+303178,BJ-MO,Mono,AF,BJ
+303179,BJ-OU,Oueme,AF,BJ
+303180,BJ-PL,Plateau,AF,BJ
+303182,BJ-ZO,Zou,AF,BJ
+303184,BN-BE,Belait District,AS,BN
+303185,BN-BM,Brunei-Muara District,AS,BN
+303186,BN-TE,Temburong District,AS,BN
+303187,BN-TU,Tutong District,AS,BN
+303189,BO-B,El Beni Department,SA,BO
+303190,BO-C,Cochabamba Department,SA,BO
+303191,BO-H,Chuquisaca Department,SA,BO
+303192,BO-L,La Paz Department,SA,BO
+303193,BO-N,Pando Department,SA,BO
+303194,BO-O,Oruro Department,SA,BO
+303195,BO-P,Potosí Department,SA,BO
+303196,BO-S,Santa Cruz Department,SA,BO
+303197,BO-T,Tarija Department,SA,BO
+303199,BR-AC,Acre,SA,BR
+303200,BR-AL,Alagoas,SA,BR
+303201,BR-AM,Amazonas,SA,BR
+303202,BR-AP,Amapá,SA,BR
+303203,BR-BA,Bahia,SA,BR
+303204,BR-CE,Ceará,SA,BR
+303205,BR-DF,Distrito Federal,SA,BR
+303206,BR-ES,Espírito Santo,SA,BR
+303207,BR-GO,Goiás,SA,BR
+303208,BR-MA,Maranhão,SA,BR
+303209,BR-MG,Minas Gerais,SA,BR
+303210,BR-MS,Mato Grosso do Sul,SA,BR
+303211,BR-MT,Mato Grosso,SA,BR
+303212,BR-PA,Pará,SA,BR
+303213,BR-PB,Paraíba,SA,BR
+303214,BR-PE,Pernambuco,SA,BR
+303215,BR-PI,Piauí,SA,BR
+303216,BR-PR,Paraná,SA,BR
+303217,BR-RJ,Rio de Janeiro,SA,BR
+303218,BR-RN,Rio Grande do Norte,SA,BR
+303219,BR-RO,Rondônia,SA,BR
+303220,BR-RR,Roraima,SA,BR
+303221,BR-RS,Rio Grande do Sul,SA,BR
+303222,BR-SC,Santa Catarina,SA,BR
+303223,BR-SE,Sergipe,SA,BR
+303224,BR-SP,São Paulo,SA,BR
+303225,BR-TO,Tocatins,SA,BR
+303227,BS-AK,Acklins,NA,BS
+303228,BS-BI,Bimini,NA,BS
+336477,BS-BP,Black Point,NA,BS
+336476,BS-BY,Berry Islands,NA,BS
+336480,BS-CE,Central Eleuthera,NA,BS
+303229,BS-CI,Cat Island,NA,BS
+336475,BS-CK,Crooked Island and Long Cay,NA,BS
+336478,BS-CO,Central Abaco,NA,BS
+336479,BS-CS,Central Andros,NA,BS
+336481,BS-EG,East Grand Bahama,NA,BS
+303230,BS-EX,Exuma,NA,BS
+303232,BS-FP,City of Freeport,NA,BS
+336474,BS-GC,Grand Cay,NA,BS
+303235,BS-HI,Harbour Island,NA,BS
+336487,BS-HT,Hope Town,NA,BS
+303237,BS-IN,Inagua,NA,BS
+303239,BS-LI,Long Island,NA,BS
+336488,BS-MC,Mangrove Cay,NA,BS
+303240,BS-MG,Mayaguana,NA,BS
+336482,BS-MI,Moore's Island,NA,BS
+336489,BS-NE,North Eleuthera,NA,BS
+303234,BS-NO,North Abaco,NA,BS
+303243,BS-NP,New Providence,NA,BS
+303242,BS-NS,North Andros,NA,BS
+303247,BS-RC,Rum Cay,NA,BS
+303244,BS-RI,Ragged Island,NA,BS
+303238,BS-SA,South Andros,NA,BS
+303245,BS-SE,South Eleuthera,NA,BS
+336484,BS-SO,South Abaco,NA,BS
+336483,BS-SS,San Salvador,NA,BS
+336485,BS-SW,Spanish Wells,NA,BS
+336486,BS-WG,West Grand Bahama,NA,BS
+303249,BT-11,Paro,AS,BT
+303250,BT-12,Chhukha,AS,BT
+303251,BT-13,Ha,AS,BT
+303252,BT-14,Samtee,AS,BT
+303253,BT-15,Thimphu,AS,BT
+303254,BT-21,Tsirang,AS,BT
+303255,BT-22,Dagana,AS,BT
+303256,BT-23,Punakha,AS,BT
+303257,BT-24,Wangdue Phodrang,AS,BT
+303258,BT-31,Sarpang,AS,BT
+303259,BT-32,Trongsa,AS,BT
+303260,BT-33,Bumthang,AS,BT
+303261,BT-34,Zhemgang,AS,BT
+303262,BT-41,Trashigang,AS,BT
+303263,BT-42,Monggar,AS,BT
+303264,BT-43,Pemagatshel,AS,BT
+303265,BT-44,Lhuentse,AS,BT
+303266,BT-45,Samdrup Jongkha,AS,BT
+303267,BT-GA,Gasa,AS,BT
+303268,BT-TY,Trashi Yangtse,AS,BT
+303270,BW-CE,Central District,AF,BW
+303271,BW-GH,Ghanzi District,AF,BW
+303272,BW-KG,Kgalagadi District,AF,BW
+303273,BW-KL,Kgatleng District,AF,BW
+303274,BW-KW,Kweneng District,AF,BW
+303275,BW-NE,North-East District,AF,BW
+303276,BW-NW,North-West District,AF,BW
+303277,BW-SE,South-East District,AF,BW
+303278,BW-SO,Southern District,AF,BW
+303280,BY-BR,Brest Voblast,EU,BY
+303281,BY-HO,Homiel Voblast,EU,BY
+303282,BY-HR,Hrodna Voblast,EU,BY
+303283,BY-MA,Mahilyow Voblast,EU,BY
+303284,BY-MI,Minsk Voblast,EU,BY
+303286,BY-VI,Vitsebsk Voblast,EU,BY
+303287,BZ-BZ,Belize District,NA,BZ
+303288,BZ-CY,Cayo District,NA,BZ
+303289,BZ-CZL,Corozal District,NA,BZ
+303290,BZ-OW,Orange Walk District,NA,BZ
+303291,BZ-SC,Stann Creek District,NA,BZ
+303292,BZ-TOL,Toledo District,NA,BZ
+303294,CA-AB,Alberta,NA,CA
+303295,CA-BC,British Columbia,NA,CA
+303296,CA-MB,Manitoba,NA,CA
+303297,CA-NB,New Brunswick,NA,CA
+303298,CA-NL,Newfoundland and Labrador,NA,CA
+303299,CA-NS,Nova Scotia,NA,CA
+303300,CA-NT,Northwest Territories,NA,CA
+303301,CA-NU,Nunavut,NA,CA
+303302,CA-ON,Ontario,NA,CA
+303303,CA-PE,Prince Edward Island,NA,CA
+303304,CA-QC,Quebec,NA,CA
+303305,CA-SK,Saskatchewan,NA,CA
+303307,CA-YT,Yukon,NA,CA
+303309,CD-BC,Bas-Congo Province,AF,CD
+303310,CD-BN,Bandundu Province,AF,CD
+303311,CD-EQ,Equateur Province,AF,CD
+303312,CD-HC,Haut-Congo Province,AF,CD
+303313,CD-KA,Katanga Province,AF,CD
+303314,CD-KE,Kasai-Oriental Province,AF,CD
+303315,CD-KN,Kinshasa Province,AF,CD
+303316,CD-KW,Kasai-Occidental Province,AF,CD
+303317,CD-MA,Maniema Province,AF,CD
+303318,CD-NK,Nord-Kivu Province,AF,CD
+303319,CD-OR,Orientale Province,AF,CD
+303320,CD-SK,Sud-Kivu Province,AF,CD
+303322,CF-AC,Ouham,AF,CF
+303323,CF-BB,Bamingui-Bangoran,AF,CF
+303324,CF-BGF,Bangui,AF,CF
+303325,CF-BK,Basse-Kotto,AF,CF
+303326,CF-HK,Haute-Kotto,AF,CF
+303327,CF-HM,Haut-Mbomou,AF,CF
+303328,CF-HS,Mambéré-Kadéï,AF,CF
+303329,CF-KB,Nana-Grébizi,AF,CF
+303330,CF-KG,Kémo,AF,CF
+303331,CF-LB,Lobaye,AF,CF
+303332,CF-MB,Mbomou,AF,CF
+303333,CF-MP,Ombella-M'Poko,AF,CF
+303334,CF-NM,Nana-Mambéré,AF,CF
+303335,CF-OP,Ouham-Pendé,AF,CF
+303336,CF-SE,Sangha-Mbaéré,AF,CF
+303338,CF-UK,Ouaka,AF,CF
+303339,CF-VR,Vakaga,AF,CF
+303340,CG-11,Bouenza Department,AF,CG
+303341,CG-12,Pool Department,AF,CG
+303342,CG-13,Sangha Department,AF,CG
+303343,CG-14,Plateaux Department,AF,CG
+303344,CG-15,Cuvette-Ouest Department,AF,CG
+303345,CG-2,Lékoumou Department,AF,CG
+303346,CG-5,Kouilou Department,AF,CG
+303347,CG-7,Likouala Department,AF,CG
+303348,CG-8,Cuvette Department,AF,CG
+303349,CG-9,Niari Department,AF,CG
+303350,CG-BZV,Brazzaville Department,AF,CG
+303352,CH-AG,Canton of Aargau,EU,CH
+303353,CH-AI,Canton of Appenzell Innerrhoden,EU,CH
+303354,CH-AR,Canton of Appenzell Ausserrhoden,EU,CH
+303355,CH-BE,Canton of Berne,EU,CH
+303356,CH-BL,Canton of Basel-Country,EU,CH
+303357,CH-BS,Canton of Basel-City,EU,CH
+303358,CH-FR,Canton of Fribourg,EU,CH
+303359,CH-GE,Canton of Geneva,EU,CH
+303360,CH-GL,Canton of Glarus,EU,CH
+303361,CH-GR,Canton of Grisons,EU,CH
+303362,CH-JU,Canton of Jura,EU,CH
+303363,CH-LU,Canton of Lucerne,EU,CH
+303364,CH-NE,Canton of Neuchâtel,EU,CH
+303365,CH-NW,Canton of Nidwalden,EU,CH
+303366,CH-OW,Canton of Obwalden,EU,CH
+303367,CH-SG,Canton of St. Gallen,EU,CH
+303368,CH-SH,Canton of Schaffhausen,EU,CH
+303369,CH-SO,Canton of Solothurn,EU,CH
+303370,CH-SZ,Canton of Schwyz,EU,CH
+303371,CH-TG,Canton of Thurgau,EU,CH
+303372,CH-TI,Canton of Ticino,EU,CH
+303374,CH-UR,Canton of Uri,EU,CH
+303375,CH-VD,Canton of Vaud,EU,CH
+303376,CH-VS,Canton of Valais,EU,CH
+303377,CH-ZG,Canton of Zug,EU,CH
+303378,CH-ZH,Canton of Zurich,EU,CH
+303379,CI-01,Lagunes,AF,CI
+303380,CI-02,Haut-Sassandra,AF,CI
+303381,CI-03,Savanes,AF,CI
+303382,CI-04,Vallée du Bandama,AF,CI
+303383,CI-05,Moyen-Comoé,AF,CI
+303384,CI-06,Dix-Huit Montagnes,AF,CI
+303385,CI-07,Lacs,AF,CI
+303386,CI-08,Zanzan,AF,CI
+303387,CI-09,Bas-Sassandra,AF,CI
+303388,CI-10,Denguélé,AF,CI
+303389,CI-11,N'zi-Comoé,AF,CI
+303390,CI-12,Marahoué,AF,CI
+303391,CI-13,Sud-Comoé,AF,CI
+303392,CI-14,Worodouqou,AF,CI
+303393,CI-15,Sud-Bandama,AF,CI
+303394,CI-16,Agnéby,AF,CI
+306391,CI-17,Bafing,AF,CI
+306390,CI-18,Fromager,AF,CI
+306389,CI-19,Moyen-Cavally,AF,CI
+303397,CL-AI,Aysén Region,SA,CL
+303398,CL-AN,Antofagasta Region,SA,CL
+306387,CL-AP,Arica and Parinacota Region,SA,CL
+303399,CL-AR,Araucanía Region,SA,CL
+303400,CL-AT,Atacama Region,SA,CL
+303401,CL-BI,Bío-Bío Region,SA,CL
+303402,CL-CO,Coquimbo Region,SA,CL
+303403,CL-LI,O'Higgins Region,SA,CL
+303404,CL-LL,Los Lagos Region,SA,CL
+306388,CL-LR,Los Ríos Region,SA,CL
+303405,CL-MA,Magallanes Region,SA,CL
+303406,CL-ML,Maule Region,SA,CL
+303407,CL-RM,Santiago Metropolitan Region,SA,CL
+303408,CL-TA,Tarapacá Region,SA,CL
+303410,CL-VS,Valparaíso Region,SA,CL
+303411,CM-AD,Adamaoua Region,AF,CM
+303412,CM-CE,Centre Region,AF,CM
+303413,CM-EN,Far North Region,AF,CM
+303414,CM-ES,East Region,AF,CM
+303415,CM-LT,Littoral Region,AF,CM
+303416,CM-NO,North Region,AF,CM
+303417,CM-NW,North-West Region,AF,CM
+303418,CM-OU,West Region,AF,CM
+303419,CM-SU,South Region,AF,CM
+303420,CM-SW,South-West Region,AF,CM
+303422,CN-11,Beijing Municipality,AS,CN
+303423,CN-12,Tianjin Municipality,AS,CN
+303424,CN-13,Hebei Province,AS,CN
+303425,CN-14,Shanxi Province,AS,CN
+303426,CN-15,Inner Mongolia Autonomous Region,AS,CN
+303427,CN-21,Liaoning Province,AS,CN
+303428,CN-22,Jilin Province,AS,CN
+303429,CN-23,Heilongjiang Province,AS,CN
+303430,CN-31,Shanghai Municipality,AS,CN
+303431,CN-32,Jiangsu Province,AS,CN
+303432,CN-33,Zhejiang Province,AS,CN
+303433,CN-34,Anhui Province,AS,CN
+303434,CN-35,Fujian Province,AS,CN
+303435,CN-36,Jiangxi Province,AS,CN
+303436,CN-37,Shandong Province,AS,CN
+303437,CN-41,Henan Province,AS,CN
+303438,CN-42,Hubei Province,AS,CN
+303439,CN-43,Hunan Province,AS,CN
+303440,CN-44,Guangdong Province,AS,CN
+303441,CN-45,Guangxi Autonomous Region,AS,CN
+303442,CN-46,Hainan Province,AS,CN
+303443,CN-50,Chongqing Municipality,AS,CN
+303444,CN-51,Sichuan Province,AS,CN
+303445,CN-52,Guizhou Province,AS,CN
+303446,CN-53,Yunnan Province,AS,CN
+303447,CN-54,Tibet Autonomous Region,AS,CN
+303448,CN-61,Shaanxi Province,AS,CN
+303449,CN-62,Gansu Province,AS,CN
+303450,CN-63,Qinghai Province,AS,CN
+303451,CN-64,Ningxia Autonomous Region,AS,CN
+303452,CN-65,Xinjiang Autonomous Region,AS,CN
+303453,CN-71,Taiwan (disputed),AS,CN
+303454,CN-91,Hong Kong Special Administrative Region,AS,CN
+303455,CN-92,Macau Special Administrative Region,AS,CN
+303457,CO-AMA,Amazonas Department,SA,CO
+303458,CO-ANT,Antioquía Department,SA,CO
+303459,CO-ARA,Arauca Department,SA,CO
+303460,CO-ATL,Atlántico Department,SA,CO
+303461,CO-BOL,Bolívar Department,SA,CO
+303462,CO-BOY,Boyacá Department,SA,CO
+303463,CO-CAL,Caldas Department,SA,CO
+303464,CO-CAQ,Caquetá Department,SA,CO
+303465,CO-CAS,Casanare Department,SA,CO
+303466,CO-CAU,Cauca Department,SA,CO
+303467,CO-CES,César Department,SA,CO
+303468,CO-CHO,Chocó Department,SA,CO
+303469,CO-COR,Córdoba Department,SA,CO
+303470,CO-CUN,Cundinamarca Department,SA,CO
+303471,CO-DC,Distrito Capital de Bogotá Department,SA,CO
+303472,CO-GUA,Guainía Department,SA,CO
+303473,CO-GUV,Guaviare Department,SA,CO
+303474,CO-HUI,Huila Department,SA,CO
+303475,CO-LAG,La Guajira Department,SA,CO
+303476,CO-MAG,Magdalena Department,SA,CO
+303477,CO-MET,Meta Department,SA,CO
+303478,CO-NAR,Nariño Department,SA,CO
+303479,CO-NSA,Norte de Santander Department,SA,CO
+303480,CO-PUT,Putumayo Department,SA,CO
+303481,CO-QUI,Quindio Department,SA,CO
+303482,CO-RIS,Risaralda Department,SA,CO
+303483,CO-SAN,Santander Department,SA,CO
+303484,CO-SAP,"San Andrés, Providencia y Santa Catalina Department",SA,CO
+303485,CO-SUC,Sucre Department,SA,CO
+303486,CO-TOL,Tolima Department,SA,CO
+303488,CO-VAC,Valle del Cauca Department,SA,CO
+303489,CO-VAU,Vaupés Department,SA,CO
+303490,CO-VID,Vichada Department,SA,CO
+303491,CR-A,Alajuela,NA,CR
+303492,CR-C,Cartago,NA,CR
+303493,CR-G,Guanacaste,NA,CR
+303494,CR-H,Heredia,NA,CR
+303495,CR-L,Limon,NA,CR
+303496,CR-P,Puntarenas,NA,CR
+303497,CR-SJ,San Jose,NA,CR
+303499,CU-01,Pinar del Río Province,NA,CU
+303501,CU-03,La Habana Province,NA,CU
+303502,CU-04,Matanzas Province,NA,CU
+303503,CU-05,Villa Clara Province,NA,CU
+303504,CU-06,Cienfuegos Province,NA,CU
+303505,CU-07,Sancti Spíritus,NA,CU
+303506,CU-08,Ciego de Ávila Province,NA,CU
+303507,CU-09,Camagüey Province,NA,CU
+303508,CU-10,Las Tunas Province,NA,CU
+303509,CU-11,Holguín Province,NA,CU
+303510,CU-12,Granma Province,NA,CU
+303511,CU-13,Santiago de Cuba Province,NA,CU
+303512,CU-14,Guantánamo Province,NA,CU
+303500,CU-15,Artemesia Province,NA,CU
+336473,CU-16,Mayabeque Province,NA,CU
+303513,CU-99,Isla de la Juventud (special municipality),NA,CU
+303522,CV-B,Barlavento Islands,AF,CV
+303521,CV-S,Sotavento Islands,AF,CV
+303525,CY-01,Kyrenia District,AS,CY
+303526,CY-02,Nicosia District,AS,CY
+303527,CY-03,Famagusta District,AS,CY
+303528,CY-04,Larnarca District,AS,CY
+303529,CY-05,Limassol District,AS,CY
+303530,CY-06,Paphos District,AS,CY
+303532,CZ-JC,South Bohemian Region,EU,CZ
+303533,CZ-JM,South Moravian Region,EU,CZ
+303534,CZ-KA,Carlsbad Region,EU,CZ
+303535,CZ-KR,Hradec Králové Region,EU,CZ
+303536,CZ-LI,Liberec Region,EU,CZ
+303537,CZ-MO,Moravian-Silesian Region,EU,CZ
+303538,CZ-OL,Olomouc Region,EU,CZ
+303539,CZ-PA,Pardubice Region,EU,CZ
+303540,CZ-PL,Plzeň Region,EU,CZ
+303541,CZ-PR,Prague (capital city),EU,CZ
+303542,CZ-ST,Central Bohemian Region,EU,CZ
+303544,CZ-US,Ústí nad Labem Region,EU,CZ
+303545,CZ-VY,Vysočina Region,EU,CZ
+303546,CZ-ZL,Zlin Region,EU,CZ
+303548,DE-BE,Berlin,EU,DE
+303547,DE-BR,Brandenburg,EU,DE
+303549,DE-BW,Baden-Württemberg,EU,DE
+303550,DE-BY,Bavaria,EU,DE
+303551,DE-HB,Bremen,EU,DE
+303552,DE-HE,Hesse,EU,DE
+303553,DE-HH,Hamburg,EU,DE
+303554,DE-MV,Mecklenburg-Vorpommern,EU,DE
+303555,DE-NI,Lower Saxony,EU,DE
+303556,DE-NW,North Rhine-Westphalia,EU,DE
+303557,DE-RP,Rhineland-Palatinate,EU,DE
+303558,DE-SH,Schleswig-Holstein,EU,DE
+303559,DE-SL,Saarland,EU,DE
+303560,DE-SN,Saxony,EU,DE
+303561,DE-ST,Saxony-Anhalt,EU,DE
+303562,DE-TH,Thuringia,EU,DE
+306331,DJ-AR,Arta,AF,DJ
+303564,DJ-AS,Ali Sabiah,AF,DJ
+303565,DJ-DI,Dikhil,AF,DJ
+303566,DJ-DJ,Djibouti,AF,DJ
+303567,DJ-OB,Obock,AF,DJ
+303568,DJ-TA,Tadjoura,AF,DJ
+306329,DK-81,North Jutland,EU,DK
+306328,DK-82,Central Jutland,EU,DK
+306327,DK-83,South Denmark,EU,DK
+306326,DK-84,Capital Region,EU,DK
+306325,DK-85,Zealand,EU,DK
+306401,DM-02,Saint Andrew Parish,NA,DM
+306400,DM-03,Saint David Parish,NA,DM
+306399,DM-04,Saint George Parish,NA,DM
+306398,DM-05,Saint John Parish,NA,DM
+306397,DM-06,Saint Joseph Parish,NA,DM
+306396,DM-07,Saint Luke Parish,NA,DM
+306395,DM-08,Saint Mark Parish,NA,DM
+306394,DM-09,Saint Patrick Parish,NA,DM
+306393,DM-10,Saint Paul Parish,NA,DM
+306392,DM-11,Saint Peter Parish,NA,DM
+303572,DO-01,Distrito Nacional,NA,DO
+303573,DO-02,Azua Province,NA,DO
+303574,DO-03,Baoruco Province,NA,DO
+303575,DO-04,Barahona Province,NA,DO
+303576,DO-05,Dajabón Province,NA,DO
+303577,DO-06,Duarte Province,NA,DO
+303578,DO-07,Elías Piña Province,NA,DO
+303579,DO-08,El Seybo Province,NA,DO
+303580,DO-09,Espaillat Province,NA,DO
+303581,DO-10,Independencia Province,NA,DO
+303582,DO-11,La Altagracia Province,NA,DO
+303583,DO-12,La Romana Province,NA,DO
+303584,DO-13,La Vega Province,NA,DO
+303585,DO-14,María Trinidad Sánchez Province,NA,DO
+303586,DO-15,Monte Cristi Province,NA,DO
+303587,DO-16,Pedernales Province,NA,DO
+303588,DO-17,Peravia Province,NA,DO
+303589,DO-18,Puerto Plata Province,NA,DO
+303590,DO-19,Hermanas Mirabal Province,NA,DO
+303591,DO-20,Samaná Province,NA,DO
+303592,DO-21,San Cristóbal Province,NA,DO
+303593,DO-22,San Juan Province,NA,DO
+303594,DO-23,San Pedro de Macorís Province,NA,DO
+303595,DO-24,Sánchez Ramírez Province,NA,DO
+303596,DO-25,Santiago de los Caballeros Province,NA,DO
+303597,DO-26,Santiago Rodríguez Province,NA,DO
+303598,DO-27,Valverde Province,NA,DO
+303599,DO-28,Monseñor Nouel Province,NA,DO
+303600,DO-29,Monte Plata Province,NA,DO
+303601,DO-30,Hato Mayor Province,NA,DO
+303603,DZ-01,Adrar Province,AF,DZ
+303604,DZ-02,Chlef Province,AF,DZ
+303605,DZ-03,Laghouat Province,AF,DZ
+303606,DZ-04,Oum el Bouaghi Province,AF,DZ
+303607,DZ-05,Batna Province,AF,DZ
+303608,DZ-06,Béjaïa Province,AF,DZ
+303609,DZ-07,Biskra Province,AF,DZ
+303610,DZ-08,Béchar Province,AF,DZ
+303611,DZ-09,Blida Province,AF,DZ
+303612,DZ-10,Bouira Province,AF,DZ
+303613,DZ-11,Tamanghasset Province,AF,DZ
+303614,DZ-12,Tébessa Province,AF,DZ
+303615,DZ-13,Tlemcen Province,AF,DZ
+303616,DZ-14,Tiaret Province,AF,DZ
+303617,DZ-15,Tizi Ouzou Province,AF,DZ
+303618,DZ-16,Algiers Province,AF,DZ
+303619,DZ-17,Djelfa Province,AF,DZ
+303620,DZ-18,Jijel Province,AF,DZ
+303621,DZ-19,Sétif Province,AF,DZ
+303622,DZ-20,Saïda Province,AF,DZ
+303623,DZ-21,Skikda Province,AF,DZ
+303624,DZ-22,Sidi Bel Abbes Province,AF,DZ
+303625,DZ-23,Annaba Province,AF,DZ
+303626,DZ-24,Guelma Province,AF,DZ
+303627,DZ-25,Constantine Province,AF,DZ
+303628,DZ-26,Médéa Province,AF,DZ
+303629,DZ-27,Mostaganem Province,AF,DZ
+303630,DZ-28,M'Sila Province,AF,DZ
+303631,DZ-29,Mascara Province,AF,DZ
+303632,DZ-30,Ouargla Province,AF,DZ
+303633,DZ-31,Oran Province,AF,DZ
+303634,DZ-32,El Bayadh Province,AF,DZ
+303635,DZ-33,Illizi Province,AF,DZ
+303636,DZ-34,Bordj Bou Arréridj Province,AF,DZ
+303637,DZ-35,Boumerdès Province,AF,DZ
+303638,DZ-36,El Tarf Province,AF,DZ
+303639,DZ-37,Tindouf Province,AF,DZ
+303640,DZ-38,Tissemsilt Province,AF,DZ
+303641,DZ-39,El Oued Province,AF,DZ
+303642,DZ-40,Khenchela Province,AF,DZ
+303643,DZ-41,Souk Ahras Province,AF,DZ
+303644,DZ-42,Tipaza Province,AF,DZ
+303645,DZ-43,Mila Province,AF,DZ
+303646,DZ-44,Aïn Defla Province,AF,DZ
+303647,DZ-45,Naama Province,AF,DZ
+303648,DZ-46,Aïn Témouchent Province,AF,DZ
+303649,DZ-47,Ghardaïa Province,AF,DZ
+303650,DZ-48,Relizane Province,AF,DZ
+303652,EC-A,Azuay Province,SA,EC
+303653,EC-B,Bolivar Province,SA,EC
+303654,EC-C,Carchi Province,SA,EC
+303655,EC-D,Orellana Province,SA,EC
+303656,EC-E,Esmeraldas Province,SA,EC
+303657,EC-F,Canar Province,SA,EC
+303658,EC-G,Guayas Province,SA,EC
+303659,EC-H,Chimborazo Province,SA,EC
+303660,EC-I,Imbabura Province,SA,EC
+303661,EC-L,Loja Province,SA,EC
+303662,EC-M,Manabi Province,SA,EC
+303663,EC-N,Napo Province,SA,EC
+303664,EC-O,El Oro Province,SA,EC
+303665,EC-P,Pichincha Province,SA,EC
+303666,EC-R,Los Rios Province,SA,EC
+303667,EC-S,Morona-Santiago Province,SA,EC
+303668,EC-T,Tungurahua Province,SA,EC
+303669,EC-U,Sucumbios Province,SA,EC
+303671,EC-W,Galapagos Province,SA,EC
+303672,EC-X,Cotopaxi Province,SA,EC
+303673,EC-Y,Pastaza Province,SA,EC
+303674,EC-Z,Zamora-Chinchipe Province,SA,EC
+303675,EE-37,Harju County,EU,EE
+303676,EE-39,Hiiu County,EU,EE
+303677,EE-44,Ida-Viru County,EU,EE
+303678,EE-49,Jõgeva County,EU,EE
+303679,EE-51,Järva County,EU,EE
+303680,EE-57,Lääne County,EU,EE
+303681,EE-59,Lääne-Viru County,EU,EE
+303682,EE-65,Põlva County,EU,EE
+303683,EE-67,Pärnu County,EU,EE
+303684,EE-70,Rapla County,EU,EE
+303685,EE-74,Saare County,EU,EE
+303686,EE-7B,Tartu County,EU,EE
+303687,EE-82,Valga County,EU,EE
+303688,EE-84,Viljandi County,EU,EE
+303689,EE-86,Võru County,EU,EE
+303691,EG-ALX,Alexandria Governorate,AF,EG
+303692,EG-ASN,Aswan Governorate,AF,EG
+303693,EG-AST,Asyut Governorate,AF,EG
+303694,EG-BA,Red Sea Governorate,AF,EG
+303695,EG-BH,Beheira Governorate,AF,EG
+303696,EG-BNS,Beni Suef Governorate,AF,EG
+303697,EG-C,Cairo Governorate,AF,EG
+303698,EG-DK,Dakahlia Governorate,AF,EG
+303699,EG-DT,Damietta Governorate,AF,EG
+303700,EG-FYM,Faiyum Governorate,AF,EG
+303701,EG-GH,Gharbia Governorate,AF,EG
+303702,EG-GZ,Giza Governorate,AF,EG
+303703,EG-IS,Ismailia Governorate,AF,EG
+303704,EG-JS,South Sinai Governorate,AF,EG
+303705,EG-KB,Qalyubia Governorate,AF,EG
+303706,EG-KFS,Kafr el-Sheikh Governorate,AF,EG
+303707,EG-KN,Qena Governorate,AF,EG
+303708,EG-MN,Minya Governorate,AF,EG
+303709,EG-MNF,Monufia Governorate,AF,EG
+303710,EG-MT,Matruh Governorate,AF,EG
+303711,EG-PTS,Port Said Governorate,AF,EG
+303712,EG-SHG,Sohag Governorate,AF,EG
+303713,EG-SHR,Sharqia Governorate,AF,EG
+303714,EG-SIN,North Sinai Governorate,AF,EG
+303715,EG-SUZ,Suez Governorate,AF,EG
+303717,EG-WAD,New Valley Governorate,AF,EG
+303719,ER-AN,Anseba,AF,ER
+303720,ER-DK,Debubawi Keyih Bahri,AF,ER
+303721,ER-DU,Debub,AF,ER
+303722,ER-GB,Gash-Barka,AF,ER
+303723,ER-MA,Maakel,AF,ER
+303724,ER-SK,Semenawi Keyih Bahri,AF,ER
+303726,ES-A,Alicante,EU,ES
+303727,ES-AB,Albacete,EU,ES
+303728,ES-AL,Almería,EU,ES
+303729,ES-AN,Andalucía,EU,ES
+303730,ES-AR,Aragón,EU,ES
+303731,ES-AV,Ávila,EU,ES
+303732,ES-B,Barcelona,EU,ES
+303733,ES-BA,Badajoz,EU,ES
+303734,ES-BI,Vizcaya,EU,ES
+303735,ES-BU,Burgos,EU,ES
+303736,ES-C,La Coruña,EU,ES
+303737,ES-CA,Cádiz,EU,ES
+303738,ES-CC,Cáceres,EU,ES
+303739,ES-CE,Ceuta,EU,ES
+303740,ES-CL,Castilla y León,EU,ES
+303741,ES-CM,Castilla-La Mancha,EU,ES
+303742,ES-CN,Canary Islands,EU,ES
+303743,ES-CR,Ciudad Real,EU,ES
+303744,ES-CS,Castellón,EU,ES
+303745,ES-CT,Catalonia,EU,ES
+303746,ES-CU,Cuenca,EU,ES
+303747,ES-EX,Extremadura,EU,ES
+303748,ES-GA,Galicia,EU,ES
+303749,ES-GC,Las Palmas,EU,ES
+303750,ES-GE,Girona,EU,ES
+303751,ES-GR,Granada,EU,ES
+303752,ES-GU,Guadalajara,EU,ES
+303753,ES-H,Huelva,EU,ES
+303754,ES-HU,Huesca,EU,ES
+303755,ES-IB,Baleares,EU,ES
+303756,ES-J,Jaén,EU,ES
+303757,ES-L,Lleida,EU,ES
+303758,ES-LE,León,EU,ES
+303759,ES-LO,La Rioja,EU,ES
+303760,ES-LU,Lugo,EU,ES
+303761,ES-M,Madrid,EU,ES
+303762,ES-MA,Málaga,EU,ES
+303763,ES-ML,Melilla,EU,ES
+303764,ES-MU,Murcia,EU,ES
+303765,ES-NA,Navarra,EU,ES
+303766,ES-O,Asturias,EU,ES
+303767,ES-OR,Ourense,EU,ES
+303768,ES-P,Palencia,EU,ES
+303769,ES-PM,Baleares,EU,ES
+303770,ES-PO,Pontevedra,EU,ES
+303771,ES-PV,Basque Country,EU,ES
+303772,ES-S,Cantabria,EU,ES
+303773,ES-SA,Salamanca,EU,ES
+303774,ES-SE,Sevilla,EU,ES
+303775,ES-SG,Segovia,EU,ES
+303776,ES-SO,Soria,EU,ES
+303777,ES-SS,Guipúzcoa,EU,ES
+303778,ES-T,Tarragona,EU,ES
+303779,ES-TE,Teruel,EU,ES
+303780,ES-TF,Santa Cruz de Tenerife,EU,ES
+303782,ES-V,Valencia,EU,ES
+303783,ES-VA,Valladolid,EU,ES
+303784,ES-VI,Álava,EU,ES
+303785,ES-Z,Zaragoza,EU,ES
+303786,ES-ZA,Zamora,EU,ES
+303787,ET-AA,Addis Ababa,AF,ET
+303788,ET-AF,Afar Region,AF,ET
+303789,ET-AM,Amhara Region,AF,ET
+303790,ET-BE,Benishangul-Gumuz Region,AF,ET
+303791,ET-DD,Dire Dawa,AF,ET
+303792,ET-GA,Gambela Region,AF,ET
+303793,ET-HA,Harari Region,AF,ET
+303794,ET-OR,Oromia Region,AF,ET
+303795,ET-SN,"Southern Nations, Nationalities, and Peoples' Region",AF,ET
+303796,ET-SO,Somali Region,AF,ET
+303797,ET-TI,Tigray Region,AF,ET
+336998,ET-XSD,Sidama Region,AF,ET
+303799,FI-01,Åland Islands Region,EU,FI
+336503,FI-02,South Karelia Region,EU,FI
+336504,FI-03,South Ostrobothnia Region,EU,FI
+336505,FI-04,Southern Savonia Region,EU,FI
+336506,FI-05,Kainuu Region,EU,FI
+336507,FI-06,Kanta-Häme Region,EU,FI
+336508,FI-07,Central Ostrobothnia Region,EU,FI
+336509,FI-08,Central Finland Region,EU,FI
+336510,FI-09,Kymenlaakso Region,EU,FI
+303802,FI-10,Lapland Region,EU,FI
+336512,FI-11,Pirkanmaa Region,EU,FI
+336513,FI-12,Ostrobothnia Region,EU,FI
+336514,FI-13,North Karelia Region,EU,FI
+336515,FI-14,North Ostrobothnia Region,EU,FI
+336516,FI-15,Northern Savonia Region,EU,FI
+336517,FI-16,Päijät-Häme Region,EU,FI
+336518,FI-17,Satakunta Region,EU,FI
+336519,FI-18,Uusimaa Region,EU,FI
+336520,FI-19,Southwest Finland Region,EU,FI
+303806,FJ-C,Central,OC,FJ
+303807,FJ-E,Eastern,OC,FJ
+303808,FJ-N,Northern,OC,FJ
+303809,FJ-R,Rotuma,OC,FJ
+303811,FJ-W,Western,OC,FJ
+303813,FM-KSA,Kosrae State,OC,FM
+303814,FM-PNI,Pohnpei State,OC,FM
+303815,FM-TRK,Chuuk State,OC,FM
+303817,FM-YAP,Yap State,OC,FM
+306351,FR-ARA,Auvergne-Rhône-Alpes,EU,FR
+306350,FR-BFC,Bourgogne-Franche-Comté,EU,FR
+306348,FR-BRE,Brittany,EU,FR
+306345,FR-COR,Corsica,EU,FR
+306347,FR-CVL,Centre-Val de Loire,EU,FR
+306353,FR-GES,Grand Est,EU,FR
+306337,FR-HDF,Hauts-de-France,EU,FR
+306342,FR-IDF,Île-de-France,EU,FR
+306352,FR-NAQ,Nouvelle-Aquitaine,EU,FR
+306343,FR-NOR,Normandy,EU,FR
+306341,FR-OCC,Occitanie,EU,FR
+306333,FR-PAC,Provence-Alpes-Côte-d'Azur,EU,FR
+306336,FR-PDL,Pays-de-la-Loire,EU,FR
+303820,GA-1,Estuaire Province,AF,GA
+303821,GA-2,Haut-Ogooué Province,AF,GA
+303822,GA-3,Moyen-Ogooué Province,AF,GA
+303823,GA-4,Ngounié Province,AF,GA
+303824,GA-5,Nyanga Province,AF,GA
+303825,GA-6,Ogooué-Ivindo Province,AF,GA
+303826,GA-7,Ogooué-Lolo Province,AF,GA
+303827,GA-8,Ogooué-Maritime Province,AF,GA
+303828,GA-9,Woleu-Ntem Province,AF,GA
+306374,GB-ENG,England,EU,GB
+306375,GB-NIR,Northern Ireland,EU,GB
+306377,GB-SCT,Scotland,EU,GB
+306376,GB-WLS,Wales,EU,GB
+303831,GD-AN,Saint Andrew,NA,GD
+303832,GD-DA,Saint David,NA,GD
+303833,GD-GE,Saint George,NA,GD
+303834,GD-JO,Saint John,NA,GD
+303835,GD-MA,Saint Mark,NA,GD
+303836,GD-PA,Saint Patrick,NA,GD
+306412,GE-AB,Autonomous Republic of Abkhazia,AS,GE
+306411,GE-AJ,Autonomous Republic of Adjara,AS,GE
+306410,GE-GU,Guria,AS,GE
+306409,GE-IM,Imereti,AS,GE
+306408,GE-KA,Kakheti,AS,GE
+306407,GE-KK,Kvemo Kartli,AS,GE
+306406,GE-MM,Mtskheta-Mtianeti,AS,GE
+306405,GE-RL,Racha-Lechkhumi and Kvemo Svaneti,AS,GE
+306404,GE-SJ,Samtskhe-Javakheti,AS,GE
+306403,GE-SK,Shida Kartli,AS,GE
+306756,GE-SZ,Samegrelo-Zemo Svaneti,AS,GE
+306402,GE-TB,Tbilisi,AS,GE
+306381,GF-CY,Cayenne,SA,GF
+306380,GF-SL,Saint-Laurent-du-Maroni,SA,GF
+303841,GH-AA,Greater Accra Region,AF,GH
+303842,GH-AH,Ashanti Region,AF,GH
+303843,GH-BA,Brong-Ahafo Region,AF,GH
+303844,GH-CP,Central Region,AF,GH
+303845,GH-EP,Eastern Region,AF,GH
+303846,GH-NP,Northern Region,AF,GH
+303847,GH-TV,Volta Region,AF,GH
+303849,GH-UE,Upper East Region,AF,GH
+303850,GH-UW,Upper West Region,AF,GH
+303851,GH-WP,Western Region,AF,GH
+303854,GM-B,Banjul City,AF,GM
+303855,GM-C,Central River Division,AF,GM
+303856,GM-L,Lower River Division,AF,GM
+303858,GM-N,North Bank Division,AF,GM
+303859,GM-U,Upper River Division,AF,GM
+303861,GM-W,Western Division,AF,GM
+316858,GN-B,Boké Region,AF,GN
+306775,GN-C,Conakry Special Zone,AF,GN
+316861,GN-D,Kindia Region,AF,GN
+316859,GN-F,Faranah Region,AF,GN
+316860,GN-K,Kankan Region,AF,GN
+316862,GN-L,Labé Region,AF,GN
+316863,GN-M,Mamou Region,AF,GN
+316864,GN-N,Nzérékoré Region,AF,GN
+303897,GQ-AN,Annobon,AF,GQ
+303898,GQ-BN,Bioko Norte,AF,GQ
+303899,GQ-BS,Bioko Sur,AF,GQ
+303900,GQ-C,Region Continental,AF,GQ
+303901,GQ-CS,Centro Sur,AF,GQ
+303902,GQ-I,Region Insular,AF,GQ
+303903,GQ-KN,Kie-Ntem,AF,GQ
+303904,GQ-LI,Litoral,AF,GQ
+303906,GQ-WN,Wele-Nzas,AF,GQ
+303907,GR-01,Aetolia-Acarnania,EU,GR
+303908,GR-03,Boeotia,EU,GR
+303909,GR-04,Euboea,EU,GR
+303910,GR-05,Evrytania,EU,GR
+303911,GR-06,Phthiotis,EU,GR
+303912,GR-07,Phocis,EU,GR
+303913,GR-11,Argolis,EU,GR
+303914,GR-12,Arcadia,EU,GR
+303915,GR-13,Achaea,EU,GR
+303916,GR-14,Ilia,EU,GR
+303917,GR-15,Corinthia,EU,GR
+303918,GR-16,Laconia,EU,GR
+303919,GR-17,Messinia,EU,GR
+303920,GR-21,Zakynthos,EU,GR
+303921,GR-22,Corfu,EU,GR
+303922,GR-23,Kefallinia,EU,GR
+303923,GR-24,Lefkada,EU,GR
+303924,GR-31,Arta,EU,GR
+303925,GR-32,Thesprotia,EU,GR
+303926,GR-33,Ioannina,EU,GR
+303927,GR-34,Preveza,EU,GR
+303928,GR-41,Karditsa,EU,GR
+303929,GR-42,Larissa,EU,GR
+303930,GR-43,Magnesia,EU,GR
+303931,GR-44,Trikala,EU,GR
+303932,GR-51,Grevena,EU,GR
+303933,GR-52,Drama,EU,GR
+303934,GR-53,Imathia,EU,GR
+303935,GR-54,Thessaloniki,EU,GR
+303936,GR-55,Kavala,EU,GR
+303937,GR-56,Kastoria,EU,GR
+303938,GR-57,Kilkis,EU,GR
+303939,GR-58,Kozani,EU,GR
+303940,GR-59,Pella,EU,GR
+303941,GR-62,Serres,EU,GR
+303942,GR-63,Florina,EU,GR
+303943,GR-64,Chalcidice,EU,GR
+303944,GR-69,Mount Athos,EU,GR
+303945,GR-71,Evros,EU,GR
+303946,GR-72,Xanthi,EU,GR
+303947,GR-73,Rhodope,EU,GR
+303948,GR-81,Dodecanese,EU,GR
+303949,GR-82,Cyclades,EU,GR
+303950,GR-83,Lesbos,EU,GR
+303951,GR-84,Samos,EU,GR
+303952,GR-85,Chios,EU,GR
+303953,GR-91,Irakleion,EU,GR
+303954,GR-92,Lasithion,EU,GR
+303955,GR-93,Rethymnon,EU,GR
+303956,GR-94,Chania,EU,GR
+303957,GR-A1,Attica,EU,GR
+303960,GT-AV,Alta Verapez Department,NA,GT
+303961,GT-BV,Baja Verapez Department,NA,GT
+303962,GT-CM,Chimaltenango Department,NA,GT
+303963,GT-CQ,Chiquimula Department,NA,GT
+303964,GT-ES,Escuintla Department,NA,GT
+303965,GT-GU,Guatemala Department,NA,GT
+303966,GT-HU,Huehuetenango Department,NA,GT
+303967,GT-IZ,Izabal Department,NA,GT
+303968,GT-JA,Jalapa Department,NA,GT
+303969,GT-JU,Jutiapa Department,NA,GT
+303970,GT-PE,Petén Department,NA,GT
+303971,GT-PR,El Progreso Department,NA,GT
+303972,GT-QC,Quiché Department,NA,GT
+303973,GT-QZ,Quetzaltenango Department,NA,GT
+303974,GT-RE,Retalhuleu Department,NA,GT
+303975,GT-SA,Sacatepéquez Department,NA,GT
+303976,GT-SM,San Marcos Department,NA,GT
+303977,GT-SO,Sololá Department,NA,GT
+303978,GT-SR,Santa Rosa Department,NA,GT
+303979,GT-SU,Suchitepéquez Department,NA,GT
+303980,GT-TO,Totonicap'an Department,NA,GT
+303982,GT-ZA,Zacapa Department,NA,GT
+303984,GW-BA,Bafatá Region,AF,GW
+303985,GW-BL,Bolama Region,AF,GW
+303986,GW-BM,Biombo Region,AF,GW
+303987,GW-BS,Bissau Autonomous Sector,AF,GW
+303988,GW-CA,Cacheu Region,AF,GW
+303989,GW-GA,Gabu Region,AF,GW
+303990,GW-OI,Oio Region,AF,GW
+303991,GW-QU,Quloara Region,AF,GW
+303992,GW-TO,Tombali Region,AF,GW
+303994,GY-BA,Barima-Waini,SA,GY
+303995,GY-CU,Cuyuni-Mazaruni,SA,GY
+303996,GY-DE,Demerara-Mahaica,SA,GY
+303997,GY-EB,East Berbice-Corentyne,SA,GY
+303998,GY-ES,Essequibo Islands-West Demerara,SA,GY
+303999,GY-MA,Mahaica-Berbice,SA,GY
+304000,GY-PM,Pomeroon-Supenaam,SA,GY
+304001,GY-PT,Potaro-Siparuni,SA,GY
+304003,GY-UD,Upper Demerara-Berbice,SA,GY
+304004,GY-UT,Upper Takutu-Upper Essequibo,SA,GY
+304006,HN-AT,Atlántida Department,NA,HN
+304007,HN-CH,Choluteca Department,NA,HN
+304008,HN-CL,Colón Department,NA,HN
+304009,HN-CM,Comayagua Department,NA,HN
+304010,HN-CP,Copán Department,NA,HN
+304011,HN-CR,Cortés Department,NA,HN
+304012,HN-EP,El Paraíso Department,NA,HN
+304013,HN-FM,Francisco Morazán Department,NA,HN
+304014,HN-GD,Gracias a Dios Department,NA,HN
+304015,HN-IB,Islas de la Bahía Department,NA,HN
+304016,HN-IN,Intibucá Department,NA,HN
+304017,HN-LE,Lempira Department,NA,HN
+304018,HN-LP,La Paz Department,NA,HN
+304019,HN-OC,Ocotepeque Department,NA,HN
+304020,HN-OL,Olancho Department,NA,HN
+304021,HN-SB,Santa Bárbara Department,NA,HN
+304023,HN-VA,Valle Department,NA,HN
+304024,HN-YO,Yoro Department,NA,HN
+304025,HR-01,Zagreb County,EU,HR
+304026,HR-02,Krapina-Zagorje County,EU,HR
+304027,HR-03,Sisak-Moslavina County,EU,HR
+304028,HR-04,Karlovac County,EU,HR
+304029,HR-05,Varaždin County,EU,HR
+304030,HR-06,Koprivnica-Križevci County,EU,HR
+304031,HR-07,Bjelovar-Bilogora County,EU,HR
+304032,HR-08,Primorje-Gorski Kotar County,EU,HR
+304033,HR-09,Lika-Senj County,EU,HR
+304034,HR-10,Virovitica-Podravina County,EU,HR
+304035,HR-11,Požega-Slavonia County,EU,HR
+304036,HR-12,Brod-Posavina County,EU,HR
+304037,HR-13,Zadar County,EU,HR
+304038,HR-14,Osijek-Baranja County,EU,HR
+304039,HR-15,Šibenik-Knin County,EU,HR
+304040,HR-16,Vukovar-Srijem County,EU,HR
+304041,HR-17,Split-Dalmatia County,EU,HR
+304042,HR-18,Istria County,EU,HR
+304043,HR-19,Dubrovnik-Neretva County,EU,HR
+304044,HR-20,Međimurje County,EU,HR
+306726,HR-21,Zagreb (city),EU,HR
+306747,HT-AR,Artibonite Department,NA,HT
+304046,HT-CE,Centre Department,NA,HT
+304047,HT-GA,Grande'Anse Department,NA,HT
+304048,HT-ND,Nord Department,NA,HT
+304049,HT-NE,Nord-Est Department,NA,HT
+306746,HT-NI,Nippes Department,NA,HT
+304050,HT-NO,Nord-Ouest Department,NA,HT
+304051,HT-OU,Ouest Department,NA,HT
+304052,HT-SD,Sud Department,NA,HT
+304053,HT-SE,Sud-Est Department,NA,HT
+304055,HU-BA,Baranya,EU,HU
+304056,HU-BC,Békéscsaba,EU,HU
+304057,HU-BE,Békés,EU,HU
+304058,HU-BK,Bács-Kiskun,EU,HU
+304059,HU-BU,Budapest,EU,HU
+304060,HU-BZ,Borsod-Abaúj-Zemplén,EU,HU
+304061,HU-CS,Csongrád,EU,HU
+304062,HU-DE,Debrecen,EU,HU
+304063,HU-DU,Dunaújváros,EU,HU
+304064,HU-EG,Eger,EU,HU
+304065,HU-FE,Fejér,EU,HU
+304066,HU-GS,Győr-Moson-Sopron,EU,HU
+304067,HU-GY,Győr,EU,HU
+304068,HU-HB,Hajdu-Bihar,EU,HU
+304069,HU-HE,Heves,EU,HU
+304070,HU-HV,Hódmezővásárhely,EU,HU
+304071,HU-JN,Jász-Nagykun-Szolnok,EU,HU
+304072,HU-KE,Komárom-Esztergom,EU,HU
+304073,HU-KM,Kecskemét,EU,HU
+304074,HU-KV,Kaposvár,EU,HU
+304075,HU-MI,Miskolc,EU,HU
+304076,HU-NK,Nagykanizsa,EU,HU
+304077,HU-NO,Nográd,EU,HU
+304078,HU-NY,Nyiregyháza,EU,HU
+304079,HU-PE,Pest,EU,HU
+304080,HU-PS,Pécs,EU,HU
+304081,HU-SD,Szeged,EU,HU
+304082,HU-SF,Székesfehérvár,EU,HU
+304083,HU-SH,Szombathely,EU,HU
+304084,HU-SK,Szolnok,EU,HU
+304085,HU-SN,Sopron,EU,HU
+304086,HU-SO,Somogy,EU,HU
+304087,HU-SS,Szekszárd,EU,HU
+304088,HU-ST,Salgótarján,EU,HU
+304089,HU-SZ,Szabolcs-Szatmár-Bereg,EU,HU
+304090,HU-TB,Tatabánya,EU,HU
+304091,HU-TO,Tolna,EU,HU
+304093,HU-VA,Vas,EU,HU
+304094,HU-VE,Veszprém,EU,HU
+304095,HU-ZA,Zala,EU,HU
+304096,HU-ZE,Zalaegerszeg,EU,HU
+304097,ID-AC,Aceh,AS,ID
+304098,ID-BA,Bali,AS,ID
+304099,ID-BB,Bangka Belitung,AS,ID
+304100,ID-BE,Bengkulu,AS,ID
+304101,ID-BT,Banten,AS,ID
+304102,ID-GO,Gorontalo,AS,ID
+304104,ID-JA,Jambi,AS,ID
+304105,ID-JB,Jawa Barat,AS,ID
+304106,ID-JI,Jawa Timur,AS,ID
+304107,ID-JK,Jakarta Raya,AS,ID
+304108,ID-JT,Jawa Tengah,AS,ID
+304109,ID-KB,Kalimantan Barat,AS,ID
+306379,ID-KI,East Kalimantan,AS,ID
+304110,ID-KR,Kepulauan Riau,AS,ID
+304111,ID-KS,Kalimantan Selatan,AS,ID
+304112,ID-KT,Central Kalimantan,AS,ID
+316679,ID-KU,North Kalimantan,AS,ID
+304113,ID-LA,Lampung,AS,ID
+304114,ID-MA,Maluku,AS,ID
+304115,ID-MU,Maluku Utara,AS,ID
+304116,ID-NB,Nusa Tenggara Barat,AS,ID
+304117,ID-NT,Nusa Tenggara Timur,AS,ID
+304118,ID-PA,Papua,AS,ID
+304103,ID-PB,West Papua,AS,ID
+304119,ID-RI,Riau,AS,ID
+304120,ID-SA,Sulawesi Utara,AS,ID
+304121,ID-SB,Sumatra Barat,AS,ID
+304122,ID-SG,Sulawesi Tenggara,AS,ID
+304123,ID-SN,Sulawesi Selatan,AS,ID
+304124,ID-SS,Sumatra Selatan,AS,ID
+304125,ID-ST,Sulawesi Tengah,AS,ID
+304126,ID-SU,Sumatera Utara,AS,ID
+304128,ID-YO,Yogyakarta,AS,ID
+304129,IE-C,County Cork,EU,IE
+304130,IE-CE,County Clare,EU,IE
+304131,IE-CN,County Cavan,EU,IE
+304132,IE-CW,County Carlow,EU,IE
+304133,IE-D,County Dublin,EU,IE
+304134,IE-DL,County Donegal,EU,IE
+304135,IE-G,County Galway,EU,IE
+304136,IE-KE,County Kildare,EU,IE
+304137,IE-KK,County Kilkenny,EU,IE
+304138,IE-KY,County Kerry,EU,IE
+304139,IE-LD,County Longford,EU,IE
+304140,IE-LH,County Louth,EU,IE
+304141,IE-LK,County Limerick,EU,IE
+304142,IE-LM,County Leitrim,EU,IE
+304143,IE-LS,County Laois,EU,IE
+304144,IE-MH,County Meath,EU,IE
+304145,IE-MN,County Monaghan,EU,IE
+304146,IE-MO,County Mayo,EU,IE
+304147,IE-OY,County Offaly,EU,IE
+304148,IE-RN,County Roscommon,EU,IE
+304149,IE-SO,County Sligo,EU,IE
+304150,IE-TA,County Tipperary,EU,IE
+304152,IE-WD,County Waterford,EU,IE
+304153,IE-WH,County Westmeath,EU,IE
+304154,IE-WW,County Wicklow,EU,IE
+304155,IE-WX,County Wexford,EU,IE
+304156,IL-D,Southern District,AS,IL
+304157,IL-HA,Haifa District,AS,IL
+304158,IL-JM,Jerusalem District,AS,IL
+304159,IL-M,Central District,AS,IL
+304160,IL-TA,Tel Aviv District,AS,IL
+304162,IL-Z,Northern District,AS,IL
+304164,IN-AN,Andaman and Nicobar Islands,AS,IN
+304165,IN-AP,Andhra Pradesh,AS,IN
+304166,IN-AR,Arunachal Pradesh,AS,IN
+304167,IN-AS,Assam,AS,IN
+304168,IN-BR,Bihar,AS,IN
+306729,IN-CH,Chandigarh,AS,IN
+304169,IN-CT,Chhattisgarh,AS,IN
+304170,IN-DD,Daman and Diu,AS,IN
+304171,IN-DL,Delhi,AS,IN
+304172,IN-DN,Dadra and Nagar Haveli,AS,IN
+304173,IN-GA,Goa,AS,IN
+304174,IN-GJ,Gujarat,AS,IN
+304175,IN-HP,Himachal Pradesh,AS,IN
+304176,IN-HR,Haryana,AS,IN
+304177,IN-JH,Jharkhand,AS,IN
+304178,IN-JK,Jammu and Kashmir,AS,IN
+304179,IN-KA,Karnataka,AS,IN
+304180,IN-KL,Kerala,AS,IN
+304181,IN-LD,Lakshadweep,AS,IN
+304182,IN-ML,Meghalaya,AS,IN
+304183,IN-MM,Maharashtra,AS,IN
+304184,IN-MN,Manipur,AS,IN
+304185,IN-MP,Madhya Pradesh,AS,IN
+304186,IN-MZ,Mizoram,AS,IN
+304187,IN-NL,Nagaland,AS,IN
+304188,IN-OR,Odisha,AS,IN
+304189,IN-PB,Punjab,AS,IN
+304190,IN-PY,Pondicherry,AS,IN
+304191,IN-RJ,Rajasthan,AS,IN
+304192,IN-SK,Sikkim,AS,IN
+316678,IN-TG,Telangana,AS,IN
+304193,IN-TN,Tamil Nadu,AS,IN
+304194,IN-TR,Tripura,AS,IN
+304196,IN-UL,Uttaranchal,AS,IN
+304197,IN-UP,Uttar Pradesh,AS,IN
+304198,IN-WB,West Bengal,AS,IN
+304200,IQ-AN,Al-Anbar Governorate,AS,IQ
+304201,IQ-AR,Arbil Governorate,AS,IQ
+304202,IQ-BA,Basra Governorate,AS,IQ
+304203,IQ-BB,Babil Governorate,AS,IQ
+304204,IQ-BG,Baghdad Governorate,AS,IQ
+304205,IQ-DA,Duhok Governorate,AS,IQ
+304206,IQ-DI,Diyala Governorate,AS,IQ
+304207,IQ-DQ,Dhi Qar Governorate,AS,IQ
+304208,IQ-KA,Karbala Governorate,AS,IQ
+304209,IQ-MA,Maysan Governorate,AS,IQ
+304210,IQ-MU,Al-Muthanna Governorate,AS,IQ
+304211,IQ-NA,Najaf Governorate,AS,IQ
+304212,IQ-NI,Ninawa Governorate,AS,IQ
+304213,IQ-QA,Al-Qadisiyyah Governorate,AS,IQ
+304214,IQ-SD,Salah ad Din Governorate,AS,IQ
+304215,IQ-SW,As-Sulaymaniyyah Governorate,AS,IQ
+304216,IQ-TS,Kirkuk Governorate,AS,IQ
+304218,IQ-WA,Wasit Governorate,AS,IQ
+304219,IR-01,East Azarbaijan Province,AS,IR
+304220,IR-02,West Azarbaijan Province,AS,IR
+304221,IR-03,Ardabil Province,AS,IR
+304222,IR-04,Esfahan Province,AS,IR
+304223,IR-05,Iiam Province,AS,IR
+304224,IR-06,Bushehr Province,AS,IR
+304225,IR-07,Tehran Province,AS,IR
+304226,IR-08,Chaharmahal and Bakhtiari Province,AS,IR
+304227,IR-10,Khuzestan Province,AS,IR
+304228,IR-11,Zanjan Province,AS,IR
+304229,IR-12,Semnan Province,AS,IR
+304230,IR-13,Sistan and Baluchestan Province,AS,IR
+304231,IR-14,Fars Province,AS,IR
+304232,IR-15,Kerman Province,AS,IR
+304233,IR-16,Kordestan Province,AS,IR
+304234,IR-17,Kermanshah Province,AS,IR
+304235,IR-18,Kohgiluyeh and Boyer-Ahmad Province,AS,IR
+304236,IR-19,Gilan Province,AS,IR
+304237,IR-20,Lorestan Province,AS,IR
+304238,IR-21,Mazandaran Province,AS,IR
+304239,IR-22,Markazi Province,AS,IR
+304240,IR-23,Hormozgan Province,AS,IR
+304241,IR-24,Hamadan Province,AS,IR
+304242,IR-25,Yazd Province,AS,IR
+304243,IR-26,Qom Province,AS,IR
+304244,IR-27,Golestan Province,AS,IR
+304245,IR-28,Qazvin Province,AS,IR
+306737,IR-29,South Khorasan Province,AS,IR
+306736,IR-30,Razavi Khorasan Province,AS,IR
+306735,IR-31,North Khorasan Province,AS,IR
+304247,IS-1,Capital Region,EU,IS
+304248,IS-2,Southern Peninsula,EU,IS
+304249,IS-3,Western Region,EU,IS
+304250,IS-4,Westfjords,EU,IS
+304251,IS-5,Northwestern Region,EU,IS
+304252,IS-6,Northeastern Region,EU,IS
+304253,IS-7,Eastern Region,EU,IS
+304254,IS-8,Southern Region,EU,IS
+306360,IT-21,Piedmont,EU,IT
+306355,IT-23,Valle d'Aosta,EU,IT
+306363,IT-25,Lombardy,EU,IT
+306358,IT-32,Trentino-Alto Adige,EU,IT
+306354,IT-34,Veneto,EU,IT
+306366,IT-36,Friuli-Venezia Giulia,EU,IT
+306364,IT-42,Liguria,EU,IT
+306367,IT-45,Emilia-Romagna,EU,IT
+306357,IT-52,Tuscany,EU,IT
+306356,IT-55,Umbria,EU,IT
+306362,IT-57,Marche,EU,IT
+306365,IT-62,Lazio,EU,IT
+306372,IT-65,Abruzzi,EU,IT
+306361,IT-67,Molise,EU,IT
+306368,IT-72,Campania,EU,IT
+306371,IT-75,Apulia,EU,IT
+306370,IT-77,Basilicata,EU,IT
+306369,IT-78,Calabria,EU,IT
+306373,IT-82,Sicily,EU,IT
+306359,IT-88,Sardinia,EU,IT
+304258,JM-01,Kingston,NA,JM
+304259,JM-02,Saint Andrew,NA,JM
+304260,JM-03,Saint Thomea,NA,JM
+304261,JM-04,Portland,NA,JM
+304262,JM-05,Saint Mary,NA,JM
+304263,JM-06,Saint Ann,NA,JM
+304264,JM-07,Trelawny,NA,JM
+304265,JM-08,Saint James,NA,JM
+304266,JM-09,Hanover,NA,JM
+304267,JM-10,Westmoreland,NA,JM
+304268,JM-11,Saint Elizabeth,NA,JM
+304269,JM-12,Manchester,NA,JM
+304270,JM-13,Clarendon,NA,JM
+304271,JM-14,Saint Catherine,NA,JM
+304273,JO-AJ,Ajln Governorate,AS,JO
+304274,JO-AM,Amman Governorate,AS,JO
+304275,JO-AQ,Al 'Aqaba Governorate,AS,JO
+304276,JO-AT,At Tafilah Governorate,AS,JO
+304277,JO-AZ,Az Zarga Governorate,AS,JO
+304278,JO-BA,Al Balqa' Governorate,AS,JO
+304279,JO-JA,Jarash Governorate,AS,JO
+304280,JO-JR,Irbid Governorate,AS,JO
+304281,JO-KA,Al Karak Governorate,AS,JO
+304282,JO-MA,Al Mafraq Governorate,AS,JO
+304283,JO-MD,Madaba Governorate,AS,JO
+304284,JO-MN,Ma'an Governorate,AS,JO
+304286,JP-01,Hokkaidō Prefecture,AS,JP
+304287,JP-02,Aomori Prefecture,AS,JP
+304288,JP-03,Iwate Prefecture,AS,JP
+304289,JP-04,Miyagi Prefecture,AS,JP
+304290,JP-05,Akita Prefecture,AS,JP
+304291,JP-06,Yamagata Prefecture,AS,JP
+304292,JP-07,Fukusima Prefecture,AS,JP
+304293,JP-08,Ibaraki Prefecture,AS,JP
+304294,JP-09,Tochigi Prefecture,AS,JP
+304295,JP-10,Gunma Prefecture,AS,JP
+304296,JP-11,Saitama Prefecture,AS,JP
+304297,JP-12,Chiba Prefecture,AS,JP
+304298,JP-13,Tōkyō Prefecture,AS,JP
+304299,JP-14,Kanagawa Prefecture,AS,JP
+304300,JP-15,Niigata Prefecture,AS,JP
+304301,JP-16,Toyama Prefecture,AS,JP
+304302,JP-17,Ishikawa Prefecture,AS,JP
+304303,JP-18,Fukui Prefecture,AS,JP
+304304,JP-19,Yamanashi Prefecture,AS,JP
+304305,JP-20,Nagano Prefecture,AS,JP
+304306,JP-21,Gifu Prefecture,AS,JP
+304307,JP-22,Shizuoka Prefecture,AS,JP
+304308,JP-23,Aichi Prefecture,AS,JP
+304309,JP-24,Mie Prefecture,AS,JP
+304310,JP-25,Shiga Prefecture,AS,JP
+304311,JP-26,Kyōto Prefecture,AS,JP
+304312,JP-27,Ōsaka Prefecture,AS,JP
+304313,JP-28,Hyōgo Prefecture,AS,JP
+304314,JP-29,Nara Prefecture,AS,JP
+304315,JP-30,Wakayama Prefecture,AS,JP
+304316,JP-31,Tottori Prefecture,AS,JP
+304317,JP-32,Shimane Prefecture,AS,JP
+304318,JP-33,Okayama Prefecture,AS,JP
+304319,JP-34,Hiroshima Prefecture,AS,JP
+304320,JP-35,Yamaguchi Prefecture,AS,JP
+304321,JP-36,Tokushima Prefecture,AS,JP
+304322,JP-37,Kagawa Prefecture,AS,JP
+304323,JP-38,Ehime Prefecture,AS,JP
+304324,JP-39,Kōchi Prefecture,AS,JP
+304325,JP-40,Fukuoka Prefecture,AS,JP
+304326,JP-41,Saga Prefecture,AS,JP
+304327,JP-42,Nagasaki Prefecture,AS,JP
+304328,JP-43,Kumamoto Prefecture,AS,JP
+304329,JP-44,Ōita Prefecture,AS,JP
+304330,JP-45,Miyazaki Prefecture,AS,JP
+304331,JP-46,Kagoshima Prefecture,AS,JP
+304332,JP-47,Okinawa Prefecture,AS,JP
+304334,KE-110,Nairobi Province,AF,KE
+304335,KE-200,Central Province,AF,KE
+304336,KE-300,Coast Province,AF,KE
+304337,KE-400,Eastern Province,AF,KE
+304338,KE-500,North-Eastern Province,AF,KE
+304339,KE-600,Nyanza Province,AF,KE
+304340,KE-700,Rift Valley Province,AF,KE
+304341,KE-900,Western Province,AF,KE
+304343,KG-B,Batken Region,AS,KG
+304344,KG-C,Chuy Region,AS,KG
+304345,KG-GB,Bishkek City,AS,KG
+317017,KG-GO,Osh City,AS,KG
+304346,KG-J,Jalal-Abad Region,AS,KG
+304347,KG-N,Naryn Region,AS,KG
+304348,KG-O,Osh Region,AS,KG
+304349,KG-T,Talas Region,AS,KG
+304351,KG-Y,Issyk Kul Region,AS,KG
+304352,KH-1,Banteay Mean Chey,AS,KH
+304353,KH-10,Krachoh,AS,KH
+304354,KH-11,Mondol Kiri,AS,KH
+304355,KH-12,Phnom Penh,AS,KH
+304356,KH-13,Preah Vihear,AS,KH
+304357,KH-14,Prey Veaeng,AS,KH
+304358,KH-15,Pousaat,AS,KH
+304359,KH-16,Rotanak Kiri,AS,KH
+304360,KH-17,Siem Reab,AS,KH
+304361,KH-18,Xrong Preah Sihanouk,AS,KH
+304362,KH-19,Stueng Traeng,AS,KH
+304363,KH-2,Baat Dambang,AS,KH
+304364,KH-20,Svaay Rieng,AS,KH
+304365,KH-21,Taakaev,AS,KH
+304366,KH-22,Otdar Mean Chey,AS,KH
+304367,KH-23,Krong Kaeb,AS,KH
+304368,KH-24,Krong Pailin,AS,KH
+304369,KH-3,Kampong Chaam,AS,KH
+304370,KH-4,Kampong Chhnang,AS,KH
+304371,KH-5,Kampong Spueu,AS,KH
+304372,KH-6,Kampong Thum,AS,KH
+304373,KH-7,Kampot,AS,KH
+304374,KH-8,Kandaal,AS,KH
+304375,KH-9,Kach Kong,AS,KH
+304377,KI-G,Gilbert Islands,OC,KI
+304378,KI-L,Line Islands,OC,KI
+304379,KI-P,Phoenix Islands,OC,KI
+304381,KM-A,Anjouan Ndzouani,AF,KM
+304382,KM-G,Grande Comore Ngazidja,AF,KM
+304383,KM-M,Moheli Moili,AF,KM
+304397,KP-01,Pyongyang (capital city),AS,KP
+304396,KP-02,South Pyongan Province,AS,KP
+304395,KP-03,North Pyongan Province,AS,KP
+304386,KP-04,Chagang Province,AS,KP
+304390,KP-05,South Hwanghae Province,AS,KP
+304389,KP-06,North Hwanghae Province,AS,KP
+304392,KP-07,Kangwon Province,AS,KP
+304388,KP-08,South Hamgyong Province,AS,KP
+304387,KP-09,North Hamgyong Province,AS,KP
+304399,KP-10,Ryanggang Province,AS,KP
+304393,KP-13,Rason (special city),AS,KP
+304400,KR-11,Seoul Teugbyeolsi,AS,KR
+304401,KR-26,Busan Gwang'yeogsi,AS,KR
+304402,KR-27,Daegu Gwang'yeogsi,AS,KR
+304403,KR-28,Incheon Gwang'yeogsi,AS,KR
+304404,KR-29,Gwangju Gwang'yeogsi,AS,KR
+304405,KR-30,Daejeon Gwang'yeogsi,AS,KR
+304406,KR-31,Ulsan Gwang'yeogsi,AS,KR
+304407,KR-41,Gyeonggido,AS,KR
+304408,KR-42,Gang'weondo,AS,KR
+304409,KR-43,Chungcheongbugdo,AS,KR
+304410,KR-44,Chungcheongnamdo,AS,KR
+304411,KR-45,Jeonrabugdo,AS,KR
+304412,KR-46,Jeonranamdo,AS,KR
+304413,KR-47,Gyeongsangbugdo,AS,KR
+304414,KR-48,Gyeongsangnamdo,AS,KR
+304415,KR-49,Jejudo,AS,KR
+304417,KW-AH,Al Ahmadi Governorate,AS,KW
+304418,KW-FA,Al Farwaniyah Governorate,AS,KW
+304419,KW-HA,Hawalli Governorate,AS,KW
+304420,KW-JA,Al Jahra Governorate,AS,KW
+304421,KW-KU,Al Asimah Governorate,AS,KW
+306757,KW-MU,Mubarak Al-Kabeer Governorate,AS,KW
+304424,KZ-AKM,Akmola Region,AS,KZ
+304425,KZ-AKT,Aktobe Region,AS,KZ
+304426,KZ-ALA,Almaty City,AS,KZ
+304427,KZ-ALM,Almaty Region,AS,KZ
+304428,KZ-AST,Astana City,AS,KZ
+304429,KZ-ATY,Atyrau Region,AS,KZ
+306378,KZ-BAY,Baikonur City,AS,KZ
+304430,KZ-KAR,Karaganda Region,AS,KZ
+304431,KZ-KUS,Kostanay Region,AS,KZ
+304432,KZ-KZY,Kyzylorda Region,AS,KZ
+304433,KZ-MAN,Mangystau Region,AS,KZ
+304434,KZ-PAV,Pavlodar Region,AS,KZ
+304435,KZ-SEV,North Kazakhstan Region,AS,KZ
+304437,KZ-VOS,East Kazakhstan Region,AS,KZ
+304438,KZ-YUZ,South Kazakhstan Region,AS,KZ
+304439,KZ-ZAP,West Kazakhstan Region,AS,KZ
+304440,KZ-ZHA,Jambyl Region,AS,KZ
+304441,LA-AT,Attapu Province,AS,LA
+304442,LA-BK,Bokeo Province,AS,LA
+304443,LA-BL,Bolikhamxai Province,AS,LA
+304444,LA-CH,Champasak Province,AS,LA
+304445,LA-HO,Houaphan Province,AS,LA
+304446,LA-KH,Khammouan Province,AS,LA
+304447,LA-LM,Louang Namtha Province,AS,LA
+304448,LA-LP,Louangphabang Province,AS,LA
+304449,LA-OU,Oudomxai Province,AS,LA
+304450,LA-PH,Phongsali Province,AS,LA
+304451,LA-SL,Salavan Province,AS,LA
+304452,LA-SV,Savannakhet Province,AS,LA
+317033,LA-VI,Vientiane Province,AS,LA
+304454,LA-VT,Vientiane Prefecture,AS,LA
+304455,LA-XA,Xaignabouli Province,AS,LA
+304456,LA-XE,Xekong Province,AS,LA
+304457,LA-XI,Xiangkhoang Province,AS,LA
+304458,LA-XN,Xiasomboun Province,AS,LA
+306414,LB-AK,Aakkar Governorate,AS,LB
+304459,LB-AS,North Governorate,AS,LB
+304460,LB-BA,Beirut Governorate,AS,LB
+306413,LB-BH,Baalbek-Hermel Governorate,AS,LB
+304461,LB-BI,Beqaa Governorate,AS,LB
+304462,LB-JA,South Governorate,AS,LB
+304463,LB-JL,Mount Lebanon Governorate,AS,LB
+304464,LB-NA,Nabatieh Governorate,AS,LB
+306776,LC-01,Anse la Raye,NA,LC
+306777,LC-02,Castries,NA,LC
+306778,LC-03,Choiseul,NA,LC
+306779,LC-04,Dauphin,NA,LC
+306780,LC-05,Dennery,NA,LC
+306781,LC-06,Gros Islet,NA,LC
+306782,LC-07,Laborie,NA,LC
+306783,LC-08,Micoud,NA,LC
+306784,LC-09,Praslin,NA,LC
+306785,LC-10,Soufrière,NA,LC
+306786,LC-11,Vieux Fort,NA,LC
+306787,LI-01,Balzers,EU,LI
+306788,LI-02,Eschen,EU,LI
+306789,LI-03,Gamprin,EU,LI
+306790,LI-04,Mauren,EU,LI
+306791,LI-05,Planken,EU,LI
+306792,LI-06,Ruggell,EU,LI
+306793,LI-07,Schaan,EU,LI
+306794,LI-08,Schellenberg,EU,LI
+306795,LI-09,Triesen,EU,LI
+306796,LI-10,Triesenberg,EU,LI
+306797,LI-11,Vaduz,EU,LI
+306760,LK-1,Western Province,AS,LK
+306759,LK-2,Central Province,AS,LK
+306758,LK-3,Southern Province,AS,LK
+306763,LK-4,Northern Province,AS,LK
+306762,LK-5,Eastern Province,AS,LK
+306761,LK-6,North Western Province,AS,LK
+306765,LK-7,North Central Province,AS,LK
+306764,LK-8,Uva Province,AS,LK
+306766,LK-9,Sabaragamuwa Province,AS,LK
+304469,LR-BG,Bong County,AF,LR
+304470,LR-BM,Bomi County,AF,LR
+304471,LR-CM,Grand Cape Mount County,AF,LR
+304472,LR-GB,Grand Basaa County,AF,LR
+304473,LR-GG,Grand Gedeh County,AF,LR
+304474,LR-GK,Grand Kru County,AF,LR
+304475,LR-LO,Lofa County,AF,LR
+304476,LR-MG,Margibi County,AF,LR
+304477,LR-MO,Montserrado County,AF,LR
+304478,LR-MY,Maryland County,AF,LR
+304479,LR-NI,Nimba County,AF,LR
+304480,LR-RI,Rivercess County,AF,LR
+304481,LR-SI,Sinoe County,AF,LR
+304483,LS-A,Maseru,AF,LS
+304484,LS-B,Butha-Buthe,AF,LS
+304485,LS-C,Leribe,AF,LS
+304486,LS-D,Berea,AF,LS
+304487,LS-E,Mafeteng,AF,LS
+304488,LS-F,Mohale's Hoek,AF,LS
+304489,LS-G,Quthing,AF,LS
+304490,LS-H,Qacha's Nek,AF,LS
+304491,LS-J,Mokhotlong,AF,LS
+304492,LS-K,Thaba-Tseka,AF,LS
+304494,LT-AL,Alytus County,EU,LT
+304495,LT-KL,Klaipėda County,EU,LT
+304496,LT-KU,Kaunas County,EU,LT
+304497,LT-MR,Marijampolė County,EU,LT
+304498,LT-PN,Panevėžys County,EU,LT
+304499,LT-SA,Šiauliai County,EU,LT
+304500,LT-TA,Tauragė County,EU,LT
+304501,LT-TE,Telšiai County,EU,LT
+304503,LT-UT,Utena County,EU,LT
+304504,LT-VL,Vilnius County,EU,LT
+304505,LU-D,Diekirch,EU,LU
+304506,LU-G,Grevenmacher,EU,LU
+306322,LU-L,Luxembourg,EU,LU
+304508,LV-AI,Aizkraukle District,EU,LV
+304509,LV-AL,Alūksne District,EU,LV
+304510,LV-BL,Balvi District,EU,LV
+304511,LV-BU,Bauska District,EU,LV
+304512,LV-CE,Cēsis District,EU,LV
+304513,LV-DA,Daugavpils District,EU,LV
+304514,LV-DGV,Daugavpils (city),EU,LV
+304515,LV-DO,Dobele District,EU,LV
+304516,LV-GU,Gulbene District,EU,LV
+304517,LV-JEL,Jelgava (city),EU,LV
+304518,LV-JK,Jēkabpils District,EU,LV
+304519,LV-JL,Jelgava District,EU,LV
+304520,LV-JUR,Jūrmala (city),EU,LV
+304521,LV-KR,Krāslava District,EU,LV
+304522,LV-KU,Kuldīga District,EU,LV
+304523,LV-LE,Liepāja District,EU,LV
+304524,LV-LM,Limbaži District,EU,LV
+304525,LV-LPX,Liepāja (city),EU,LV
+304526,LV-LU,Ludza District,EU,LV
+304527,LV-MA,Madona District,EU,LV
+304528,LV-OG,Ogre District,EU,LV
+304529,LV-PR,Preiļi District,EU,LV
+304530,LV-RE,Rēzekne District,EU,LV
+304531,LV-REZ,Rēzekne (city),EU,LV
+304532,LV-RI,Riga District,EU,LV
+304533,LV-RIX,Riga (city),EU,LV
+304534,LV-SA,Saldus District,EU,LV
+304535,LV-TA,Talsi District,EU,LV
+304536,LV-TU,Tukums District,EU,LV
+304538,LV-VE,Ventspils,EU,LV
+304539,LV-VEN,Ventspils (city),EU,LV
+304540,LV-VK,Valka District,EU,LV
+304541,LV-VM,Valmiera District,EU,LV
+304542,LY-BA,Benghazi District,AF,LY
+304543,LY-BU,Al Butnan District,AF,LY
+304544,LY-DR,Darnah District,AF,LY
+304545,LY-GT,Ghat District,AF,LY
+304546,LY-JA,Al Jabal al Akhdar District,AF,LY
+306767,LY-JG,Al Jabal al Gharbi District,AF,LY
+304547,LY-JI,Al Jfara District,AF,LY
+304548,LY-JU,Al Jufrah District,AF,LY
+304549,LY-KF,Al Kufrah District,AF,LY
+304550,LY-MB,Al Murgub District,AF,LY
+304551,LY-MI,Misurata District,AF,LY
+304552,LY-MJ,Al Marj District,AF,LY
+304553,LY-MQ,Murzuq District,AF,LY
+304554,LY-NL,Nalut District,AF,LY
+304555,LY-NQ,An Nuqat al Khams District,AF,LY
+304556,LY-SB,Sabha District,AF,LY
+304557,LY-SH,Wadi Al Shatii District,AF,LY
+304558,LY-SR,Surt District,AF,LY
+304559,LY-TB,Tripoli District,AF,LY
+304561,LY-WA,Al Wahat District,AF,LY
+304562,LY-WD,Wadi Al Hayaa District,AF,LY
+304563,LY-ZA,Az Zawiyah District,AF,LY
+304564,MA-AGD,Agadir Province,AF,MA
+304565,MA-ASZ,Assa-Zag Province,AF,MA
+304566,MA-AZI,Azilal Province,AF,MA
+304567,MA-BAH,Aït Baha Province,AF,MA
+304568,MA-BEM,Beni Mellal Province,AF,MA
+304569,MA-BER,Berkane Province,AF,MA
+304570,MA-BES,Ben Sllmane Province,AF,MA
+304571,MA-BOD,Boujdour Province,AF,MA
+304572,MA-BOM,Boulemane Province,AF,MA
+304573,MA-CAS,Casablanca Province,AF,MA
+304574,MA-CHE,Chefchaouene Province,AF,MA
+304575,MA-CHI,Chichaoua Province,AF,MA
+304576,MA-ERR,Errachidia Province,AF,MA
+304577,MA-ESI,Essaouira Province,AF,MA
+304578,MA-ESM,Es Smara Province,AF,MA
+304579,MA-FES,Fès Province,AF,MA
+304580,MA-FIG,Figuig Province,AF,MA
+304581,MA-GUE,Guelmim Province,AF,MA
+304582,MA-HAJ,El Hajeb Province,AF,MA
+304583,MA-HAO,Al Haouz Province,AF,MA
+304584,MA-HOC,Al Hoceïma Province,AF,MA
+304585,MA-IFR,Ifrane Province,AF,MA
+304586,MA-JDI,El Jadida Province,AF,MA
+304587,MA-JRA,Jerada Province,AF,MA
+304588,MA-KEN,Kénitra Province,AF,MA
+304589,MA-KES,Kelaat Sraghna Province,AF,MA
+304590,MA-KHE,Khemisaet Province,AF,MA
+304591,MA-KHN,Khenifra Province,AF,MA
+304592,MA-KHO,Khouribga Province,AF,MA
+304593,MA-LAA,Laâyoune (EH) Province,AF,MA
+304594,MA-LAP,Larache Province,AF,MA
+304595,MA-MAR,Marrakech Province,AF,MA
+304596,MA-MEK,Meknsès Province,AF,MA
+304597,MA-MEL,Aït Melloul Province,AF,MA
+304598,MA-NAD,Nador Province,AF,MA
+304599,MA-OUA,Ouarzazate Province,AF,MA
+304600,MA-OUD,Oued ed Dahab (EH) Province,AF,MA
+304601,MA-OUJ,Oujda Province,AF,MA
+304602,MA-RBA,Rabat-Salé Province,AF,MA
+304603,MA-SAF,Safi Province,AF,MA
+304604,MA-SEF,Sefrou Province,AF,MA
+304605,MA-SET,Settat Province,AF,MA
+304606,MA-SIK,Sidl Kacem Province,AF,MA
+304607,MA-TAO,Taounate Province,AF,MA
+304608,MA-TAR,Taroudannt Province,AF,MA
+304609,MA-TAT,Tata Province,AF,MA
+304610,MA-TAZ,Taza Province,AF,MA
+304611,MA-TET,Tétouan Province,AF,MA
+304612,MA-TIZ,Tiznit Province,AF,MA
+304613,MA-TNG,Tanger Province,AF,MA
+304614,MA-TNT,Tan-Tan Province,AF,MA
+306445,MD-AN,Anenii Noi,EU,MD
+306446,MD-BE,Bender,EU,MD
+306447,MD-BL,Bălţi,EU,MD
+306448,MD-BR,Briceni,EU,MD
+306449,MD-BS,Basarabeanca,EU,MD
+306450,MD-C,Chişinău,EU,MD
+306451,MD-CC,Cameanca,EU,MD
+306452,MD-CG,Ceadîr-Lunga,EU,MD
+306453,MD-CH,Cahul,EU,MD
+306454,MD-CL,Călăraşi,EU,MD
+306455,MD-CM,Cimişlia,EU,MD
+306456,MD-CN,Cainari,EU,MD
+306457,MD-CO,Comrat,EU,MD
+306458,MD-CR,Criuleni,EU,MD
+306459,MD-CS,Căuşeni/Căuşani,EU,MD
+306460,MD-CT,Cantemir,EU,MD
+306461,MD-DB,Dubăsari,EU,MD
+306462,MD-DN,Donduşeni,EU,MD
+306463,MD-DR,Drochia,EU,MD
+304617,MD-ED,Edineţ,EU,MD
+306464,MD-FL,Făleşti,EU,MD
+306465,MD-FR,Floreşti,EU,MD
+306466,MD-GL,Glodeni,EU,MD
+306467,MD-HN,Hînceşti,EU,MD
+306468,MD-IL,Ialoveni,EU,MD
+306469,MD-LV,Leova,EU,MD
+306470,MD-NS,Nisporeni,EU,MD
+306471,MD-OC,Ocniţa,EU,MD
+304618,MD-OR,Orhei,EU,MD
+306472,MD-RB,Rîbniţa,EU,MD
+306473,MD-RS,Rîşcani,EU,MD
+306474,MD-RZ,Rezina,EU,MD
+306475,MD-SG,Sîngerei,EU,MD
+306476,MD-SL,Slobozia,EU,MD
+306477,MD-SR,Soroca,EU,MD
+306478,MD-ST,Străşeni,EU,MD
+306479,MD-SV,Ştefan-Vodă,EU,MD
+304619,MD-TA,Taraclia,EU,MD
+306480,MD-TL,Teleneşti,EU,MD
+306481,MD-TR,Tiraspol,EU,MD
+304621,MD-UN,Ungheni,EU,MD
+306482,MD-VL,Vulcăneşti,EU,MD
+306569,ME-01,Andrijevica Municipality,EU,ME
+306570,ME-02,Bar Municipality,EU,ME
+306571,ME-03,Berane Municipality,EU,ME
+306572,ME-04,Bijelo Polje Municipality,EU,ME
+306573,ME-05,Budva Municipality,EU,ME
+306574,ME-06,Cetinje Municipality,EU,ME
+306575,ME-07,Danilovgrad Municipality,EU,ME
+306576,ME-08,Herceg-Novi Municipality,EU,ME
+306577,ME-09,Kolašin Municipality,EU,ME
+306578,ME-10,Kotor Municipality,EU,ME
+306579,ME-11,Mojkovac Municipality,EU,ME
+306580,ME-12,Nikšić Municipality,EU,ME
+306581,ME-13,Plav Municipality,EU,ME
+306582,ME-14,Pljevlja Municipality,EU,ME
+306583,ME-15,Plužine Municipality,EU,ME
+306584,ME-16,Podgorica Municipality,EU,ME
+306585,ME-17,Rožaje Municipality,EU,ME
+306586,ME-18,Šavnik Municipality,EU,ME
+306587,ME-19,Tivat Municipality,EU,ME
+306588,ME-20,Ulcinj Municipality,EU,ME
+306589,ME-21,Žabljak Municipality,EU,ME
+304623,MG-A,Toamasina,AF,MG
+304624,MG-D,Antsiranana,AF,MG
+304625,MG-F,Fianarantsoa,AF,MG
+304626,MG-M,Mahajanga,AF,MG
+304627,MG-T,Antananarivo,AF,MG
+304628,MG-U,Toliara,AF,MG
+304630,MH-ALK,Ailuk,OC,MH
+304631,MH-ALL,Ailinglapalap,OC,MH
+304632,MH-ARN,Arno,OC,MH
+304633,MH-AUR,Aur,OC,MH
+306568,MH-BIK,Bikini,OC,MH
+304634,MH-EBO,Ebon,OC,MH
+304635,MH-ENI,Eniwetok,OC,MH
+304636,MH-JAL,Jaluit,OC,MH
+304637,MH-KIL,Kili,OC,MH
+304638,MH-KWA,Kwajalein,OC,MH
+304639,MH-LAE,Lae,OC,MH
+304640,MH-LIB,Lib,OC,MH
+304641,MH-LIK,Likiep,OC,MH
+304642,MH-MAJ,Majuro,OC,MH
+304643,MH-MAL,Maloelap,OC,MH
+304644,MH-MEJ,Mejit,OC,MH
+304645,MH-MIL,Mili,OC,MH
+304646,MH-NMK,Namorik,OC,MH
+304647,MH-NMU,Namu,OC,MH
+304648,MH-RON,Rongelap,OC,MH
+304650,MH-UJA,Ujae,OC,MH
+304651,MH-UJL,Ujelang,OC,MH
+304652,MH-UTI,Utirik,OC,MH
+304653,MH-WTJ,Wotje,OC,MH
+304654,MH-WTN,Wotho,OC,MH
+317092,MK-001,Vardar Statistical Region,EU,MK
+317093,MK-002,Eastern Statistical Region,EU,MK
+317094,MK-003,Southwestern Statistical Region,EU,MK
+317095,MK-004,Southeastern Statistical Region,EU,MK
+317096,MK-005,Pelagonia Statistical Region,EU,MK
+317097,MK-006,Polog Statistical Region,EU,MK
+317098,MK-007,Northeastern Statistical Region,EU,MK
+317099,MK-008,Skopje Statistical Region,EU,MK
+304656,ML-1,Kayes Region,AF,ML
+304657,ML-2,Koulikoro Region,AF,ML
+304658,ML-3,Sikasso Region,AF,ML
+304659,ML-4,Ségou Region,AF,ML
+304660,ML-5,Mopti Region,AF,ML
+304661,ML-6,Tombouctou Region,AF,ML
+304662,ML-7,Gao Region,AF,ML
+304663,ML-8,Kidal Region,AF,ML
+304664,ML-BK0,Bamako Capital District,AF,ML
+304666,MM-01,Sagaing Division,AS,MM
+304667,MM-02,Bago Division,AS,MM
+304668,MM-03,Magway Division,AS,MM
+304669,MM-04,Mandalay Division,AS,MM
+304670,MM-05,Tanintharyi Division,AS,MM
+304671,MM-06,Yangon Division,AS,MM
+304672,MM-07,Ayeyarwady Division,AS,MM
+304673,MM-11,Kachin State,AS,MM
+304674,MM-12,Kayah State,AS,MM
+304675,MM-13,Kayin State,AS,MM
+304676,MM-14,Chin State,AS,MM
+304677,MM-15,Mon State,AS,MM
+304678,MM-16,Rakhine State,AS,MM
+304679,MM-17,Shan State,AS,MM
+304681,MN-035,Orhon,AS,MN
+304682,MN-037,Darhan uul,AS,MN
+304683,MN-039,Hentiy,AS,MN
+304684,MN-041,Khövsgöl,AS,MN
+304685,MN-043,Khovd,AS,MN
+304686,MN-046,Uvs,AS,MN
+304687,MN-047,Tov,AS,MN
+304688,MN-049,Selenge,AS,MN
+304689,MN-051,Shbaatar,AS,MN
+304690,MN-053,Ömnögovi,AS,MN
+304691,MN-055,Övörkhangai,AS,MN
+304692,MN-057,Dzavhan,AS,MN
+304693,MN-059,DundgovL,AS,MN
+304694,MN-061,Dornod,AS,MN
+304695,MN-063,"Dornogov,",AS,MN
+304696,MN-064,Govi-Smber,AS,MN
+304697,MN-065,Govi-Altay,AS,MN
+304698,MN-067,Bulgan,AS,MN
+304699,MN-069,Bayanhongor,AS,MN
+304700,MN-071,Bayan-Olgiy,AS,MN
+304701,MN-073,Arhangay,AS,MN
+304702,MN-1,Ulanbaatar,AS,MN
+304707,MR-01,Hodh ech Chargui Region,AF,MR
+304708,MR-02,Hodh el Charbi Region,AF,MR
+304709,MR-03,Assaba Region,AF,MR
+304710,MR-04,Gorgol Region,AF,MR
+304711,MR-05,Brakna Region,AF,MR
+304712,MR-06,Trarza Region,AF,MR
+304713,MR-07,Adrar Region,AF,MR
+304714,MR-08,Dakhlet Nouadhibou Region,AF,MR
+304715,MR-09,Tagant Region,AF,MR
+304716,MR-10,Guidimaka Region,AF,MR
+304717,MR-11,Tiris Zemmour Region,AF,MR
+304718,MR-12,Inchiri Region,AF,MR
+304719,MR-NKC,Nouakchott Region,AF,MR
+306798,MT-01,Attard,EU,MT
+306799,MT-02,Balzan,EU,MT
+306800,MT-03,Birgu,EU,MT
+306801,MT-04,Birkirkara,EU,MT
+306802,MT-05,Birżebbuġa,EU,MT
+306803,MT-06,Bormla,EU,MT
+306804,MT-07,Dingli,EU,MT
+306805,MT-08,Fgura,EU,MT
+306806,MT-09,Floriana,EU,MT
+306807,MT-10,Fontana,EU,MT
+306808,MT-11,Gudja,EU,MT
+306809,MT-12,Gzira,EU,MT
+306810,MT-13,Għajnsielem,EU,MT
+306811,MT-14,Għarb,EU,MT
+306812,MT-15,Għargħur,EU,MT
+306813,MT-16,Għasri,EU,MT
+306814,MT-17,Għaxaq,EU,MT
+306815,MT-18,Ħamrun,EU,MT
+306816,MT-19,Iklin,EU,MT
+306817,MT-20,Isla,EU,MT
+306818,MT-21,Kalkara,EU,MT
+306819,MT-22,Kerċem,EU,MT
+306820,MT-23,Kirkop,EU,MT
+306821,MT-24,Lija,EU,MT
+306822,MT-25,Luqa,EU,MT
+306823,MT-26,Marsa,EU,MT
+306824,MT-27,Marsaskala,EU,MT
+306825,MT-28,Marsaxlokk,EU,MT
+306826,MT-29,Mdina,EU,MT
+306827,MT-30,Mellieħa,EU,MT
+306828,MT-31,Mġarr,EU,MT
+306829,MT-32,Mosta,EU,MT
+306830,MT-33,Mqabba,EU,MT
+306831,MT-34,Msida,EU,MT
+306832,MT-35,Mtarfa,EU,MT
+306833,MT-36,Munxar,EU,MT
+306834,MT-37,Nadur,EU,MT
+306835,MT-38,Naxxar,EU,MT
+306836,MT-39,Paola,EU,MT
+306837,MT-40,Pembroke,EU,MT
+306838,MT-41,Pietà,EU,MT
+306839,MT-42,Qala,EU,MT
+306840,MT-43,Qormi,EU,MT
+306841,MT-44,Qrendi,EU,MT
+306842,MT-45,Rabat Gozo,EU,MT
+306843,MT-46,Rabat Malta,EU,MT
+306844,MT-47,Safi,EU,MT
+306845,MT-48,Saint Julian's,EU,MT
+306846,MT-49,Saint John,EU,MT
+306847,MT-50,Saint Lawrence,EU,MT
+306848,MT-51,Saint Paul's Bay,EU,MT
+306849,MT-52,Sannat,EU,MT
+306850,MT-53,Saint Lucia's,EU,MT
+306851,MT-54,Santa Venera,EU,MT
+306852,MT-55,Siġġiewi,EU,MT
+306853,MT-56,Sliema,EU,MT
+306854,MT-57,Swieqi,EU,MT
+306855,MT-58,Ta' Xbiex,EU,MT
+306856,MT-59,Tarxien,EU,MT
+306857,MT-60,Valletta,EU,MT
+306858,MT-61,Xagħra,EU,MT
+306859,MT-62,Xewkija,EU,MT
+306860,MT-63,Xgħajra,EU,MT
+306861,MT-64,Żabbar,EU,MT
+306862,MT-65,Żebbuġ Gozo,EU,MT
+306863,MT-66,Żebbuġ Malta,EU,MT
+306864,MT-67,Żejtun,EU,MT
+306865,MT-68,Żurrieq,EU,MT
+304723,MU-AG,Agalega Islands,AF,MU
+304724,MU-BL,Black River,AF,MU
+304725,MU-BR,Beau Bassin-Rose Hill,AF,MU
+304726,MU-CC,Cargados Carajos Shoals,AF,MU
+304727,MU-CU,Curepipe,AF,MU
+304728,MU-FL,Flacq,AF,MU
+304729,MU-GP,Grand Port,AF,MU
+304730,MU-MO,Moka,AF,MU
+304731,MU-PA,Pamplemousses,AF,MU
+304732,MU-PL,Port Louis (district),AF,MU
+304733,MU-PU,Port Louis,AF,MU
+304734,MU-PW,Plaines Wilhems,AF,MU
+304735,MU-QB,Quatre Bornes,AF,MU
+304736,MU-RO,Rodrigues Island,AF,MU
+304737,MU-RP,Riviere du Rempart,AF,MU
+304738,MU-SA,Savanne,AF,MU
+304740,MU-VP,Vacosa-Phoenix,AF,MU
+304741,MV-01,Seenu Atoll,AS,MV
+304742,MV-02,Alif Alif Atoll,AS,MV
+304743,MV-03,Lhaviyani,AS,MV
+304744,MV-04,Vaavu,AS,MV
+304745,MV-05,Laamu Atoll,AS,MV
+304746,MV-07,Haa Alif,AS,MV
+304747,MV-08,Thaa,AS,MV
+304748,MV-12,Meemu,AS,MV
+304749,MV-13,Raa,AS,MV
+304750,MV-14,Faafu,AS,MV
+304751,MV-17,Dhaalu,AS,MV
+304752,MV-20,Baa,AS,MV
+304753,MV-23,Haa Dhaalu Atoll,AS,MV
+304754,MV-24,Shaviyani,AS,MV
+304755,MV-25,Noonu,AS,MV
+304756,MV-26,Kaafu,AS,MV
+304757,MV-27,Gaaf Alif,AS,MV
+304758,MV-28,Gaafu Dhaalu Atoll,AS,MV
+304759,MV-29,Gnaviyani,AS,MV
+304760,MV-MLE,Malé Capital,AS,MV
+304762,MW-BA,Balaka District,AF,MW
+304763,MW-BL,Blantyre District,AF,MW
+304764,MW-CK,Chikwawa District,AF,MW
+304765,MW-CR,Chiradzulu District,AF,MW
+304766,MW-CT,Chitipa District,AF,MW
+304767,MW-DE,Dedza District,AF,MW
+304768,MW-DO,Dowa District,AF,MW
+304769,MW-KR,Karonga District,AF,MW
+304770,MW-KS,Kasungu District,AF,MW
+304771,MW-LI,Lilongwe District,AF,MW
+304772,MW-LK,Likoma Island District,AF,MW
+304773,MW-MC,Mchinji District,AF,MW
+304774,MW-MG,Mangochi District,AF,MW
+304775,MW-MH,Machinga District,AF,MW
+304776,MW-MU,Mulanje District,AF,MW
+304777,MW-MW,Mwanza District,AF,MW
+304778,MW-MZ,Mzimba District,AF,MW
+304779,MW-NB,Nkhata Bay District,AF,MW
+304780,MW-NI,Ntchisi District,AF,MW
+304781,MW-NK,Nkhotakota District,AF,MW
+304782,MW-NS,Nsanje District,AF,MW
+304783,MW-NU,Ntcheu District,AF,MW
+304784,MW-PH,Phalomba District,AF,MW
+304785,MW-RU,Rumphi District,AF,MW
+304786,MW-SA,Salima District,AF,MW
+304787,MW-TH,Thyolo District,AF,MW
+304789,MW-ZO,Zomba District,AF,MW
+304790,MX-AGU,Aguascalientes,NA,MX
+304791,MX-BCN,Baja California,NA,MX
+304792,MX-BCS,Baja California Sur,NA,MX
+304793,MX-CAM,Campeche,NA,MX
+304794,MX-CHH,Chihuahua,NA,MX
+304795,MX-CHP,Chiapas,NA,MX
+304796,MX-COA,Coahuila,NA,MX
+304797,MX-COL,Colima,NA,MX
+304798,MX-DIF,Ciudad de México,NA,MX
+304799,MX-DUR,Durango,NA,MX
+304800,MX-GRO,Guerrero,NA,MX
+304801,MX-GUA,Guanajuato,NA,MX
+304802,MX-HID,Hidalgo,NA,MX
+304803,MX-JAL,Jalisco,NA,MX
+304804,MX-MEX,México (state),NA,MX
+304805,MX-MIC,Michoacán,NA,MX
+304806,MX-MOR,Morelos,NA,MX
+304807,MX-NAY,Nayarit,NA,MX
+304808,MX-NLE,Nuevo León,NA,MX
+304809,MX-OAX,Oaxaca,NA,MX
+304810,MX-PUE,Puebla,NA,MX
+304811,MX-QUE,Querétaro,NA,MX
+304812,MX-ROO,Quintana Roo,NA,MX
+304813,MX-SIN,Sinaloa,NA,MX
+304814,MX-SLP,San Luis Potosí,NA,MX
+304815,MX-SON,Sonora,NA,MX
+304816,MX-TAB,Tabasco,NA,MX
+304817,MX-TAM,Tamaulipas,NA,MX
+304818,MX-TLA,Tlaxcala,NA,MX
+304820,MX-VER,Veracruz,NA,MX
+304821,MX-YUC,Yucatán,NA,MX
+304822,MX-ZAC,Zacatecas,NA,MX
+304823,MY-01,Johor,AS,MY
+304824,MY-02,Kedah,AS,MY
+304825,MY-03,Kelantan,AS,MY
+304826,MY-04,Melaka,AS,MY
+304827,MY-05,Negeri Sembilan,AS,MY
+304828,MY-06,Pahang,AS,MY
+304829,MY-07,Pulau Pinang,AS,MY
+304830,MY-08,Perak,AS,MY
+304831,MY-09,Perlis,AS,MY
+304832,MY-10,Selangor,AS,MY
+304833,MY-11,Terengganu,AS,MY
+304834,MY-12,Sabah,AS,MY
+304835,MY-13,Sarawak,AS,MY
+304836,MY-14,Wilayah Persekutuan Kuala Lumpur,AS,MY
+304837,MY-15,Wilayah Persekutuan Labuan,AS,MY
+304838,MY-16,Wilayah Persekutuan Putrajaya,AS,MY
+304840,MZ-A,Niassa Province,AF,MZ
+304841,MZ-B,Manica Province,AF,MZ
+304842,MZ-G,Gaza Province,AF,MZ
+304843,MZ-I,Inhambane Province,AF,MZ
+306567,MZ-L,Maputo Province,AF,MZ
+304844,MZ-MPM,Maputo (city),AF,MZ
+304845,MZ-N,Nampula Province,AF,MZ
+304846,MZ-P,Cabo Delgado Province,AF,MZ
+304847,MZ-Q,Zambezia Province,AF,MZ
+304848,MZ-S,Sofala Province,AF,MZ
+304849,MZ-T,Tete Province,AF,MZ
+304851,NA-CA,Zambezi Region,AF,NA
+304852,NA-ER,Erongo Region,AF,NA
+304853,NA-HA,Hardap Region,AF,NA
+304854,NA-KA,ǁKaras Region,AF,NA
+304859,NA-KE,Kavango East Region,AF,NA
+304855,NA-KH,Khomas Region,AF,NA
+304856,NA-KU,Kunene Region,AF,NA
+317043,NA-KW,Kavango West Region,AF,NA
+304857,NA-OD,Otjozondjupa Region,AF,NA
+304858,NA-OH,Omaheke Region,AF,NA
+304860,NA-ON,Oshana Region,AF,NA
+304861,NA-OS,Omusati Region,AF,NA
+304862,NA-OT,Oshikoto Region,AF,NA
+304863,NA-OW,Ohangwena Region,AF,NA
+304866,NE-1,Agadez Region,AF,NE
+304867,NE-2,Diffa Region,AF,NE
+304868,NE-3,Dosso Region,AF,NE
+304869,NE-4,Maradi Region,AF,NE
+304873,NE-5,Tahoua Region,AF,NE
+304870,NE-6,Tillabéri Region,AF,NE
+304871,NE-7,Zinder Region,AF,NE
+304872,NE-8,Niamey Capital District,AF,NE
+304876,NG-AB,Abia,AF,NG
+304877,NG-AD,Adamawa,AF,NG
+304878,NG-AK,Akwa Ibom,AF,NG
+304879,NG-AN,Anambra,AF,NG
+304880,NG-BA,Bauchi,AF,NG
+304881,NG-BE,Benue,AF,NG
+304882,NG-BO,Borno,AF,NG
+304883,NG-BY,Bayelsa,AF,NG
+304884,NG-CR,Cross River,AF,NG
+304885,NG-DE,Delta,AF,NG
+304886,NG-EB,Ebonyi,AF,NG
+304887,NG-ED,Edo,AF,NG
+304888,NG-EK,Ekiti,AF,NG
+304889,NG-EN,Enugu,AF,NG
+304890,NG-FC,Abuja Capital Territory,AF,NG
+304891,NG-GO,Gombe,AF,NG
+304892,NG-IM,Imo,AF,NG
+304893,NG-JI,Jigawa,AF,NG
+304894,NG-KD,Kaduna,AF,NG
+304895,NG-KE,Kebbi,AF,NG
+304896,NG-KN,Kano,AF,NG
+304897,NG-KO,Kogi,AF,NG
+304898,NG-KT,Katsina,AF,NG
+304899,NG-KW,Kwara,AF,NG
+304900,NG-LA,Lagos,AF,NG
+304901,NG-NA,Nassarawa,AF,NG
+304902,NG-NI,Niger,AF,NG
+304903,NG-OG,Ogun,AF,NG
+304904,NG-ON,Ondo,AF,NG
+304905,NG-OS,Osun,AF,NG
+304906,NG-OY,Oyo,AF,NG
+304907,NG-PL,Plateau,AF,NG
+304908,NG-RI,Rivers,AF,NG
+304909,NG-SO,Sokoto,AF,NG
+304910,NG-TA,Taraba,AF,NG
+304912,NG-YO,Yobe,AF,NG
+304913,NG-ZA,Zamfara,AF,NG
+304914,NI-AN,Atlantico Norte,NA,NI
+304915,NI-AS,Atlantico Sur,NA,NI
+304916,NI-BO,Boaco,NA,NI
+304917,NI-CA,Carazo,NA,NI
+304918,NI-CI,Chinandega,NA,NI
+304919,NI-CO,Chontales,NA,NI
+304920,NI-ES,Esteli,NA,NI
+304921,NI-GR,Grenada,NA,NI
+304922,NI-JI,Jinotega,NA,NI
+304923,NI-LE,Leon,NA,NI
+304924,NI-MD,Madriz,NA,NI
+304925,NI-MN,Managua,NA,NI
+304926,NI-MS,Masaya,NA,NI
+304927,NI-MT,Matagalpa,NA,NI
+304928,NI-NS,Nueva Segovia,NA,NI
+304929,NI-RI,Rivas,NA,NI
+304930,NI-SJ,Rio San Juan,NA,NI
+304932,NL-DR,Drente,EU,NL
+304933,NL-FL,Flevoland,EU,NL
+304934,NL-FR,Friesland,EU,NL
+304935,NL-GE,Gelderland,EU,NL
+304936,NL-GR,Groningen,EU,NL
+304937,NL-LI,Limburg,EU,NL
+304938,NL-NB,Noord-Brabant,EU,NL
+304939,NL-NH,Noord-Holland,EU,NL
+304940,NL-OV,Overijssel,EU,NL
+304942,NL-UT,Utrecht,EU,NL
+304943,NL-ZH,Zuid-Holland,EU,NL
+304944,NL-ZL,Zeeland,EU,NL
+304945,NO-01,Østfold,EU,NO
+304946,NO-02,Akershus,EU,NO
+304947,NO-03,Oslo,EU,NO
+304948,NO-04,Hedmark,EU,NO
+304949,NO-05,Oppland,EU,NO
+304950,NO-06,Buskerud,EU,NO
+304951,NO-07,Vestfold,EU,NO
+304952,NO-08,Telemark,EU,NO
+304953,NO-09,Aust-Agder,EU,NO
+304954,NO-10,Vest-Agder,EU,NO
+304955,NO-11,Rogaland,EU,NO
+304956,NO-12,Hordaland,EU,NO
+304957,NO-14,Sogn og Fjordane,EU,NO
+304958,NO-15,Møre og Romsdal,EU,NO
+304959,NO-16,Sør-Trøndelag,EU,NO
+304960,NO-17,Nord-Trøndelag,EU,NO
+304961,NO-18,Nordland,EU,NO
+304962,NO-19,Troms,EU,NO
+304963,NO-20,Finnmark,EU,NO
+304964,NO-21,Svalbard,EU,NO
+304965,NO-22,Jan Mayen,EU,NO
+306444,NP-BA,Bagmati,AS,NP
+306443,NP-BH,Bheri,AS,NP
+306442,NP-DH,Dhawalagiri,AS,NP
+306441,NP-GA,Gandaki,AS,NP
+306440,NP-JA,Janakpur,AS,NP
+306439,NP-KA,Karnali,AS,NP
+306438,NP-KO,Kosi,AS,NP
+306437,NP-LU,Lumbini,AS,NP
+306436,NP-MA,Mahakali,AS,NP
+306435,NP-ME,Mechi,AS,NP
+306434,NP-NA,Narayani,AS,NP
+306433,NP-RA,Rapti,AS,NP
+306432,NP-SA,Sagarmatha,AS,NP
+306431,NP-SE,Seti,AS,NP
+306866,NR-01,Aiwo,OC,NR
+306867,NR-02,Anabar,OC,NR
+306868,NR-03,Anetan,OC,NR
+306869,NR-04,Anibare,OC,NR
+306870,NR-05,Baiti,OC,NR
+306871,NR-06,Boe,OC,NR
+306872,NR-07,Buada,OC,NR
+306873,NR-08,Denigomodu,OC,NR
+306874,NR-09,Ewa,OC,NR
+306875,NR-10,Ijuw,OC,NR
+306876,NR-11,Meneng,OC,NR
+306877,NR-12,Nibok,OC,NR
+306878,NR-13,Uaboe,OC,NR
+306879,NR-14,Yaren,OC,NR
+304970,NZ-AUK,Auckland Region,OC,NZ
+304971,NZ-BOP,Bay of Plenty Region,OC,NZ
+304972,NZ-CAN,Canterbury Region,OC,NZ
+304973,NZ-GIS,Gisborne Region,OC,NZ
+304974,NZ-HKB,Hawke's Bay Region,OC,NZ
+304975,NZ-MBH,Marlborough Region,OC,NZ
+304976,NZ-MWT,Manawatu-Wanganui Region,OC,NZ
+304977,NZ-NSN,Nelson Region,OC,NZ
+304978,NZ-NTL,Northland Region,OC,NZ
+304979,NZ-OTA,Otago Region,OC,NZ
+304980,NZ-STL,Southland Region,OC,NZ
+304981,NZ-TAS,Tasman Region,OC,NZ
+304982,NZ-TKI,Taranaki Region,OC,NZ
+304984,NZ-WGN,Wellington Region,OC,NZ
+304985,NZ-WKO,Waikato Region,OC,NZ
+304986,NZ-WTC,West Coast Region,OC,NZ
+304987,OM-BA,Al Batinah Governorate,AS,OM
+317030,OM-BU,Al Buraimi Governorate,AS,OM
+304988,OM-DA,Ad Dakhillyah Governorate,AS,OM
+304990,OM-MA,Masqat Governorate,AS,OM
+304991,OM-MU,Musandam Governorate,AS,OM
+304992,OM-SH,Ash Sharqlyah Governorate,AS,OM
+304994,OM-WU,Al Wusta Governorate,AS,OM
+304995,OM-ZA,Az Zahirah Governorate,AS,OM
+304989,OM-ZU,Dhofar Governorate,AS,OM
+304996,PA-1,Bocas del Toro Province,NA,PA
+316974,PA-10,Panamá Oeste Province,NA,PA
+304997,PA-2,Coclé Province,NA,PA
+304998,PA-3,Colón Province,NA,PA
+304999,PA-4,Chiriquí Province,NA,PA
+305000,PA-5,Darién Province,NA,PA
+305001,PA-6,Herrera Province,NA,PA
+305002,PA-7,Los Santos Province,NA,PA
+305003,PA-8,Panamá Province,NA,PA
+305004,PA-9,Veraguas Province,NA,PA
+316975,PA-EM,Emberá Indigenous Region,NA,PA
+305005,PA-KY,Kuna Yala Indigenous Region,NA,PA
+316976,PA-NB,Ngäbe-Buglé Indigenous Region,NA,PA
+305007,PE-AMA,Amazonas Region,SA,PE
+305008,PE-ANC,Ancash Region,SA,PE
+305009,PE-APU,Apurímac Region,SA,PE
+305010,PE-ARE,Arequipa Region,SA,PE
+305011,PE-AYA,Ayacucho Region,SA,PE
+305012,PE-CAJ,Cajamarca Region,SA,PE
+305013,PE-CAL,El Callao Region,SA,PE
+305014,PE-CUS,Cuzco Region,SA,PE
+305015,PE-HUC,Huánuco Region,SA,PE
+305016,PE-HUV,Huancavelica Region,SA,PE
+305017,PE-ICA,Ica Region,SA,PE
+305018,PE-JUN,Junín Region,SA,PE
+305019,PE-LAL,La Libertad Region,SA,PE
+305020,PE-LAM,Lambayeque Region,SA,PE
+305021,PE-LIM,Lima Region,SA,PE
+305022,PE-LOR,Loreto Region,SA,PE
+305023,PE-MDD,Madre de Dios Region,SA,PE
+305024,PE-MOQ,Moquegua Region,SA,PE
+305025,PE-PAS,Pasco Region,SA,PE
+305026,PE-PIU,Piura Region,SA,PE
+305027,PE-PUN,Puno Region,SA,PE
+305028,PE-SAM,San Martín Region,SA,PE
+305029,PE-TAC,Tacna Region,SA,PE
+305030,PE-TUM,Tumbes Region,SA,PE
+305032,PE-UCA,Ucayali Region,SA,PE
+305034,PG-CPK,Chimbu,OC,PG
+305035,PG-CPM,Central,OC,PG
+305036,PG-EBR,East New Britain,OC,PG
+305037,PG-EHG,Eastern Highlands,OC,PG
+305038,PG-EPW,Enga,OC,PG
+305039,PG-ESW,East Sepik,OC,PG
+305040,PG-GPK,Gulf,OC,PG
+307235,PG-HE,Hela,OC,PG
+307236,PG-JI,Jiwaka,OC,PG
+305041,PG-MBA,Milne Bay,OC,PG
+305042,PG-MPL,Morobe,OC,PG
+305043,PG-MPM,Madang,OC,PG
+305044,PG-MRL,Manus,OC,PG
+305045,PG-NCD,National Capital District (Port Moresby),OC,PG
+305046,PG-NIK,New Ireland,OC,PG
+305047,PG-NPP,Northern (Oro),OC,PG
+305048,PG-NSB,Bougainville (North Solomons),OC,PG
+305049,PG-SAN,Sandaun (West Sepik),OC,PG
+305050,PG-SHM,Southern Highlands,OC,PG
+305052,PG-WBK,West New Britain,OC,PG
+305053,PG-WHM,Western Highlands,OC,PG
+305054,PG-WPD,Western (Fly River),OC,PG
+336924,PH-00,Metropolitan Manila,AS,PH
+305055,PH-ABR,Abra Province,AS,PH
+305056,PH-AGN,Agusan del Norte Province,AS,PH
+305057,PH-AGS,Agusan del Sur Province,AS,PH
+305058,PH-AKL,Aklan Province,AS,PH
+305059,PH-ALB,Albay Province,AS,PH
+305060,PH-ANT,Antique Province,AS,PH
+305061,PH-APA,Apayao Province,AS,PH
+305062,PH-AUR,Aurora Province,AS,PH
+305063,PH-BAN,Bataan Province,AS,PH
+305064,PH-BAS,Basilan Province,AS,PH
+305065,PH-BEN,Benguet Province,AS,PH
+305066,PH-BIL,Biliran Province,AS,PH
+305067,PH-BOH,Bohol Province,AS,PH
+305068,PH-BTG,Batangas Province,AS,PH
+305069,PH-BTN,Batanes Province,AS,PH
+305070,PH-BUK,Bukidnon Province,AS,PH
+305071,PH-BUL,Bulacan Province,AS,PH
+305072,PH-CAG,Cagayan Province,AS,PH
+305073,PH-CAM,Camiguin Province,AS,PH
+305074,PH-CAN,Camarines Norte Province,AS,PH
+305075,PH-CAP,Capiz Province,AS,PH
+305076,PH-CAS,Camarines Sur Province,AS,PH
+305077,PH-CAT,Catanduanes Province,AS,PH
+305078,PH-CAV,Cavite Province,AS,PH
+305079,PH-CEB,Cebu Province,AS,PH
+305080,PH-COM,Davao de Oro Province,AS,PH
+305081,PH-DAO,Davao Oriental Province,AS,PH
+305082,PH-DAS,Davao del Sur Province,AS,PH
+305083,PH-DAV,Davao del Norte Province,AS,PH
+336923,PH-DIN,Dinagat Islands Province,AS,PH
+336922,PH-DVO,Davao Occidental Province,AS,PH
+305084,PH-EAS,Eastern Samar Province,AS,PH
+305085,PH-GUI,Guimaras Province,AS,PH
+305086,PH-IFU,Ifugao Province,AS,PH
+305087,PH-ILI,Iloilo Province,AS,PH
+305088,PH-ILN,Ilocos Norte Province,AS,PH
+305089,PH-ILS,Ilocos Sur Province,AS,PH
+305090,PH-ISA,Isabela Province,AS,PH
+305091,PH-KAL,Kalinga Province,AS,PH
+305092,PH-LAG,Laguna Province,AS,PH
+305093,PH-LAN,Lanao del Norte Province,AS,PH
+305094,PH-LAS,Lanao del Sur Province,AS,PH
+305095,PH-LEY,Leyte Province,AS,PH
+305096,PH-LUN,La Union Province,AS,PH
+305097,PH-MAD,Marinduque Province,AS,PH
+305098,PH-MAG,Maguindanao Province,AS,PH
+305099,PH-MAS,Masbate Province,AS,PH
+305100,PH-MDC,Occidental Mindoro Province,AS,PH
+305101,PH-MDR,Oriental Mindoro Province,AS,PH
+305102,PH-MOU,Mountain Province,AS,PH
+305103,PH-MSC,Misamis Occidental Province,AS,PH
+305104,PH-MSR,Misamis Oriental Province,AS,PH
+305105,PH-NCO,Cotabato Province,AS,PH
+305106,PH-NEC,Negros Occidental Province,AS,PH
+305107,PH-NER,Negros Oriental Province,AS,PH
+305108,PH-NSA,Northern Samar Province,AS,PH
+305109,PH-NUE,Nueva Ecija Province,AS,PH
+305110,PH-NUV,Nueva Vizcaya Province,AS,PH
+305111,PH-PAM,Pampanga Province,AS,PH
+305112,PH-PAN,Pangasinan Province,AS,PH
+305113,PH-PLW,Palawan Province,AS,PH
+305114,PH-QUE,Quezon Province,AS,PH
+305115,PH-QUI,Quirino Province,AS,PH
+305116,PH-RIZ,Rizal Province,AS,PH
+305117,PH-ROM,Romblon Province,AS,PH
+305118,PH-SAR,Sarangani Province,AS,PH
+305119,PH-SCO,South Cotabato Province,AS,PH
+305120,PH-SIG,Siquijor Province,AS,PH
+305121,PH-SLE,Southern Leyte Province,AS,PH
+305122,PH-SLU,Sulu Province,AS,PH
+305123,PH-SOR,Sorsogon Province,AS,PH
+305124,PH-SUK,Sultan Kudarat Province,AS,PH
+305125,PH-SUN,Surigao del Norte Province,AS,PH
+305126,PH-SUR,Surigao del Sur Province,AS,PH
+305127,PH-TAR,Tarlac Province,AS,PH
+305128,PH-TAW,Tawi-Tawi Province,AS,PH
+305130,PH-WSA,Samar Province,AS,PH
+305131,PH-ZAN,Zamboanga del Norte Province,AS,PH
+305132,PH-ZAS,Zamboanga del Sur Province,AS,PH
+305133,PH-ZMB,Zambales Province,AS,PH
+305134,PH-ZSI,Zamboanga Sibiguey Province,AS,PH
+305135,PK-BA,Balochistan,AS,PK
+305138,PK-GB,Gilgit-Baltistan,AS,PK
+305136,PK-IS,Islamabad Capital Territory,AS,PK
+305137,PK-JK,Azad Jammu and Kashmir,AS,PK
+305139,PK-KP,Khyber Pakhtunkhwa,AS,PK
+305140,PK-PB,Punjab,AS,PK
+305141,PK-SD,Sindh,AS,PK
+305144,PL-DS,Lower Silesia,EU,PL
+305145,PL-KP,Kuyavia-Pomerania,EU,PL
+305146,PL-LB,Lubusz,EU,PL
+305147,PL-LD,Lodz,EU,PL
+305148,PL-LU,Lublin,EU,PL
+305149,PL-MA,Lesser Poland,EU,PL
+305150,PL-MZ,Masovia,EU,PL
+305151,PL-OP,Opole,EU,PL
+305152,PL-PD,Podlachia,EU,PL
+305153,PL-PK,Subcarpathia,EU,PL
+305154,PL-PM,Pomerania,EU,PL
+305155,PL-SK,Swietokrzyskie,EU,PL
+305156,PL-SL,Silesia,EU,PL
+305158,PL-WN,Warmia-Masuria,EU,PL
+305159,PL-WP,Greater Poland,EU,PL
+305160,PL-ZP,West Pomerania,EU,PL
+305161,PM-ML,Miquelon-Longlade,NA,PM
+305162,PM-SP,Saint-Pierre,NA,PM
+316595,PS-BTH,Bethlehem Governorate,AS,PS
+316596,PS-DEB,Deir al-Balah Governorate,AS,PS
+316597,PS-GZA,Gaza Governorate,AS,PS
+316600,PS-JEM,Jerusalem Governorate,AS,PS
+316598,PS-JEN,Jenin Governorate,AS,PS
+316599,PS-JRH,Jerico Governorate,AS,PS
+316601,PS-KYS,Khan Yunis Governorate,AS,PS
+316602,PS-NBS,Nablus Governorate,AS,PS
+316603,PS-NGZ,North Gaza Governorate,AS,PS
+316604,PS-QQA,Qalqilya Governorate,AS,PS
+316606,PS-RBH,Ramallah and al-Bireh Governorate,AS,PS
+316605,PS-RFH,Rafah Governorate,AS,PS
+316607,PS-SLT,Salfit Governorate,AS,PS
+316608,PS-TBS,Tubas Governorate,AS,PS
+316609,PS-TKM,Tulkarm Governorate,AS,PS
+305167,PT-01,Aveiro District,EU,PT
+305168,PT-02,Beja District,EU,PT
+305169,PT-03,Braga District,EU,PT
+305170,PT-04,Bragança District,EU,PT
+305171,PT-05,Castelo Branco District,EU,PT
+305172,PT-06,Coimbra District,EU,PT
+305173,PT-07,Évora District,EU,PT
+305174,PT-08,Faro District,EU,PT
+305175,PT-09,Guarda District,EU,PT
+305176,PT-10,Leiria District,EU,PT
+305177,PT-11,Lisbon District,EU,PT
+305178,PT-12,Portalegre District,EU,PT
+305179,PT-13,Oporto District,EU,PT
+305180,PT-14,Santarém District,EU,PT
+305181,PT-15,Setúbal District,EU,PT
+305182,PT-16,Viana do Castelo District,EU,PT
+305183,PT-17,Vila Real District,EU,PT
+305184,PT-18,Viseu District,EU,PT
+305185,PT-20,Autonomous Region of Azores,EU,PT
+305186,PT-30,Autonomous Region of Madeira,EU,PT
+306430,PW-002,Aimeliik,OC,PW
+306429,PW-004,Airai,OC,PW
+306428,PW-010,Angaur,OC,PW
+306427,PW-050,Hatobohei,OC,PW
+306426,PW-100,Kayangel,OC,PW
+306425,PW-150,Koror,OC,PW
+306424,PW-212,Melekeok,OC,PW
+306423,PW-214,Ngaraard,OC,PW
+306422,PW-218,Ngarchelong,OC,PW
+306420,PW-222,Ngardmau,OC,PW
+306421,PW-224,Ngatpang,OC,PW
+306419,PW-226,Ngchesar,OC,PW
+306418,PW-227,Ngeremlengui,OC,PW
+306417,PW-228,Ngiwal,OC,PW
+306416,PW-350,Peleliu,OC,PW
+306415,PW-370,Sonsorol,OC,PW
+305189,PY-1,Concepción Department,SA,PY
+305190,PY-10,Alto Paraná Department,SA,PY
+305191,PY-11,Central Department,SA,PY
+305192,PY-12,Ñeembucú Department,SA,PY
+305193,PY-13,Amambay Department,SA,PY
+305194,PY-14,Canindeyú Department,SA,PY
+305195,PY-15,Presidente Hayes Department,SA,PY
+305196,PY-16,Alto Paraguay Department,SA,PY
+305197,PY-19,Boquerón Department,SA,PY
+305198,PY-2,San Pedro Department,SA,PY
+305199,PY-3,Cordillera Department,SA,PY
+305200,PY-4,Guairá Department,SA,PY
+305201,PY-5,Caaguazú Department,SA,PY
+305202,PY-6,Caazapá Department,SA,PY
+305203,PY-7,Itapúa Department,SA,PY
+305204,PY-8,Misiones Department,SA,PY
+305205,PY-9,Paraguarí Department,SA,PY
+306330,PY-ASU,Asunción Capital District,SA,PY
+305207,QA-DA,Ad-Dawhah Municipality,AS,QA
+305210,QA-JU,Al Jumayliyah Municipality,AS,QA
+305211,QA-KH,Al Khor Municipality,AS,QA
+305212,QA-MS,Al Shamal Municipality,AS,QA
+305213,QA-RA,Al Rayyan Municipality,AS,QA
+336916,QA-SH,Al-Shahaniya Municipality,AS,QA
+305215,QA-US,Umm Salal Municipality,AS,QA
+305216,QA-WA,Al Wakrah Municipality,AS,QA
+336917,QA-ZA,Al Daayen Municipality,AS,QA
+305218,RO-AB,Alba,EU,RO
+305219,RO-AG,Argeş,EU,RO
+305220,RO-AR,Arad,EU,RO
+305221,RO-B,Bucureşti,EU,RO
+305222,RO-BC,Bacău,EU,RO
+305223,RO-BH,Bihor,EU,RO
+305224,RO-BN,Bistriţa-Năsăud,EU,RO
+305225,RO-BR,Brăila,EU,RO
+305226,RO-BT,Botoşani,EU,RO
+305227,RO-BV,Braşov,EU,RO
+305228,RO-BZ,Buzău,EU,RO
+305229,RO-CJ,Cluj,EU,RO
+305230,RO-CL,Călăraşi,EU,RO
+305231,RO-CS,Caras-Severin,EU,RO
+305232,RO-CT,Constanţa,EU,RO
+305233,RO-CV,Covasna,EU,RO
+305234,RO-DB,Dâmboviţa,EU,RO
+305235,RO-DJ,Dolj,EU,RO
+305236,RO-GJ,Gorj,EU,RO
+305237,RO-GL,Galaţi,EU,RO
+305238,RO-GR,Giurgiu,EU,RO
+305239,RO-HD,Hunedoara,EU,RO
+305240,RO-HR,Harghita,EU,RO
+305241,RO-IF,Ilfov,EU,RO
+305242,RO-IL,Ialomiţa,EU,RO
+305243,RO-IS,Iaşi,EU,RO
+305244,RO-MH,Mehedinţi,EU,RO
+305245,RO-MM,Maramureş,EU,RO
+305246,RO-MS,Mureş,EU,RO
+305247,RO-NT,Neamţ,EU,RO
+305248,RO-OT,Olt,EU,RO
+305249,RO-PH,Prahova,EU,RO
+305250,RO-SB,Sibiu,EU,RO
+305251,RO-SJ,Sălaj,EU,RO
+305252,RO-SM,Satu Mare,EU,RO
+305253,RO-SV,Suceava,EU,RO
+305254,RO-TL,Tulcea,EU,RO
+305255,RO-TM,Timiş,EU,RO
+305256,RO-TR,Teleorman,EU,RO
+305258,RO-VL,Vâlcea,EU,RO
+305259,RO-VN,Vrancea,EU,RO
+305260,RO-VS,Vaslui,EU,RO
+306590,RS-00,Beograd (city),EU,RS
+306591,RS-01,Northern Bačka,EU,RS
+306592,RS-02,Central Banat,EU,RS
+306593,RS-03,North Banat,EU,RS
+306594,RS-04,South Banat,EU,RS
+306595,RS-05,West Bačka,EU,RS
+306596,RS-06,South Bačka,EU,RS
+306597,RS-07,Srem,EU,RS
+306598,RS-08,Mačva,EU,RS
+306599,RS-09,Kolubara,EU,RS
+306600,RS-10,Podunavlje,EU,RS
+306601,RS-11,Braničevo,EU,RS
+306602,RS-12,Šumadija,EU,RS
+306603,RS-13,Pomoravlje,EU,RS
+306604,RS-14,Bor,EU,RS
+306605,RS-15,Zaječar,EU,RS
+306606,RS-16,Zlatibor,EU,RS
+306607,RS-17,Moravica,EU,RS
+306608,RS-18,Raška,EU,RS
+306609,RS-19,Rasina,EU,RS
+306610,RS-20,Nišava,EU,RS
+306611,RS-21,Toplica,EU,RS
+306612,RS-22,Pirot,EU,RS
+306613,RS-23,Jablanica,EU,RS
+306614,RS-24,Pčinja,EU,RS
+306615,RS-25,Kosovo,EU,RS
+306616,RS-26,Peć,EU,RS
+306617,RS-27,Prizren,EU,RS
+306618,RS-28,Kosovska Mitrovica,EU,RS
+306619,RS-29,Kosovo-Pomoravlje,EU,RS
+305262,RU-AD,Republic of Adygea,EU,RU
+305263,RU-AL,Altai Republic,EU,RU
+305264,RU-ALT,Altai Krai,EU,RU
+305265,RU-AMU,Amur Oblast,EU,RU
+305266,RU-ARK,Arkhangelsk Oblast,EU,RU
+305267,RU-AST,Astrakhan Oblast,EU,RU
+305268,RU-BA,Republic of Bashkortostan,EU,RU
+305269,RU-BEL,Belgorod Oblast,EU,RU
+305270,RU-BRY,Bryansk Oblast,EU,RU
+305271,RU-BU,Republic of Buryat,EU,RU
+305272,RU-CE,Chechen Republic,EU,RU
+305273,RU-CHE,Chelyabinsk Oblast,EU,RU
+305274,RU-CHI,Zabaykalsky Krai,EU,RU
+305275,RU-CHU,Chukotka Autonomous Okrug,EU,RU
+305276,RU-CU,Chuvash Republic,EU,RU
+305277,RU-DA,Republic of Dagestan,EU,RU
+305278,RU-IN,Republic of Ingushetia,EU,RU
+305279,RU-IRK,Irkutsk Oblast,EU,RU
+305280,RU-IVA,Ivanovo Oblast,EU,RU
+305281,RU-KAM,Kamchatka Krai,EU,RU
+305282,RU-KB,Kabardino-Balkar Republic,EU,RU
+305283,RU-KC,Karachay-Cherkess Republic,EU,RU
+305284,RU-KDA,Krasnodar Krai,EU,RU
+305285,RU-KEM,Kemerovo Oblast,EU,RU
+305286,RU-KGD,Kaliningrad Oblast,EU,RU
+305287,RU-KGN,Kurgan Oblast,EU,RU
+305288,RU-KHA,Khabarovsk Krai,EU,RU
+305289,RU-KHM,Khanty-Mansi Autonomous Okrug,EU,RU
+305290,RU-KIR,Kirov Oblast,EU,RU
+305291,RU-KK,Republic of Khakassia,EU,RU
+305292,RU-KL,Republic of Kalmykia,EU,RU
+305293,RU-KLU,Kaluga Oblast,EU,RU
+305294,RU-KO,Komi Republic,EU,RU
+305295,RU-KOS,Kostroma Oblast,EU,RU
+305296,RU-KR,Republic of Karelia,EU,RU
+305297,RU-KRS,Kursk Oblast,EU,RU
+305298,RU-KYA,Krasnoyarsk Krai,EU,RU
+305299,RU-LEN,Leningrad Oblast,EU,RU
+305300,RU-LIP,Lipetsk Oblast,EU,RU
+305301,RU-MAG,Magadan Oblast,EU,RU
+305302,RU-ME,Mari El Republic,EU,RU
+305303,RU-MO,Republic of Mordovia,EU,RU
+305304,RU-MOS,Moscow Oblast,EU,RU
+305305,RU-MOW,Moscow (city),EU,RU
+305306,RU-MUR,Murmansk Oblast,EU,RU
+305307,RU-NEN,Nenets Autonomous Okrug,EU,RU
+305308,RU-NGR,Novgorod Oblast,EU,RU
+305309,RU-NIZ,Nizhny Novgorod Oblast,EU,RU
+305310,RU-NVS,Novosibirsk Oblast,EU,RU
+305311,RU-OMS,Omsk Oblast,EU,RU
+305312,RU-ORE,Orenburg Oblast,EU,RU
+305313,RU-ORL,Oryol Oblast,EU,RU
+305314,RU-PER,Perm Krai,EU,RU
+305315,RU-PNZ,Penza Oblast,EU,RU
+305316,RU-PRI,Primorsky Krai,EU,RU
+305317,RU-PSK,Pskov Oblast,EU,RU
+305318,RU-ROS,Rostov Oblast,EU,RU
+305319,RU-RYA,Ryazan Oblast,EU,RU
+305320,RU-SA,Sakha (Yakutia) Republic,EU,RU
+305321,RU-SAK,Sakhalin Oblast,EU,RU
+305322,RU-SAM,Samara Oblast,EU,RU
+305323,RU-SAR,Saratov Oblast,EU,RU
+305324,RU-SE,Republic of North Ossetia-Alania,EU,RU
+305325,RU-SMO,Smolensk Oblast,EU,RU
+305326,RU-SPE,Saint Petersburg (city),EU,RU
+305327,RU-STA,Stavropol Krai,EU,RU
+305328,RU-SVE,Sverdlovsk Oblast,EU,RU
+305329,RU-TA,Republic of Tatarstan,EU,RU
+305330,RU-TAM,Tambov Oblast,EU,RU
+305331,RU-TOM,Tomsk Oblast,EU,RU
+305332,RU-TUL,Tula Oblast,EU,RU
+305333,RU-TVE,Tver Oblast,EU,RU
+305334,RU-TY,Tuva Republic,EU,RU
+305335,RU-TYU,Tyumen Oblast,EU,RU
+305337,RU-UD,Udmurt Republic,EU,RU
+305338,RU-ULY,Ulyanovsk Oblast,EU,RU
+305339,RU-UOB,Ust-Orda Buryat Autonomous Okrug,EU,RU
+305340,RU-VGG,Volgograd Oblast,EU,RU
+305341,RU-VLA,Vladimir Oblast,EU,RU
+305342,RU-VLG,Vologda Oblast,EU,RU
+305343,RU-VOR,Voronezh Oblast,EU,RU
+305344,RU-YAN,Yamalo-Nenets Autonomous Okrug,EU,RU
+305345,RU-YAR,Yaroslavl Oblast,EU,RU
+305346,RU-YEV,Jewish Autonomous Oblast,EU,RU
+306620,RW-01,Kigali Province,AF,RW
+306621,RW-02,Eastern Province,AF,RW
+306622,RW-03,Northern Province,AF,RW
+306623,RW-04,Western Province,AF,RW
+306624,RW-05,Southern Province,AF,RW
+305347,RW-B,Gitarama,AF,RW
+305348,RW-C,Butare,AF,RW
+305349,RW-D,Gikongoro,AF,RW
+305350,RW-E,Cyangugu,AF,RW
+305351,RW-F,Kibuye,AF,RW
+305352,RW-G,Gisenyi,AF,RW
+305353,RW-H,Ruhengeri,AF,RW
+305354,RW-I,Byumba,AF,RW
+305355,RW-J,Kibungo,AF,RW
+305356,RW-K,Kigali-Rural Kigali y' Icyaro,AF,RW
+305357,RW-L,Kigali-Ville Kigali Ngari,AF,RW
+305358,RW-M,Mutara,AF,RW
+305360,SA-01,Riyadh Region,AS,SA
+305361,SA-02,Makkah Region,AS,SA
+305362,SA-03,Al Madinah Region,AS,SA
+305363,SA-04,Ash Sharqiyah Region,AS,SA
+305364,SA-05,Al Qasim Region,AS,SA
+305365,SA-06,Ha'il Region,AS,SA
+305366,SA-07,Tabuk Region,AS,SA
+305367,SA-08,The Northern Border Region,AS,SA
+305368,SA-09,Jlzan Region,AS,SA
+305369,SA-10,Najran Region,AS,SA
+305370,SA-11,Al Batah Region,AS,SA
+305371,SA-12,Al Jawf Region,AS,SA
+305372,SA-14,Asir Region,AS,SA
+305374,SB-CE,Central,OC,SB
+306625,SB-CH,Choiseul,OC,SB
+305375,SB-CT,Capital Territory (Honiara),OC,SB
+305376,SB-GU,Guadalcanal,OC,SB
+305377,SB-IS,Isabel,OC,SB
+305378,SB-MK,Makira,OC,SB
+305379,SB-ML,Malaita,OC,SB
+306626,SB-RB,Rennell and Bellona,OC,SB
+305380,SB-TE,Temotu,OC,SB
+305382,SB-WE,Western,OC,SB
+306627,SC-01,Anse aux Pins,AF,SC
+306628,SC-02,Anse Boileau,AF,SC
+306629,SC-03,Anse Étoile,AF,SC
+306630,SC-04,Anse Louis,AF,SC
+306631,SC-05,Anse Royale,AF,SC
+306632,SC-06,Baie Lazare,AF,SC
+306633,SC-07,Baie Sainte Anne,AF,SC
+306634,SC-08,Beau Vallon,AF,SC
+306635,SC-09,Bel Air,AF,SC
+306636,SC-10,Bel Ombre,AF,SC
+306637,SC-11,Cascade,AF,SC
+306638,SC-12,Glacis,AF,SC
+306639,SC-13,Grand' Anse (Mahé),AF,SC
+306640,SC-14,Grand' Anse (Praslin),AF,SC
+306641,SC-15,La Digue,AF,SC
+306642,SC-16,La Rivière Anglaise,AF,SC
+306643,SC-17,Mont Buxton,AF,SC
+306644,SC-18,Mont Fleuri,AF,SC
+306645,SC-19,Plaisance,AF,SC
+306646,SC-20,Pointe La Rue,AF,SC
+306647,SC-21,Port Glaud,AF,SC
+306648,SC-22,Saint Louis,AF,SC
+306649,SC-23,Takamaka,AF,SC
+305384,SD-01,Northern State,AF,SD
+305385,SD-02,North Darfur State,AF,SD
+305386,SD-03,Khartoum State,AF,SD
+305387,SD-04,River Nile State,AF,SD
+305388,SD-05,Kassala State,AF,SD
+305389,SD-06,Al Qadarif State,AF,SD
+305390,SD-07,Al Jazirah State,AF,SD
+305391,SD-08,White Nile State,AF,SD
+305392,SD-09,North Kurdufan State,AF,SD
+305393,SD-10,West Kurdufan State,AF,SD
+305394,SD-11,South Darfur State,AF,SD
+305395,SD-12,West Darfur State,AF,SD
+305396,SD-13,South Kurdufan State,AF,SD
+305407,SD-24,Blue Nile State,AF,SD
+305408,SD-25,Sennar State,AF,SD
+305409,SD-26,Red Sea State,AF,SD
+309528,SD-DC,Central Darfur State,AF,SD
+309529,SD-DE,East Darfur State,AF,SD
+305411,SE-AB,Stockholms län,EU,SE
+305412,SE-AC,Västerbottens län,EU,SE
+305413,SE-BD,Norrbottena län,EU,SE
+305414,SE-C,Uppsala län,EU,SE
+305415,SE-D,Södermanlands län,EU,SE
+305416,SE-E,Östergötlands län,EU,SE
+305417,SE-F,Jönköpings län,EU,SE
+305418,SE-G,Kronoberge län,EU,SE
+305419,SE-H,Kalmar län,EU,SE
+305420,SE-I,Gotlands län,EU,SE
+305421,SE-K,Blekinge län,EU,SE
+305422,SE-M,Skåne län,EU,SE
+305423,SE-N,Hallands län,EU,SE
+305424,SE-Q,Västra Götalands län,EU,SE
+305425,SE-S,Värmlanda län,EU,SE
+305426,SE-T,Örebro län,EU,SE
+305427,SE-U,Västmanlanda län,EU,SE
+305429,SE-W,Dalarnas län,EU,SE
+305430,SE-X,Gävleborge län,EU,SE
+305431,SE-Y,Västernorrlands län,EU,SE
+305432,SE-Z,Jämtlande län,EU,SE
+306650,SG-01,Central Singapore,AS,SG
+306651,SG-02,North East,AS,SG
+306652,SG-03,North West,AS,SG
+306653,SG-04,South East,AS,SG
+306654,SG-05,South West,AS,SG
+305434,SH-AC,Ascension,AF,SH
+305435,SH-SH,Saint Helena,AF,SH
+305436,SH-TA,Tristan da Cunha,AF,SH
+305438,SI-001,Ajdovscina,EU,SI
+305439,SI-002,Beltinci,EU,SI
+305440,SI-003,Bled,EU,SI
+305441,SI-004,Bohinj,EU,SI
+305442,SI-005,Borovnica,EU,SI
+305443,SI-006,Bovec,EU,SI
+305444,SI-007,Brda,EU,SI
+305445,SI-008,Brezovica,EU,SI
+305446,SI-009,Brezica,EU,SI
+305447,SI-010,Tisina,EU,SI
+305448,SI-011,Celje,EU,SI
+305449,SI-012,Cerklje na Gorenjskem,EU,SI
+305450,SI-013,Cerknica,EU,SI
+305451,SI-014,Cerkno,EU,SI
+305452,SI-015,Crensovci,EU,SI
+305453,SI-016,Crna na Koroskem,EU,SI
+305454,SI-017,Crnomelj,EU,SI
+305455,SI-018,Destrnik,EU,SI
+305456,SI-019,Divaca,EU,SI
+305457,SI-020,Dobrepolje,EU,SI
+305458,SI-021,Dobrova-Polhov Gradec,EU,SI
+305459,SI-022,Dol pri Ljubljani,EU,SI
+305460,SI-023,Domzale,EU,SI
+305461,SI-024,Dornava,EU,SI
+305462,SI-025,Dravograd,EU,SI
+305463,SI-026,Duplek,EU,SI
+305464,SI-027,Gorenja vas-Poljane,EU,SI
+305465,SI-028,Gorsnica,EU,SI
+305466,SI-029,Gornja Radgona,EU,SI
+305467,SI-030,Gornji Grad,EU,SI
+305468,SI-031,Gornji Petrovci,EU,SI
+305469,SI-032,Grosuplje,EU,SI
+305470,SI-033,Salovci,EU,SI
+305471,SI-034,Hrastnik,EU,SI
+305472,SI-035,Hrpelje-Kozina,EU,SI
+305473,SI-036,Idrija,EU,SI
+305474,SI-037,Ig,EU,SI
+305475,SI-038,IIrska Bistrica,EU,SI
+305476,SI-039,Ivancna Gorica,EU,SI
+305477,SI-040,Izola,EU,SI
+305478,SI-041,Jesenice,EU,SI
+305479,SI-042,Jursinci,EU,SI
+305480,SI-043,Kamnik,EU,SI
+305481,SI-044,Kanal,EU,SI
+305482,SI-045,Kidricevo,EU,SI
+305483,SI-046,Kobarid,EU,SI
+305484,SI-047,Kobilje,EU,SI
+305485,SI-048,Jovevje,EU,SI
+305486,SI-049,Komen,EU,SI
+305487,SI-050,Koper,EU,SI
+305488,SI-051,Kozje,EU,SI
+305489,SI-052,Kranj,EU,SI
+305490,SI-053,Kranjska Gora,EU,SI
+305491,SI-054,Krsko,EU,SI
+305492,SI-055,Kungota,EU,SI
+305493,SI-056,Kuzma,EU,SI
+305494,SI-057,Lasko,EU,SI
+305495,SI-058,Lenart,EU,SI
+305496,SI-059,Lendava,EU,SI
+305497,SI-060,Litija,EU,SI
+305498,SI-061,Ljubljana,EU,SI
+305499,SI-062,Ljubno,EU,SI
+305500,SI-063,Ljutomer,EU,SI
+305501,SI-064,Logatec,EU,SI
+305502,SI-065,Loska dolina,EU,SI
+305503,SI-066,Loski Potok,EU,SI
+305504,SI-067,Luce,EU,SI
+305505,SI-068,Lukovica,EU,SI
+305506,SI-069,Majsperk,EU,SI
+305507,SI-070,Maribor,EU,SI
+305508,SI-071,Medvode,EU,SI
+305509,SI-072,Menges,EU,SI
+305510,SI-073,Metlika,EU,SI
+305511,SI-074,Mezica,EU,SI
+305512,SI-075,Miren-Kostanjevica,EU,SI
+305513,SI-076,Mislinja,EU,SI
+305514,SI-077,Moravce,EU,SI
+305515,SI-078,Moravske Toplice,EU,SI
+305516,SI-079,Mozirje,EU,SI
+305517,SI-080,Murska Sobota,EU,SI
+305518,SI-081,Muta,EU,SI
+305519,SI-082,Naklo,EU,SI
+305520,SI-083,Nazarje,EU,SI
+305521,SI-084,Nova Gorica,EU,SI
+305522,SI-085,Nova mesto,EU,SI
+306655,SI-086,Odranci,EU,SI
+306656,SI-087,Ormo,EU,SI
+306657,SI-088,Osilnica,EU,SI
+306658,SI-089,Pesnica,EU,SI
+306659,SI-090,Piran,EU,SI
+306660,SI-091,Pivka,EU,SI
+306661,SI-092,Podčetrtek,EU,SI
+306662,SI-093,Podvelka,EU,SI
+306663,SI-094,Postojna,EU,SI
+306664,SI-095,Preddvor,EU,SI
+306665,SI-096,Ptuj,EU,SI
+306666,SI-097,Puconci,EU,SI
+306667,SI-098,Rače-Fram,EU,SI
+306668,SI-099,Radeče,EU,SI
+306669,SI-100,Radenci,EU,SI
+306670,SI-101,Radlje ob Dravi,EU,SI
+306671,SI-102,Radovljica,EU,SI
+306672,SI-103,Ravne na Koroškem,EU,SI
+306673,SI-104,Ribnica,EU,SI
+306674,SI-105,Rogašovci,EU,SI
+306675,SI-106,Rogaška Slatina,EU,SI
+306676,SI-107,Rogatec,EU,SI
+306677,SI-108,Ruše,EU,SI
+306678,SI-109,Semič,EU,SI
+306679,SI-110,Sevnica,EU,SI
+306680,SI-111,Seana,EU,SI
+306681,SI-112,Slovenj Gradec,EU,SI
+306682,SI-113,Slovenska Bistrica,EU,SI
+306683,SI-114,Slovenske Konjice,EU,SI
+306684,SI-115,Starše,EU,SI
+305523,SI-116,Sveti Jurij,EU,SI
+305524,SI-117,Sencur,EU,SI
+305525,SI-118,Sentilj,EU,SI
+305526,SI-119,Sentjernej,EU,SI
+305527,SI-120,Sentjur pri Celju,EU,SI
+305528,SI-121,Skocjan,EU,SI
+305529,SI-122,Skofja Loka,EU,SI
+305530,SI-123,Skoftjica,EU,SI
+305531,SI-124,Smarje pri Jelsah,EU,SI
+305532,SI-125,Smartno ob Paki,EU,SI
+305533,SI-126,Sostanj,EU,SI
+305534,SI-127,Store,EU,SI
+305535,SI-128,Tolmin,EU,SI
+305536,SI-129,Trbovje,EU,SI
+305537,SI-130,Trebnje,EU,SI
+305538,SI-131,Trzic,EU,SI
+305539,SI-132,Turnisce,EU,SI
+305540,SI-133,Velenje,EU,SI
+305541,SI-134,Velika Lasce,EU,SI
+305542,SI-135,Videm,EU,SI
+305543,SI-136,Vipava,EU,SI
+305544,SI-137,Vitanje,EU,SI
+305545,SI-138,Vojnik,EU,SI
+306685,SI-139,Vojnik,EU,SI
+305546,SI-140,Vrhnika,EU,SI
+305547,SI-141,Vuzenica,EU,SI
+305548,SI-142,Zagorje ob Savi,EU,SI
+305549,SI-143,Zavrc,EU,SI
+305550,SI-144,Zrece,EU,SI
+305551,SI-146,Zelezniki,EU,SI
+305552,SI-147,Ziri,EU,SI
+305553,SI-148,Benedikt,EU,SI
+305554,SI-149,Bistrica ob Sotli,EU,SI
+305555,SI-150,Bloke,EU,SI
+305556,SI-151,Braslovce,EU,SI
+305557,SI-152,Cankova,EU,SI
+305558,SI-153,Cerkvenjak,EU,SI
+305559,SI-154,Dobje,EU,SI
+305560,SI-155,Dobrna,EU,SI
+305561,SI-156,Dobrovnik,EU,SI
+305562,SI-157,Dolenjske Toplice,EU,SI
+305563,SI-158,Grad,EU,SI
+305564,SI-159,Hajdina,EU,SI
+305565,SI-160,Hoce-Slivnica,EU,SI
+305566,SI-161,Hodos,EU,SI
+305567,SI-162,Jorjul,EU,SI
+305568,SI-163,Jezersko,EU,SI
+305569,SI-164,Komenda,EU,SI
+305570,SI-165,Kostel,EU,SI
+305571,SI-166,Krizevci,EU,SI
+305572,SI-167,Lovrenc na Pohorju,EU,SI
+305573,SI-168,Markovci,EU,SI
+305574,SI-169,Miklavz na Dravskern polju,EU,SI
+305575,SI-170,Mirna Pec,EU,SI
+306686,SI-171,Oplotnica,EU,SI
+306687,SI-172,Podlehnik,EU,SI
+306688,SI-173,Polzela,EU,SI
+306689,SI-174,Prebold,EU,SI
+306690,SI-175,Prevalje,EU,SI
+306691,SI-176,Razkrije,EU,SI
+306692,SI-177,Ribnica na Pohorju,EU,SI
+306693,SI-178,Selnica ob Dravi,EU,SI
+306694,SI-179,Sodraica,EU,SI
+306695,SI-180,Solčava,EU,SI
+305576,SI-181,Sveta Ana,EU,SI
+305577,SI-182,Sveti Andraz v Slovenskih goricah,EU,SI
+305578,SI-183,Sempeter-Vrtojba,EU,SI
+305579,SI-184,Tabor,EU,SI
+305580,SI-185,Trnovska vas,EU,SI
+305581,SI-186,Trzin,EU,SI
+305582,SI-187,Velika Polana,EU,SI
+305583,SI-188,Verzej,EU,SI
+305584,SI-189,Vransko,EU,SI
+305585,SI-190,Zalec,EU,SI
+305586,SI-191,Zetale,EU,SI
+305587,SI-192,Zirovnica,EU,SI
+305588,SI-193,Zuzemberk,EU,SI
+305589,SI-194,Smartno pri Litiji,EU,SI
+305591,SK-BC,Banská Bystrica,EU,SK
+305592,SK-BL,Bratislava,EU,SK
+305593,SK-KI,Košice,EU,SK
+305594,SK-NJ,Nitra,EU,SK
+305595,SK-PV,Prešov,EU,SK
+305596,SK-TA,Trnava,EU,SK
+305597,SK-TC,Trenčín,EU,SK
+305599,SK-ZI,Žilina,EU,SK
+305600,SL-E,Eastern Province,AF,SL
+305601,SL-N,Northern Province,AF,SL
+305602,SL-S,Southern Province,AF,SL
+305604,SL-W,Western Area,AF,SL
+306880,SM-01,Acquaviva,EU,SM
+306881,SM-02,Chiesanuova,EU,SM
+306882,SM-03,Domagnano,EU,SM
+306883,SM-04,Faetano,EU,SM
+306884,SM-05,Fiorentino,EU,SM
+306885,SM-06,Borgo Maggiore,EU,SM
+306886,SM-07,San Marino,EU,SM
+306887,SM-08,Montegiardino,EU,SM
+306888,SM-09,Serravalle,EU,SM
+305606,SN-DB,Diourbel Region,AF,SN
+305607,SN-DK,Dakar Region,AF,SN
+305608,SN-FK,Fatick Region,AF,SN
+305609,SN-KD,Kolda Region,AF,SN
+305610,SN-KL,Kaolack Region,AF,SN
+305611,SN-LG,Louga Region,AF,SN
+305612,SN-MT,Matam Region,AF,SN
+305613,SN-SL,Saint-Louis Region,AF,SN
+305614,SN-TC,Tambacounda Region,AF,SN
+305615,SN-TH,Thiès Region,AF,SN
+305617,SN-ZG,Ziguinchor Region,AF,SN
+305618,SO-AW,Awdal,AF,SO
+305619,SO-BK,Bakool,AF,SO
+305620,SO-BN,Banaadir,AF,SO
+305621,SO-BR,Bari,AF,SO
+305622,SO-BY,Bay,AF,SO
+305623,SO-GA,Galguduud,AF,SO
+305624,SO-GE,Gedo,AF,SO
+305625,SO-HI,Hiirsan,AF,SO
+305626,SO-JD,Jubbada Dhexe,AF,SO
+305627,SO-JH,Jubbada Hoose,AF,SO
+305628,SO-MU,Mudug,AF,SO
+305629,SO-NU,Nugaal,AF,SO
+305630,SO-SA,Saneag,AF,SO
+305631,SO-SD,Shabeellaha Dhexe,AF,SO
+305632,SO-SH,Shabeellaha Hoose,AF,SO
+305633,SO-SO,Sool,AF,SO
+305634,SO-TO,Togdheer,AF,SO
+305636,SO-WO,Woqooyi Galbeed,AF,SO
+305637,SR-BR,Brokopondo,SA,SR
+305638,SR-CM,Commewijne,SA,SR
+305639,SR-CR,Coronie,SA,SR
+305640,SR-MA,Marowijne,SA,SR
+305641,SR-NI,Nickerie,SA,SR
+305642,SR-PM,Paramaribo,SA,SR
+305643,SR-PR,Para,SA,SR
+305644,SR-SA,Saramacca,SA,SR
+305645,SR-SI,Sipaliwini,SA,SR
+305647,SR-WA,Wanica,SA,SR
+305397,SS-14,Western Bahr el Ghazal State,AF,SS
+305398,SS-15,Northern Bahr el Ghazal State,AF,SS
+305399,SS-16,Western Equatoria State,AF,SS
+305400,SS-17,Central Equatoria State,AF,SS
+305401,SS-18,Lakes State,AF,SS
+305402,SS-19,Eastern Equatoria State,AF,SS
+305403,SS-20,Jonglei State,AF,SS
+305404,SS-21,Warrap State,AF,SS
+305405,SS-22,Unity State,AF,SS
+305406,SS-23,Upper Nile State,AF,SS
+305648,ST-P,Principe,AF,ST
+305649,ST-S,São Tomé,AF,ST
+305651,SV-AH,Ahuachapan,NA,SV
+305652,SV-CA,Cabanas,NA,SV
+305653,SV-CH,Chalatenango,NA,SV
+305654,SV-CU,Cuscatlan,NA,SV
+305655,SV-LI,La Libertad,NA,SV
+305656,SV-MO,Morazan,NA,SV
+305657,SV-PA,La Paz,NA,SV
+305658,SV-SA,Santa Ana,NA,SV
+305659,SV-SM,San Miguel,NA,SV
+305660,SV-SO,Sonsonate,NA,SV
+305661,SV-SS,San Salvador,NA,SV
+305662,SV-SV,San Vicente,NA,SV
+305664,SV-UN,La Unión,NA,SV
+305665,SV-US,Usulutan,NA,SV
+305666,SY-DI,Damascus Governorate,AS,SY
+305667,SY-DR,Daraa Governorate,AS,SY
+305668,SY-DY,Deir ez-Zor Governorate,AS,SY
+305669,SY-HA,Al-Hasakah Governorate,AS,SY
+305670,SY-HI,Homs Governorate,AS,SY
+305671,SY-HL,Aleppo Governorate,AS,SY
+305672,SY-HM,Hama Governorate,AS,SY
+305673,SY-ID,Idlib Governorate,AS,SY
+305674,SY-LA,Latakia Governorate,AS,SY
+305675,SY-QU,Quneitra Governorate,AS,SY
+305676,SY-RA,Ar-Raqqah Governorate,AS,SY
+305677,SY-RD,Rif Dimashq Governorate,AS,SY
+305678,SY-SU,As-Suwayda Governorate,AS,SY
+305679,SY-TA,Tartus Governorate,AS,SY
+305681,SZ-HH,Hhohho,AF,SZ
+305682,SZ-LU,Lubombo,AF,SZ
+305683,SZ-MA,Manzini,AF,SZ
+305684,SZ-SH,Shiselweni,AF,SZ
+306696,TC-AC,Ambergris Cays,NA,TC
+306697,TC-DC,Dellis Cay,NA,TC
+306698,TC-EC,East Caicos,NA,TC
+306699,TC-FC,French Cay,NA,TC
+306700,TC-GT,Grand Turk,NA,TC
+306701,TC-LW,Little Water Cay,NA,TC
+306702,TC-MC,Middle Caicos,NA,TC
+306703,TC-NC,North Caicos,NA,TC
+306704,TC-PN,Pine Cay,NA,TC
+306705,TC-PR,Providenciales,NA,TC
+306706,TC-RC,Parrot Cay,NA,TC
+306707,TC-SC,South Caicos,NA,TC
+306708,TC-SL,Salt Cay,NA,TC
+306709,TC-WC,West Caicos,NA,TC
+305687,TD-BA,Batha,AF,TD
+305688,TD-BET,Borkou-Ennedi-Tibesti,AF,TD
+305689,TD-BI,Biltine,AF,TD
+305690,TD-CB,Chari-Baguirmi,AF,TD
+305691,TD-GR,Guera,AF,TD
+305692,TD-KA,Kanem,AF,TD
+305693,TD-LC,Lac,AF,TD
+305694,TD-LO,Logone-Occidental,AF,TD
+305695,TD-LR,Logone-Oriental,AF,TD
+305696,TD-MC,Moyen-Chari,AF,TD
+305697,TD-MK,Mayo-Kebbi,AF,TD
+305698,TD-OD,Ouaddai,AF,TD
+305699,TD-SA,Salamat,AF,TD
+305700,TD-TA,Tandjile,AF,TD
+306710,TG-C,Centrale Region,AF,TG
+305703,TG-K,Kara Region,AF,TG
+305704,TG-M,Maritime Region,AF,TG
+306711,TG-P,Plateaux Region,AF,TG
+305705,TG-S,Savanes Region,AF,TG
+305707,TH-10,Bangkok Province,AS,TH
+305708,TH-11,Samut Prakan Province,AS,TH
+305709,TH-12,Nonthaburi Province,AS,TH
+305710,TH-13,Pathum Thani Province,AS,TH
+305711,TH-14,Phra Nakhon Si Ayutthaya Province,AS,TH
+305712,TH-15,Ang Thong Province,AS,TH
+305713,TH-16,Lop Buri Province,AS,TH
+305714,TH-17,Sing Buri Province,AS,TH
+305715,TH-18,Chai Nat Province,AS,TH
+305716,TH-19,Saraburi Province,AS,TH
+305717,TH-20,Chon Buri Province,AS,TH
+305718,TH-21,Rayong Province,AS,TH
+305719,TH-22,Chanthaburi Province,AS,TH
+305720,TH-23,Trat Province,AS,TH
+305721,TH-24,Chachoengsao Province,AS,TH
+305722,TH-25,Prachin Buri Province,AS,TH
+305723,TH-26,Nakhon Nayok Province,AS,TH
+305724,TH-27,Sa Kaeo Province,AS,TH
+305725,TH-30,Nakhon Ratchasima Province,AS,TH
+305726,TH-31,Buri Ram Province,AS,TH
+305727,TH-32,Surin Province,AS,TH
+305728,TH-33,Si Sa Ket Province,AS,TH
+305729,TH-34,Ubon Ratchathani Province,AS,TH
+305730,TH-35,Yasothon Province,AS,TH
+305731,TH-36,Chaiyaphum Province,AS,TH
+305732,TH-37,Amnat Charoen Province,AS,TH
+305733,TH-39,Nong Bua Lam Phu Province,AS,TH
+305734,TH-40,Khon Kaen Province,AS,TH
+305735,TH-41,Udon Thani Province,AS,TH
+305736,TH-42,Loei Province,AS,TH
+305737,TH-43,Nong Khai Province,AS,TH
+305738,TH-44,Maha Sarakham Province,AS,TH
+305739,TH-45,Roi Et Province,AS,TH
+305740,TH-46,Kalasin Province,AS,TH
+305741,TH-47,Sakon Nakhon Province,AS,TH
+305742,TH-48,Nakhon Phanom Province,AS,TH
+305743,TH-49,Mukdahan Province,AS,TH
+305744,TH-50,Chiang Mai Province,AS,TH
+305745,TH-51,Lamphun Province,AS,TH
+305746,TH-52,Lampang Province,AS,TH
+305747,TH-53,Uttaradit Province,AS,TH
+305748,TH-54,Phrae Province,AS,TH
+305749,TH-55,Nan Province,AS,TH
+305750,TH-56,Phayao Province,AS,TH
+305751,TH-57,Chiang Rai Province,AS,TH
+305752,TH-58,Mae Hong Son Province,AS,TH
+305753,TH-60,Nakhon Sawan Province,AS,TH
+305754,TH-61,Uthai Thani Province,AS,TH
+305755,TH-62,Kamphaeng Phet Province,AS,TH
+305756,TH-63,Tak Province,AS,TH
+305757,TH-64,Sukhothai Province,AS,TH
+305758,TH-65,Phitsanulok Province,AS,TH
+305759,TH-66,Phichit Province,AS,TH
+305760,TH-67,Phetchabun Province,AS,TH
+305761,TH-70,Ratchaburi Province,AS,TH
+305762,TH-71,Kanchanaburi Province,AS,TH
+305763,TH-72,Suphan Buri Province,AS,TH
+305764,TH-73,Nakhon Pathom Province,AS,TH
+305765,TH-74,Samut Sakhon Province,AS,TH
+305766,TH-75,Samut Songkhram Province,AS,TH
+305767,TH-76,Phetchaburi Province,AS,TH
+305768,TH-77,Prachuap Khiri Khan Province,AS,TH
+305769,TH-80,Nakhon Si Thammarat Province,AS,TH
+305770,TH-81,Krabi Province,AS,TH
+305771,TH-82,Phang Nga Province,AS,TH
+305772,TH-83,Phuket Province,AS,TH
+305773,TH-84,Surat Thani Province,AS,TH
+305774,TH-85,Ranong Province,AS,TH
+305775,TH-86,Chumphon Province,AS,TH
+305776,TH-90,Songkhla Province,AS,TH
+305777,TH-91,Satun Province,AS,TH
+305778,TH-92,Trang Province,AS,TH
+305779,TH-93,Phattalung Province,AS,TH
+305780,TH-94,Pattani Province,AS,TH
+305781,TH-95,Yala Province,AS,TH
+305782,TH-96,Narathiwat Province,AS,TH
+305783,TH-S,Pattaya Province,AS,TH
+317016,TJ-DU,Dushanbe,AS,TJ
+305785,TJ-GB,Gorno-Badakhshan Autonomous Region,AS,TJ
+305786,TJ-KT,Khatlon Region,AS,TJ
+306738,TJ-RR,Districts of Republican Subordination,AS,TJ
+305787,TJ-SU,Sughd Region,AS,TJ
+305790,TL-AL,Aileu,AS,TL
+305791,TL-AN,Ainaro,AS,TL
+305792,TL-BA,Baucau,AS,TL
+305793,TL-BO,Bobonaro,AS,TL
+305794,TL-CO,Cova Lima,AS,TL
+305795,TL-DI,Dili,AS,TL
+305796,TL-ER,Ermera,AS,TL
+305797,TL-LA,Lautém,AS,TL
+305798,TL-LI,Liquica,AS,TL
+305799,TL-MF,Manafahi,AS,TL
+305800,TL-MT,Manatuto,AS,TL
+305801,TL-OE,Oecussi,AS,TL
+305803,TL-VI,Viqueque,AS,TL
+305804,TM-A,Ahal,AS,TM
+305805,TM-B,Balkan,AS,TM
+305806,TM-D,Daşoguz,AS,TM
+305807,TM-L,Lebap,AS,TM
+305808,TM-M,Mary,AS,TM
+305810,TN-11,Tunis Governorate,AF,TN
+305811,TN-12,Ariana Governorate,AF,TN
+305812,TN-13,Ben Arous Governorate,AF,TN
+305813,TN-14,Manouba Governorate,AF,TN
+305814,TN-21,Nabeul Governorate,AF,TN
+305815,TN-22,Zaghouan Governorate,AF,TN
+305816,TN-23,Bizerte Governorate,AF,TN
+305817,TN-31,Béja Governorate,AF,TN
+305818,TN-32,Jendouba Governorate,AF,TN
+305819,TN-33,Kef Governorate,AF,TN
+305820,TN-34,Siliana Governorate,AF,TN
+305821,TN-41,Kairouan Governorate,AF,TN
+305822,TN-42,Kasserine Governorate,AF,TN
+305823,TN-43,Sidi Bou Zid Governorate,AF,TN
+305824,TN-51,Sousse Governorate,AF,TN
+305825,TN-52,Monastir Governorate,AF,TN
+305826,TN-53,Mahdia Governorate,AF,TN
+305827,TN-61,Sfax Governorate,AF,TN
+305828,TN-71,Gafsa Governorate,AF,TN
+305829,TN-72,Tozeur Governorate,AF,TN
+305830,TN-73,Kebili Governorate,AF,TN
+305831,TN-81,Gabès Governorate,AF,TN
+305832,TN-82,Medenine Governorate,AF,TN
+305833,TN-83,Tataouine Governorate,AF,TN
+306712,TO-01,Eua,OC,TO
+306713,TO-02,Ha'apai,OC,TO
+306714,TO-03,Niuas,OC,TO
+306715,TO-04,Tongatapu,OC,TO
+306716,TO-05,Vava',OC,TO
+305836,TR-01,Adana Province,AS,TR
+305837,TR-02,Adıyaman Province,AS,TR
+305838,TR-03,Afyonkarahisar Province,AS,TR
+305839,TR-04,Ağrı Province,AS,TR
+305840,TR-05,Amasya Province,AS,TR
+305841,TR-06,Ankara Province,AS,TR
+305842,TR-07,Antalya Province,AS,TR
+305843,TR-08,Artvin Province,AS,TR
+305844,TR-09,Aydin Province,AS,TR
+305845,TR-10,Balıkesir Province,AS,TR
+305846,TR-11,Bilecik Province,AS,TR
+305847,TR-12,Bingöl Province,AS,TR
+305848,TR-13,Bitlis Province,AS,TR
+305849,TR-14,Bolu Province,AS,TR
+305850,TR-15,Burdur Province,AS,TR
+305851,TR-16,Bursa Province,AS,TR
+305852,TR-17,Çanakkale Province,AS,TR
+305853,TR-18,Çankırı Province,AS,TR
+305854,TR-19,Çorum Province,AS,TR
+305855,TR-20,Denizli Province,AS,TR
+305856,TR-21,Diyarbakir Province,AS,TR
+305857,TR-22,Edirne Province,AS,TR
+305858,TR-23,Elazığ Province,AS,TR
+305859,TR-24,Erzincan Province,AS,TR
+305860,TR-25,Erzurum Province,AS,TR
+305861,TR-26,Eskişehir Province,AS,TR
+305862,TR-27,Gaziantep Province,AS,TR
+305863,TR-28,Giresun Province,AS,TR
+305864,TR-29,Gümüşhane Province,AS,TR
+305865,TR-30,Hakkâri Province,AS,TR
+305866,TR-31,Hatay Province,AS,TR
+305867,TR-32,Isparta Province,AS,TR
+305868,TR-33,Icel Province,AS,TR
+305869,TR-34,İstanbul Province,AS,TR
+305870,TR-35,İzmir Province,AS,TR
+305871,TR-36,Kars Province,AS,TR
+305872,TR-37,Kastamonu Province,AS,TR
+305873,TR-38,Kayseri Province,AS,TR
+305874,TR-39,Kirklareli Province,AS,TR
+305875,TR-40,Kırşehir Province,AS,TR
+305876,TR-41,Kocaeli Province,AS,TR
+305877,TR-42,Konya Province,AS,TR
+305878,TR-43,Kütahya Province,AS,TR
+305879,TR-44,Malatya Province,AS,TR
+305880,TR-45,Manisa Province,AS,TR
+305881,TR-46,Kahramanmaraş Province,AS,TR
+305882,TR-47,Mardin Province,AS,TR
+305883,TR-48,Muğla Province,AS,TR
+305884,TR-49,Muş Province,AS,TR
+305885,TR-50,Nevşehir Province,AS,TR
+305886,TR-51,Niğde Province,AS,TR
+305887,TR-52,Ordu Province,AS,TR
+305888,TR-53,Rize Province,AS,TR
+305889,TR-54,Sakarya Province,AS,TR
+305890,TR-55,Samsun Province,AS,TR
+305891,TR-56,Siirt Province,AS,TR
+305892,TR-57,Sinop Province,AS,TR
+305893,TR-58,Sivas Province,AS,TR
+305894,TR-59,Tekirdağ Province,AS,TR
+305895,TR-60,Tokat Province,AS,TR
+305896,TR-61,Trabzon Province,AS,TR
+305897,TR-62,Tunceli Province,AS,TR
+305898,TR-63,Şanlıurfa Province,AS,TR
+305899,TR-64,Uşak Province,AS,TR
+305900,TR-65,Van Province,AS,TR
+305901,TR-66,Yozgat Province,AS,TR
+305902,TR-67,Zonguldak Province,AS,TR
+305903,TR-68,Aksaray Province,AS,TR
+305904,TR-69,Bayburt Province,AS,TR
+305905,TR-70,Karaman Province,AS,TR
+305906,TR-71,Kirikkale Province,AS,TR
+305907,TR-72,Batman Province,AS,TR
+305908,TR-73,Şırnak Province,AS,TR
+305909,TR-74,Bartin Province,AS,TR
+305910,TR-75,Ardahan Province,AS,TR
+305911,TR-76,Iğdır Province,AS,TR
+305912,TR-77,Yalova Province,AS,TR
+305913,TR-78,Karabük Province,AS,TR
+305914,TR-79,Kilis Province,AS,TR
+305915,TR-80,Osmaniye Province,AS,TR
+305916,TR-81,Düzce Province,AS,TR
+305918,TT-ARI,Arima,NA,TT
+305919,TT-CHA,Chaguanas,NA,TT
+305920,TT-CTT,Couva-Tabaquite-Talparo,NA,TT
+305921,TT-DMN,Diego Martin,NA,TT
+305922,TT-ETO,Eastern Tobago,NA,TT
+305923,TT-PED,Penal-Debe,NA,TT
+305924,TT-POS,Port of Spain,NA,TT
+305925,TT-PRT,Princes Town,NA,TT
+305926,TT-PTF,Point Fortin,NA,TT
+305927,TT-RCM,Rio Claro-Mayaro,NA,TT
+305928,TT-SFO,San Fernando,NA,TT
+305929,TT-SGE,Sangre Grande,NA,TT
+305930,TT-SIP,Siparia,NA,TT
+305931,TT-SJL,San Juan-Laventille,NA,TT
+305932,TT-TUP,Tunapuna-Piarco,NA,TT
+305934,TT-WTO,Western Tobago,NA,TT
+306889,TV-FUN,Funafuti,OC,TV
+306890,TV-NIT,Niutao,OC,TV
+306891,TV-NIU,Nui,OC,TV
+306892,TV-NKF,Nukufetau,OC,TV
+306893,TV-NKL,Nukulaelae,OC,TV
+306894,TV-NMA,Nanumea,OC,TV
+306895,TV-NMG,Nanumanga,OC,TV
+306896,TV-VAI,Vaitupu,OC,TV
+305936,TW-CHA,Changhua County,AS,TW
+306752,TW-CYI,Chiayi (city),AS,TW
+305937,TW-CYQ,Chiayi County,AS,TW
+305938,TW-HSQ,Hsinchu County,AS,TW
+306751,TW-HSZ,Hsinchu (city),AS,TW
+305939,TW-HUA,Hualien County,AS,TW
+305940,TW-ILA,Ilan County,AS,TW
+305941,TW-KEE,Keelung (city),AS,TW
+306750,TW-KHH,Kaohsiung (municipality),AS,TW
+305942,TW-KHQ,Kaohsiung County,AS,TW
+305943,TW-MIA,Miaoli County,AS,TW
+305944,TW-NAN,Nantou County,AS,TW
+305945,TW-PEN,Penghu County,AS,TW
+305946,TW-PIF,Pingtung County,AS,TW
+305947,TW-TAO,Taoyuan County,AS,TW
+306749,TW-TNN,Tainan City,AS,TW
+305948,TW-TNQ,Tainan County,AS,TW
+306748,TW-TPE,Taipei (municipality),AS,TW
+305949,TW-TPQ,Taipei County,AS,TW
+305950,TW-TTT,Taitung County,AS,TW
+306755,TW-TXG,Taichung (city),AS,TW
+305951,TW-TXQ,Taichung County,AS,TW
+306754,TW-X-KM,Kinmen County,AS,TW
+306753,TW-X-LK,Lienchiang County,AS,TW
+305953,TW-YUN,Yunlin County,AS,TW
+305954,TZ-01,Arusha Region,AF,TZ
+305955,TZ-02,Dar-es-Salaam Region,AF,TZ
+305956,TZ-03,Dodoma Region,AF,TZ
+305957,TZ-04,Iringa Region,AF,TZ
+305958,TZ-05,Kagera Region,AF,TZ
+305959,TZ-06,Kaskazini Pemba Region,AF,TZ
+305960,TZ-07,Kaskazini Unguja Region,AF,TZ
+305961,TZ-08,Xigoma Region,AF,TZ
+305962,TZ-09,Kilimanjaro Region,AF,TZ
+305963,TZ-10,Rusini Pemba Region,AF,TZ
+305964,TZ-11,Kusini Unguja Region,AF,TZ
+305965,TZ-12,Lindi Region,AF,TZ
+305966,TZ-13,Mara Region,AF,TZ
+305967,TZ-14,Mbeya Region,AF,TZ
+305968,TZ-15,Mjini Magharibi Region,AF,TZ
+305969,TZ-16,Morogoro Region,AF,TZ
+305970,TZ-17,Mtwara Region,AF,TZ
+305971,TZ-18,Mwanza Region,AF,TZ
+305972,TZ-19,Pwani Region,AF,TZ
+305973,TZ-20,Rukwa Region,AF,TZ
+305974,TZ-21,Ruvuma Region,AF,TZ
+305975,TZ-22,Shinyanga Region,AF,TZ
+305976,TZ-23,Singida Region,AF,TZ
+305977,TZ-24,Tabora Region,AF,TZ
+305978,TZ-25,Tanga Region,AF,TZ
+305979,TZ-26,Manyara Region,AF,TZ
+305981,UA-05,Vinnytsia,EU,UA
+305982,UA-07,Volyn,EU,UA
+305983,UA-09,Luhansk,EU,UA
+305984,UA-12,Dnipropetrovsk,EU,UA
+305985,UA-14,Donetsk,EU,UA
+305986,UA-18,Zhytomyr,EU,UA
+306717,UA-19,Rivne,EU,UA
+305987,UA-21,Zakarpattia,EU,UA
+305988,UA-23,Zaporizhia,EU,UA
+305989,UA-26,Ivano-Frankivsk,EU,UA
+305990,UA-30,Kiev (city),EU,UA
+305991,UA-32,Kiev,EU,UA
+305992,UA-35,Kirovohrad,EU,UA
+305993,UA-40,Sevastopol (city),EU,UA
+305994,UA-43,Crimea,EU,UA
+305995,UA-46,Lviv,EU,UA
+305996,UA-48,Mykolaiv,EU,UA
+305997,UA-51,Odessa,EU,UA
+305998,UA-53,Poltava,EU,UA
+305999,UA-56,Rivnens'ka Oblast',EU,UA
+306000,UA-59,Sumy,EU,UA
+306001,UA-61,Ternopil,EU,UA
+306002,UA-63,Kharkiv,EU,UA
+306003,UA-65,Kherson,EU,UA
+306004,UA-68,Khmelnytskyi,EU,UA
+306005,UA-71,Cherkasy,EU,UA
+306006,UA-74,Chernihiv,EU,UA
+306007,UA-77,Chernivtsi,EU,UA
+332486,UG-C,Central Region,AF,UG
+332487,UG-E,Eastern Region,AF,UG
+332488,UG-N,Northern Region,AF,UG
+332489,UG-W,Western Region,AF,UG
+306066,UM-67,Johnston Atoll,OC,UM
+306067,UM-71,Midway Islands,OC,UM
+306068,UM-76,Navassa Island,OC,UM
+306069,UM-79,Wake Island,OC,UM
+306070,UM-81,Baker Island,OC,UM
+306071,UM-84,Howland Island,OC,UM
+306072,UM-86,Jarvis Island,OC,UM
+306073,UM-89,Kingman Reef,OC,UM
+306074,UM-95,Palmyra Atoll,OC,UM
+306076,US-AK,Alaska,NA,US
+306077,US-AL,Alabama,NA,US
+306078,US-AR,Arkansas,NA,US
+306079,US-AZ,Arizona,NA,US
+306080,US-CA,California,NA,US
+306081,US-CO,Colorado,NA,US
+306082,US-CT,Connecticut,NA,US
+306083,US-DC,District of Columbia,NA,US
+306084,US-DE,Delaware,NA,US
+306085,US-FL,Florida,NA,US
+306086,US-GA,Georgia,NA,US
+306087,US-HI,Hawaii,NA,US
+306088,US-IA,Iowa,NA,US
+306089,US-ID,Idaho,NA,US
+306090,US-IL,Illinois,NA,US
+306091,US-IN,Indiana,NA,US
+306092,US-KS,Kansas,NA,US
+306093,US-KY,Kentucky,NA,US
+306094,US-LA,Louisiana,NA,US
+306095,US-MA,Massachusetts,NA,US
+306096,US-MD,Maryland,NA,US
+306097,US-ME,Maine,NA,US
+306098,US-MI,Michigan,NA,US
+306099,US-MN,Minnesota,NA,US
+306100,US-MO,Missouri,NA,US
+306101,US-MS,Mississippi,NA,US
+306102,US-MT,Montana,NA,US
+306103,US-NC,North Carolina,NA,US
+306104,US-ND,North Dakota,NA,US
+306105,US-NE,Nebraska,NA,US
+306106,US-NH,New Hampshire,NA,US
+306107,US-NJ,New Jersey,NA,US
+306108,US-NM,New Mexico,NA,US
+306109,US-NV,Nevada,NA,US
+306110,US-NY,New York,NA,US
+306111,US-OH,Ohio,NA,US
+306112,US-OK,Oklahoma,NA,US
+306113,US-OR,Oregon,NA,US
+306114,US-PA,Pennsylvania,NA,US
+306115,US-RI,Rhode Island,NA,US
+306116,US-SC,South Carolina,NA,US
+306117,US-SD,South Dakota,NA,US
+306118,US-TN,Tennessee,NA,US
+306119,US-TX,Texas,NA,US
+306121,US-UT,Utah,NA,US
+306122,US-VA,Virginia,NA,US
+306123,US-VT,Vermont,NA,US
+306124,US-WA,Washington,NA,US
+306125,US-WI,Wisconsin,NA,US
+306126,US-WV,West Virginia,NA,US
+306127,US-WY,Wyoming,NA,US
+306128,UY-AR,Artigas Department,SA,UY
+306129,UY-CA,Canelones Department,SA,UY
+306130,UY-CL,Cerro Largo Department,SA,UY
+306131,UY-CO,Colonia Department,SA,UY
+306132,UY-DU,Durazno Department,SA,UY
+306133,UY-FD,Florida Department,SA,UY
+306134,UY-FS,Flores Department,SA,UY
+306135,UY-LA,Lavalleja Department,SA,UY
+306136,UY-MA,Maldonado Department,SA,UY
+306137,UY-MO,Montevideo Department,SA,UY
+306138,UY-PA,Paysandu Department,SA,UY
+306139,UY-RN,Río Negro Department,SA,UY
+306140,UY-RO,Rocha Department,SA,UY
+306141,UY-RV,Rivera Department,SA,UY
+306142,UY-SA,Salto Department,SA,UY
+306143,UY-SJ,San José Department,SA,UY
+306144,UY-SO,Soriano Department,SA,UY
+306145,UY-TA,Tacuarembo Department,SA,UY
+306146,UY-TT,Treinta y Tres Department,SA,UY
+306148,UZ-AN,Andijon,AS,UZ
+306149,UZ-BU,Buxoro,AS,UZ
+306150,UZ-FA,Farg'ona,AS,UZ
+306151,UZ-JI,Jizzax,AS,UZ
+306152,UZ-KH,Khorazm,AS,UZ
+306153,UZ-NG,Namangan,AS,UZ
+306154,UZ-NW,Navoiy,AS,UZ
+306155,UZ-QA,Qashqadaryo,AS,UZ
+306156,UZ-QR,Qoraqalpogiston Respublikasi,AS,UZ
+306157,UZ-SA,Samarqand,AS,UZ
+306158,UZ-SI,Sirdaryo,AS,UZ
+306159,UZ-SU,Surxondaryo,AS,UZ
+306160,UZ-TK,Toshkent,AS,UZ
+306161,UZ-TO,Toshkent,AS,UZ
+306163,UZ-XO,Xorazm,AS,UZ
+306718,VC-01,Charlotte,NA,VC
+306719,VC-02,Saint Andrew,NA,VC
+306720,VC-03,Saint David,NA,VC
+306721,VC-04,Saint George,NA,VC
+306722,VC-05,Saint Patrick,NA,VC
+306723,VC-06,Grenadines,NA,VC
+306165,VE-A,Capital District,SA,VE
+306166,VE-B,Anzoátegui State,SA,VE
+306167,VE-C,Apure State,SA,VE
+306168,VE-D,Aragua State,SA,VE
+306169,VE-E,Barinas State,SA,VE
+306170,VE-F,Bolívar State,SA,VE
+306171,VE-G,Carabobo State,SA,VE
+306172,VE-H,Cojedes State,SA,VE
+306173,VE-I,Falcón State,SA,VE
+306174,VE-J,Guárico State,SA,VE
+306175,VE-K,Lara State,SA,VE
+306176,VE-L,Mérida State,SA,VE
+306177,VE-M,Miranda State,SA,VE
+306178,VE-N,Monagas State,SA,VE
+306179,VE-O,Nueva Esparta State,SA,VE
+306180,VE-P,Portuguesa State,SA,VE
+306181,VE-R,Sucre State,SA,VE
+306182,VE-S,Táchira State,SA,VE
+306183,VE-T,Trujillo State,SA,VE
+306184,VE-U,Yaracuy State,SA,VE
+306186,VE-V,Zulia State,SA,VE
+306187,VE-W,Federal Dependencies,SA,VE
+306188,VE-X,La Guaira State,SA,VE
+306189,VE-Y,Delta Amacuro State,SA,VE
+306190,VE-Z,Amazonas State,SA,VE
+306193,VN-01,Lai Chau Province,AS,VN
+306194,VN-02,Lao Cai Province,AS,VN
+306195,VN-03,Ha Giang Province,AS,VN
+306196,VN-04,Cao Bang Province,AS,VN
+306197,VN-05,Son La Province,AS,VN
+306198,VN-06,Yen Bai Province,AS,VN
+306199,VN-07,Tuyen Quang Province,AS,VN
+306200,VN-09,Lang Son Province,AS,VN
+306201,VN-13,Quang Ninh Province,AS,VN
+306202,VN-14,Hoa Binh Province,AS,VN
+306203,VN-15,Ha Tay Province,AS,VN
+306204,VN-18,Ninh Binh Province,AS,VN
+306205,VN-20,Thai Binh Province,AS,VN
+306206,VN-21,Thanh Hoa Province,AS,VN
+306207,VN-22,Nghe An Province,AS,VN
+306208,VN-23,Ha Tinh Province,AS,VN
+306209,VN-24,Quang Binh Province,AS,VN
+306210,VN-25,Quang Tri Province,AS,VN
+306211,VN-26,Thua Thien-Hue Province,AS,VN
+306212,VN-27,Quang Nam Province,AS,VN
+306213,VN-28,Kon Tum Province,AS,VN
+306214,VN-29,Quang Ngai Province,AS,VN
+306215,VN-30,Gia Lai Province,AS,VN
+306216,VN-31,Binh Dinh Province,AS,VN
+306217,VN-32,Phu Yen Province,AS,VN
+306218,VN-33,Dac Lac Province,AS,VN
+306219,VN-34,Khanh Hoa Province,AS,VN
+306220,VN-35,Lam Dong Province,AS,VN
+306221,VN-36,Ninh Thuan Province,AS,VN
+306222,VN-37,Tay Ninh Province,AS,VN
+306223,VN-39,Dong Nai Province,AS,VN
+306224,VN-40,Binh Thuan Province,AS,VN
+306225,VN-41,Long An Province,AS,VN
+306226,VN-43,Ba Ria - Vung Tau Province,AS,VN
+306227,VN-44,An Giang Province,AS,VN
+306228,VN-45,Dong Thap Province,AS,VN
+306229,VN-46,Tien Giang Province,AS,VN
+306230,VN-47,Kien Giang Province,AS,VN
+306231,VN-48,Cần Thơ Municipality,AS,VN
+306232,VN-49,Vinh Long Province,AS,VN
+306233,VN-50,Ben Tre Province,AS,VN
+306234,VN-51,Tra Vinh Province,AS,VN
+306235,VN-52,Soc Trang Province,AS,VN
+306236,VN-53,Bac Can Province,AS,VN
+306237,VN-54,Bac Giang Province,AS,VN
+306238,VN-55,Bac Lieu Province,AS,VN
+306239,VN-56,Bac Ninh Province,AS,VN
+306240,VN-57,Binh Duong Province,AS,VN
+306241,VN-58,Binh Phuoc Province,AS,VN
+306242,VN-59,Ca Mau Province,AS,VN
+306243,VN-60,Da Nang Municipality,AS,VN
+306244,VN-61,Hai Duong Province,AS,VN
+306245,VN-62,Haiphong Municipality,AS,VN
+306246,VN-63,Hà Nam Province,AS,VN
+306247,VN-64,Ha Noi Municipality,AS,VN
+306248,VN-65,Ho Chi Minh Municipality,AS,VN
+306249,VN-66,Hung Yen Province,AS,VN
+306250,VN-67,Nam Dinh Province,AS,VN
+306251,VN-68,Phu Tho Province,AS,VN
+306252,VN-69,Thai Nguyen Province,AS,VN
+306253,VN-70,Vinh Phuc Province,AS,VN
+306255,VU-MAP,Malampa,OC,VU
+306256,VU-PAM,Penama,OC,VU
+306257,VU-SAM,Sanma,OC,VU
+306258,VU-SEE,Shefa,OC,VU
+306259,VU-TAE,Tafea,OC,VU
+306260,VU-TOB,Torba,OC,VU
+306263,WS-AA,A'ana District,OC,WS
+306264,WS-AL,Aiga-i-le-Tai District,OC,WS
+306265,WS-AT,Atua District,OC,WS
+306266,WS-FA,Fa'aaaleleaga District,OC,WS
+306267,WS-GE,Gaga'emauga District,OC,WS
+306268,WS-GI,Gagaifomauga District,OC,WS
+306269,WS-PA,Palauli District,OC,WS
+306270,WS-SA,Satupa'itea District,OC,WS
+306271,WS-TU,Tuamasaga District,OC,WS
+306273,WS-VF,Va'a-o-Fonoti District,OC,WS
+306274,WS-VS,Vaisigano District,OC,WS
+317196,XK-01,Pristina District,EU,XK
+317194,XK-02,Mitrovica District,EU,XK
+317195,XK-03,Peć District,EU,XK
+317197,XK-04,Prizren District,EU,XK
+317191,XK-05,Ferizaj District,EU,XK
+317193,XK-06,Gjilan District,EU,XK
+317192,XK-07,Gjakova District,EU,XK
+306275,YE-AB,Abyan Governorate,AS,YE
+306276,YE-AD,Adan Governorate,AS,YE
+306277,YE-AM,Amran Governorate,AS,YE
+306278,YE-BA,Al Bayda' Governorate,AS,YE
+306279,YE-DA,Ad Dali Governorate,AS,YE
+306280,YE-DH,Dhamar Governorate,AS,YE
+306281,YE-HD,Hadramawt Governorate,AS,YE
+306282,YE-HJ,Hajjah Governorate,AS,YE
+306724,YE-HU,Al Hydaydah Governorate,AS,YE
+306283,YE-IB,Ibb Governorate,AS,YE
+306725,YE-JA,Al Jawf Governorate,AS,YE
+306284,YE-LA,Lahij Governorate,AS,YE
+306285,YE-MA,Ma'rib Governorate,AS,YE
+306286,YE-MR,Al Mahrah Governorate,AS,YE
+306287,YE-MU,Al Hudaydah Governorate,AS,YE
+306288,YE-MW,Al Mahwit Governorate,AS,YE
+306289,YE-SD,Sa'dah Governorate,AS,YE
+306290,YE-SH,Shabwah Governorate,AS,YE
+306291,YE-SN,San'a' Governorate,AS,YE
+306292,YE-TA,Ta'izz Governorate,AS,YE
+306295,ZA-EC,Eastern Cape,AF,ZA
+306296,ZA-FS,Free State,AF,ZA
+306297,ZA-GT,Gauteng,AF,ZA
+306298,ZA-MP,Mpumalanga,AF,ZA
+306299,ZA-NC,Northern Cape,AF,ZA
+306300,ZA-NL,Kwazulu-Natal,AF,ZA
+306301,ZA-NP,Limpopo,AF,ZA
+306302,ZA-NW,North-West,AF,ZA
+306304,ZA-WC,Western Cape,AF,ZA
+306385,ZM-01,Western Province,AF,ZM
+306384,ZM-02,Central Province,AF,ZM
+306383,ZM-03,Eastern Province,AF,ZM
+306305,ZM-04,Luapula Province,AF,ZM
+306382,ZM-05,Northern Province,AF,ZM
+306306,ZM-06,North-Western Province,AF,ZM
+306386,ZM-07,Southern Province,AF,ZM
+306307,ZM-08,Copperbelt Province,AF,ZM
+306308,ZM-09,Lusaka Province,AF,ZM
+306310,ZW-BU,Bulawayo Metropolitan Province,AF,ZW
+306311,ZW-HA,Harare Metropolitan Province,AF,ZW
+306312,ZW-MA,Manicaland Province,AF,ZW
+306313,ZW-MC,Mashonaland Central Province,AF,ZW
+306314,ZW-ME,Mashonaland East Province,AF,ZW
+306315,ZW-MI,Midlands Province,AF,ZW
+306316,ZW-MN,Matabeleland North Province,AF,ZW
+306317,ZW-MS,Matabeleland South Province,AF,ZW
+306318,ZW-MV,Masvingo Province,AF,ZW
+306319,ZW-MW,Mashonaland West Province,AF,ZW

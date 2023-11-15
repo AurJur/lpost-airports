@@ -1,0 +1,33 @@
+Aplikacija - Oro uostas
+
+Technologijos:
+Backend - Java 17 arba naujesnė, Spring, Hibernate
+Frontend - Angular (ne senesnė nei 2 versija) ar React
+
+Užduotis
+
+Duomenų importas:
+1. Duomenis (task_airports.csv, task_countries.csv, task_regions.csv UTF-8) reikia importuoti į pasirinktą DB.
+2. Turi būti galimybė, aukščiau išvardintus duomenis, importuoti per frontend'ą.
+
+Duomenų atvaizdavimas:
+1. Pirmame žingsnije turi būti matomos valstybės į kurias gali keliauti klientas. Pasirinkęs valsytbę klientas turi turėti galimybę pasirinkti regioną. Turi būti galimybė ieškoti pagal šalies ir regiono pavadinimus;
+2. Pasirinkus valstybę arba valstybę ir regioną turi būti rodomi oro uostų ir savivaldybių pavadinimai bei kaina nuo (mažiausia kainą kurią siūlo vienas iš tiekėjų vykdatis skrydžius į tą oro uostą);
+3. Paspaudus ant oro uosto turi būti atidaromas langas kuriame matoma visa oro uosto informacija ir visi tiekėjai (pavadinimas ir kaina) kurie vykdo skrydžius į tą oro uostą.
+
+Kaina:
+1. Kainos paslaugoms yra gaunamos iš (provider.jar) kuris duomenimis dalinasi per REST API. Duomenys pasiekiami GET http://localhost:8085/item/price/{provider}/{id};
+
+Galimi paslaugų tiekėjų (provider) kodai:
+turkishairlines
+ryanair
+lufthansa
+airbaltic
+wizzair
+
+
+Pastabos
+Kainos iš provider.jar yra konstantos ir keistis negali.
+task_airports.csv paskutiniai 5 stulpeliai nusako kurie paslaugų tiekėjai vygdo skrydžius į oro uostą (1 = true, 0 = false)
+provider.jar imituoja lėtą servisą ir jo keisti negalima.
+Kodas turi būti pasiekiamas per GIT (bitbucket, github ar kokią kitą GIT platformą).

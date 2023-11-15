@@ -1,0 +1,578 @@
+Id,Name,Municipality,LowestPrice
+608,Avey Field Airport,Laurier,782
+3376,Walla Walla Regional Airport,Walla Walla,189
+3401,Boeing Field King County International Airport,Seattle,1487
+3416,Bellingham International Airport,Bellingham,113
+3456,William R Fairchild International Airport,Port Angeles,469
+3552,Spokane International Airport,Spokane,1432
+3563,Gray Army Air Field,Fort Lewis/Tacoma,672
+3590,Bowerman Airport,Hoquiam,2606
+3749,Olympia Regional Airport,Olympia,743
+3763,Snohomish County (Paine Field) Airport,Everett,1654
+3797,Bremerton National Airport,Bremerton,1111
+3875,Seattle Tacoma International Airport,Seattle,900
+3877,Felts Field,Spokane,920
+3885,Fairchild Air Force Base,Spokane,1600
+3918,McChord Air Force Base,Tacoma,785
+3922,Tacoma Narrows Airport,Tacoma,328
+3958,Yakima Air Terminal McAllister Field,Yakima,1377
+6570,Lower Granite State Airport,Colfax,2074
+6571,Howell Airport,Longbranch,400
+6573,Hawks Run Airport,Asotin,192
+6632,Willapa Harbor Heliport,South Bend,255
+6634,Whidbey General Hospital Heliport,Coupeville,1075
+6692,Cawleys South Prairie Airport,South Prairie,1149
+6694,Fowler Field,Tonasket,966
+6749,Spangle Field,Spangle,520
+6751,Aerostone Ranch Airport,Goldendale,1288
+6803,Ox Meadows Airport,Spokane,2705
+6857,Sacred Heart Medical Center Helistop,Spokane,494
+6911,N A Degerstrom Yard Heliport,Spokane,486
+6960,Multicare Deaconess Hospital Heliport,Spokane,828
+7013,Manchester Laboratory Heliport,Manchester,728
+7051,Sullivan Lake State Airport,Metaline Falls,1188
+7059,Holy Family Hospital Heliport,Spokane,97
+7596,Seattle Seaplanes Seaplane Base,Seattle,3694
+7597,Floathaven Seaplane Base,Bellingham,1099
+7598,Streamline Heliport,Machias,55
+7599,Dwight Field,Chehalis,970
+7600,Curtis Airport,Curtis,1163
+7602,Macon Heliport,East Wenatchee,1367
+7603,Ware Mountain Heliport,Mount Vernon,531
+7604,Stevens Memorial Hospital Heliport,Edmonds,3429
+7605,Shamrock Port Heliport,Newman Lake,3191
+7606,Childrens Hospital Emergency Heliport,Seattle,1298
+7607,Naval Station Everett Heliport,Everett,818
+7618,Rucilla's Roost Airport,Sequim,718
+7619,Shangri-La Airport,Selah,2332
+7621,Olympia Heliport,Olympia,1063
+7623,L-Z Blue Thunder Heliport,Blaine,99
+7624,Enumclaw Community Hospital Heliport,Enumclaw,1342
+7695,Mullan Hill Airport,Spokane,148
+7738,Sekiu Airport,Sekiu,1113
+7746,Homeport Airport,Spokane,373
+7804,Fowlers Nw 40 Airport,Spokane,517
+7861,Camano Island Airfield,Stanwood,546
+7862,Fsa - Everett Heliport,Everett,846
+7912,Westport Airport,Westport,1781
+7920,Lz Ranch Airport,Olympia,101
+7965,Lester State Ultralightport,Lester,2808
+7973,Sunset Airport,Stanwood,589
+8025,Little Goose Lock and Dam Airport,Starbuck,665
+8026,Tightcliff Airport,Nine Mile Falls,2557
+8076,Roesler Timber Company Heliport,Startup,435
+8095,Skamokawa East Valley Airport,Skamokawa,1304
+8122,Pasco Heliport,Pasco,2948
+8169,Key Way Airport,Stevenson,2922
+8638,Point Roberts Airpark,Point Roberts,236
+8640,Darrington Municipal Airport,Darrington,94
+8723,J-Z Airport,Almira,1256
+8724,Grove Field,Camas,1659
+8727,Weber Point Heliport,Redmond,3238
+8728,Pilot's Pastures Airport,Winlock,553
+8729,Calkins Equipment Company Heliport,Everett,578
+8730,Providence Hospital Heliport,Everett,564
+8731,General Hospital of Everett Heliport,Everett,1020
+8732,Fall City Airport,Fall City,2256
+8733,Raincreek Heliport,Cougar,3210
+8734,Madigan Hospital Heliport,Fort Lewis,1099
+8735,Friday West Airport,Friday Harbor,685
+8818,Skatter Creek Airport,Rochester,2541
+8833,Skyline Seaplane Base,Anacortes,822
+8869,Ranger Creek State Airport,Greenwater,1029
+8870,St Joseph Community Hospital Heliport,Vancouver,775
+8920,Gollehon Airport,Wilbur,2422
+8979,Bcag - Frederickson Heliport,Puyallup,414
+9034,Othello Community Hospital Heliport,Othello,802
+9084,Hart Ranch Airport,Tonasket,169
+9181,Lake Wenatchee State Airport,Leavenworth,1021
+9182,J C's Airport,Conway,1163
+9230,Robert L Delanoy Airport,Vancouver,205
+9279,Crossings Heliport,Tacoma,3916
+9740,Twisp Municipal Airport,Twisp,1785
+9741,Vashon Municipal Airport,Vashon,1643
+9744,Waterville Airport,Waterville,3265
+9844,De Vere Field,Cle Elum,2544
+9846,Swanson Airport,Eatonville,878
+9847,Pcfd Nr 26 Heliport,Greenwater,2345
+9848,Diamond Point Airstrip,Sequim,1426
+9849,Quartermaster Harbor Seaplane Base,Dockton,2670
+9851,Coulee Medical Center Heliport,Grand Coulee,342
+9852,Rice Ranch Airport,Grand Coulee,1906
+9853,Kramer Ranch Airport,Harrington,3634
+9854,Touchet Valley Airport,Huntsville,1263
+9871,Hillcrest Airport,Goldendale,447
+9945,Weller Canyon Airport,Waitsburg,666
+9986,Mary Bridge Heliport,Tacoma,138
+10029,Whitestone Airport,Tonasket,1844
+10075,Franz Ranch Airport,Warden,895
+10121,Orbit Heliport,Washougal,848
+10169,Fisher Ranch Airport,Washtucna,2980
+10213,Bob's Field,Trout Lake,2170
+10259,Baumann Farm Inc. Airport,Washtucna,1334
+10308,Lynden Airport,Lynden,2098
+10309,Blakely Island Airport,Blakely Island,572
+10344,Strom Field,Morton,166
+10354,Tailskid Ranch Airport,Tum Tum,1541
+10400,Shady Acres Airport,Spanaway,1298
+10859,Mears Field Airport,Concrete,913
+10862,Taylor Airport,Rainier,524
+10863,Johnson's Landing Ultralightport,Leavenworth,662
+10864,Hanes Airport,Harrington,1156
+10865,Angel Park Airport,Kahlotus,613
+10866,Watson Airport,Kahlotus,2840
+10867,Barnes Lonesome Polecat Ranch Heliport,Oak Harbor,511
+10868,Boeing Kent Heliport,Kent,601
+10869,Kent Benaroya Heliport,Kent,1409
+10870,Evergreen Hospital Heliport,Kirkland,2725
+10871,Flying Carpet Airport,Lacey,621
+10942,Signal Peak Lookout Heliport,White Swan,175
+10979,Central Washington Hospital Heliport,Wenatchee,2891
+11021,Sheffels Ranch Airport,Wilbur,157
+11058,Wilson Heliport,Woodinville,2021
+11098,Hoskins Field,Olympia,3084
+11105,Skyline Hospital Ems Heliport,White Salmon,2997
+11186,Don Williams Private Heliport,Yakima,370
+11226,Fitz Pad 1 Heliport,Woodinville,3523
+11269,West Valley Airport,Yakima,964
+11315,Cougar Mountain Airfield,Yelm,853
+11705,Tieton State Airport,Rimrock,3674
+11774,Bandera State Airport,Bandera,1145
+11776,Blaine Municipal Airport,Blaine,270
+11778,Elma Municipal Airport,Elma,287
+11780,B & G Farms Airport,Royal City,59
+11781,Brown's Cape Horn Airport,Skamania,1066
+11782,Cricket Field,Little Rock,545
+11783,St John's Medical Center Heliport,Longview,2720
+11784,Windsock Airport,Lopez,115
+11785,Hille-Kimp Airstrip,Kahlotus,585
+11786,Mark Reed Hospital Heliport,Mc Cleary,335
+11787,Riverside Airport,Deming,1895
+11788,Port Orchard Airport,Port Orchard,3135
+11860,Hartley Airport,Chehalis,2790
+11897,Evergreen Sky Ranch Airport,Black Diamond,1185
+11942,Honn Farm Airport,Benge,2950
+12028,Tukwila Operations Center Heliport,Tukwila,626
+12065,Packwood Airport,Packwood,75
+12071,Wilkinson Ranch Airport,Yakima,862
+12111,Tri-State Hospital EMS Heliport,Clarkston,2333
+12155,Kent Farms Airport,Othello,2714
+12196,Dye Seed Ranch Inc. Airport,Pomeroy,2067
+12238,Sorrell Airport,Tenino,2746
+12720,Sourdough Airport,Tonasket,885
+12721,Dorman Field,Mesa,793
+12722,B & M Ranch Airport,Monroe,745
+12723,St Mary Medical Center Heliport,Walla Walla,2656
+12724,Boundary Substation Heliport,Metaline Falls,463
+12725,Ross Private Strip,Orondo,543
+12726,Foster Heliport,Napavine,3275
+12727,Wild Hair Airport,Centerville,1798
+12728,Hogan's Corner Airport,Hoquiam,786
+12729,Brush Prairie Aerodrome,Brush Prairie,916
+12803,J. J. H. Heliport,Auburn,564
+12849,Burden Field-(Rabbit Run) Airport,Friday Harbor,974
+12888,Lakewood Heliport,Arlington,2859
+12927,Boyle R & D Airport,Colbert,1082
+12975,Everett I Heliport,Bellevue,3202
+13012,Wissler's Airport,Tenino,1925
+13050,Trout Lake Airport,Trout Lake,1632
+13091,Page Airport,Walla Walla,375
+13131,Mc Mahon Field,Zillah,807
+13170,O & M Facilities Heliport,Clarkston,241
+13530,Stehekin State Airport,Stehekin,1694
+13597,St Joseph's Hospital Heliport,Chewelah,1061
+13598,Sampson Heliport,Camas,2011
+13599,Gower Field,Olympia,1133
+13600,Green Acres Airport,Basin City,1605
+13601,Ochoa Field,Othello,322
+13602,Wilding Farm Airport,Shaw Island,1016
+13603,Carr Airport,Pasco,2355
+13604,Metaline Radio Heliport,Metaline Falls,949
+13605,East Gig Harbor Heliport,Gig Harbor,946
+13606,Cascade Valley Hospital Heliport,Arlington,3049
+13668,Mead Flying Service Airport,Mead,764
+13674,Whitman Community Hospital Heliport,Colfax,128
+13710,I-90/Bellevue Busi Pk Boeing Comp Svcs Hdq Heliport,Bellevue,2078
+13744,Rosalia Municipal Airport,Rosalia,888
+13751,Hiline Heliport,Darrington,1614
+13785,Willard Field,Tekoa,1832
+13792,7 Bays Airport,Davenport,751
+13830,Mattawa Air Strip,Mattawa,841
+13840,Oakesdale Airport,Oakesdale,1439
+13920,Heineck Farm Airport,Everett,726
+13957,Mount Carmel Hospital Ems Heliport,Colville,1341
+13997,Center Island Airport,Center Island,349
+14035,Grigg Farm Airport,Quincy,1635
+14445,Port of Ilwaco Airport,Ilwaco,1421
+14448,Big Andy Airport,Port Angeles,411
+14449,Eclipse Heliport,Port Angeles,1526
+14450,Jefferson General Hospital Heliport,Port Townsend,169
+14451,West Wind Airport,Everson,941
+14452,Humbert Airport,Ford,77
+14453,Stuart Island Airpark,Friday Harbor,1203
+14454,Prosser Hospital Heliport,Prosser,573
+14455,Mc Whorter Ranch Airport,Prosser,816
+14456,Good Samaritan Hospital Heliport,Puyallup,373
+14457,Ocean Beach Hospital Heliport,Ilwaco,1067
+14516,SFS Airpark,Hadlock,3770
+14554,Jobe Skis Plant 1 Heliport,Redmond,1593
+14586,Kittitas Valley Healthcare Heliport,Ellensburg,1265
+14620,Port of Poulsbo Marina Moorage Seaplane Base,Poulsbo,1513
+14628,Darcy's Air Strip,Walla Walla,88
+14667,D and B Airpark,Elma,217
+14708,Scott Seed Farm Airport,Pomeroy,840
+14742,Kapowsin Field,Kapowsin,1773
+14776,Trios Women & Childrens Hospital Heliport,Kennewick,801
+14813,Personal 500 Sales Co. Heliport,Sumner,552
+14847,Williams Airpatch Airport,Arlington,1512
+14864,Isaacson Airport,Medical Lake,1051
+15166,Cashmere-Dryden Airport,Cashmere,2943
+15236,Mansfield Airport,Mansfield,2111
+15238,R & K Skyranch Airport,Rochester,1655
+15239,Flying B Airport,Rainier,1495
+15240,Lone Star Pad 1 Heliport,Graham,2956
+15241,Boeing Renton Ramp Site Nr 2 Heliport,Renton,864
+15242,Valley Medical Center Heliport,Renton,225
+15243,Tree Heart Ranch Airport,Ritzville,1831
+15244,Christensen Field,Royal City,1054
+15245,Gossard Field,St John,527
+15246,Snoqualmie Valley Hospital Emergency Room Heliport,King County,3464
+15247,Broadcast House Helistop,Seattle,2654
+15300,Waldron Airstrip,Eastsound,544
+15333,Christensen Bros Wahluke Strip,Mattawa,2784
+15372,Western Airpark,Yelm,787
+15373,Conner Heliport,Issaquah,2759
+15407,Harris Airport,Tyler,2879
+15440,Wishkah River Ranch Airport,Aberdeen,865
+15474,Black Diamond Airport,Black Diamond,1312
+15510,Jim & Julie's Airport,Everett,733
+15548,Basin City Airfield,Mesa,119
+15593,Zirkle Fruit Company Heliport,Selah,3286
+15633,Providence Medical Plaza Heliport,Yakima,610
+16025,Boeing Plant 2 Heliport,Seattle,1067
+16026,Quincy Valley Hospital Ems Heliport,Quincy,1450
+16027,Odessa Memorial Hospital Heliport,Odessa,233
+16028,River Bend Airport,River Bend Lodge,1215
+16029,Piper Canyon Airport,Goldendale,2271
+16030,Mid-Valley Hospital Ems Heliport,Omak,966
+16032,Albritton Airport,Buckley,416
+16033,Mason General Hospital Heliport,Shelton,1405
+16034,Naval Submarine Base Bangor Heliport,Silverdale,962
+16523,Cross Winds Airport,Clayton,526
+17082,Rogersburg Airport,Anatone,3846
+18391,Lind Airport,Lind,180
+18392,Dorothy Scott Airport,Oroville,890
+18393,Jefferson County International Airport,Port Townsend,800
+18514,Sunnyside Municipal Airport,Sunnyside,983
+18515,Chewelah Municipal  Airport,Chewelah,3372
+18622,Warden Airport,Warden,712
+18624,Wilbur Airport,Wilbur,191
+18625,Willapa Harbor Airport,South Bend/Raymond/,305
+18645,Pru Field,Ritzville,2496
+18750,Grand Coulee Dam Airport,Electric City,1098
+18774,Odessa Municipal Airport,Odessa,1011
+18935,Wilson Creek Airport,Wilson Creek,565
+18971,Davenport Airport,Davenport,1683
+19030,Anacortes Airport,Anacortes,223
+19035,AJ Eisenberg Airport,Oak Harbor,470
+19095,Quincy Municipal Airport,Quincy,1271
+19334,Arlington Municipal Airport,Arlington,902
+19420,Skagit Regional Airport,Burlington/Mount Vernon,654
+19515,Chehalis Centralia Airport,Chehalis,522
+19624,Deer Park Airport,Deer Park,2115
+19717,Pangborn Memorial Airport,Wenatchee,820
+19752,Bowers Field,Ellensburg,2198
+19764,Ephrata Municipal Airport,Ephrata,1309
+19852,Vagabond Army Heliport,Yakima,3140
+19868,Friday Harbor Airport,Friday Harbor,1115
+20277,Southwest Washington Regional Airport,Kelso,1432
+20465,Desert Aire Regional Airport,Mattawa,1846
+20581,Grant County International Airport,Moses Lake,1931
+20649,Port Angeles Cgas Airport,Port Angeles,2085
+20651,Coupeville Nolf Airport,Coupeville,841
+20661,Whidbey Island Naval Air Station (Ault Field),Oak Harbor,522
+20746,Omak Airport,Omak,927
+20870,Tri Cities Airport,Pasco,301
+20883,Pullman Moscow Regional Airport,Pullman/Moscow,225
+20906,Ferry County Airport,Republic,2112
+20939,Richland Airport,Richland,50
+20947,Renton Municipal Airport,Renton,187
+20989,Lake Chelan Airport,Chelan,3135
+20993,Goldendale Airport,Goldendale,2092
+20995,Ione Municipal Airport,Ione,2166
+21003,Norman Grier Field,Kent,706
+21005,Prosser Airport,Prosser,1571
+21010,Auburn Municipal Airport,Auburn,827
+21011,Methow Valley State Airport,Winthrop,2242
+21016,Othello Municipal Airport,Othello,1665
+21027,Port of Whitman Business Air Center Airport,Colfax,228
+21028,Martin Field,College Place,3108
+21029,Anderson Field,Brewster,2507
+21030,Vista Field,Kennewick,1612
+21068,Sanderson Field,Shelton,2673
+21183,Ed Carlson Memorial Field South Lewis County Airport,Toledo,70
+21290,Quillayute Airport,Quillayute,2801
+21341,Pearson Field,Vancouver,1986
+21345,Tonasket Municipal Airport,Tonasket,1811
+21349,Sequim Valley Airport,Sequim,1284
+21437,Pacemaker Landing Zone Airport,,3862
+21438,Mettie Airstrip,Yakima,1716
+23952,Orcas Island Airport,Eastsound,248
+24101,Pierce County-Thun Field,Puyallup,52
+24369,Copalis State Airport,Copalis Crossing,1563
+24370,Forks Airport,Forks,3216
+24373,Lopez Island Airport,Lopez,2101
+24374,Okanogan Legion Airport,Okanogan,521
+24376,Harvey Field,Snohomish,1040
+24377,Spanaway Airport,Spanaway,1670
+24380,Kenmore Air Harbor Inc Seaplane Base,Kenmore,1191
+24390,Sky Harbor Airport,Sultan,3181
+24391,Skykomish State Airport,Skykomish,267
+24395,Cle Elum Municipal Airport,Cle Elum,3887
+25564,Ocean Shores Municipal Airport,Ocean Shores,1143
+25566,Lower Monumental State Airport,Kahlotus,597
+25567,Whidbey Air Park,Langley,2279
+25568,Lost River Airport,Mazama,717
+25570,Firstair Field,Monroe,367
+25573,Moses Lake Municipal Airport,Moses Lake,528
+25577,Woodland State Airport,Woodland,400
+25579,Friday Harbor Seaplane Base,Friday Harbor,439
+25581,Will Rogers Wiley Post Memorial Seaplane Base,Renton,649
+25582,American Lake Seaplane Base,Tacoma,999
+25583,Roche Harbor Seaplane Base,Roche Harbor,291
+25586,Rosario Seaplane Base,Rosario,305
+25588,Goheen Airport,Battle Ground,1992
+25589,Kenmore Air Harbor Seaplane Base,Seattle,245
+25590,Fly For Fun Airport,Vancouver,3719
+25592,Cedars North Airpark,Battle Ground,1142
+25598,Mercer Ranch Airport,Alderdale,1836
+25599,Wirkkala Airport,Naselle,114
+25600,The Island Hospital Heliport,Anacortes,3709
+25601,Kyles Airport,Snohomish,627
+25602,Apex Airpark,Silverdale,1773
+25603,Don Johnson Home Heliport,Auburn,174
+25604,Barker Airport,Mount Vernon,2572
+25605,Zwainz Farms Airport,Reardan,535
+25606,Roche Harbor Airport,Roche Harbor,154
+25608,Boeing Military Airplanes Heliport,Tukwila,2163
+25609,Acme Field,Acme,1091
+25610,Seaplane Landing Area Seaplane Base,Chelan,2853
+25611,Connell City Airport,Connell,373
+25612,Coulee City Airport,Coulee City,2720
+25613,Banas Field,Brooklyn,1164
+25614,Majerle Strip STOLport,Duvall,373
+25615,Decatur /Jones/ Airport,Decatur Island,759
+25617,Gray Ranch Airport,Benge,1617
+25618,Elk Heights Airport,Elk,2131
+25619,Mirth Airport,Hansville,67
+25620,Pine Bluff Airport,Springdale,500
+25621,Pfister's Airport,Pasco,320
+25622,Green Valley Airfield,Granite Falls,2048
+25623,Harrah Airport,Harrah,68
+25624,Tom Matson Enumclaw Heliport,Enumclaw,3958
+25625,Private H/C PAD Heliport,Auburn,2767
+25626,La Center View-Air Airport,La Center,180
+25627,Lacrosse Municipal Airport,Lacrosse,992
+25628,Reoh1 Heliport,Lake Stevens,1290
+25629,Stonehedge Heliport,Olympia,1634
+25630,Shaw Island Trust Heliport,Shaw Island,800
+25631,Newhalem Office Heliport,Newhalem,60
+25632,Clam Harbor Airport,Eastsound,2353
+25633,Chinook Farms Airport,Kittitas,950
+25634,South Cove Heliport,Redmond,277
+25635,Woodfield Airport,Kennewick,84
+25636,Darrington Clinic Ems Heliport,Darrington,735
+25637,Bear Canyon West Field,Morton,69
+25638,Stacey's Airport,Port Townsend,1007
+25639,Janes Heliport,Marysville,3034
+25640,Olympic Field,Discovery Bay/Maynard,2595
+25641,Daybreak Airport,La Center,1122
+25642,Flying Rock Airpark,Ellensburg,887
+25643,Flying R Ranch Airport,Cheney,1950
+25644,Fire District 5 Ems Heliport,Gig Harbor,1995
+25645,Samaritan Hospital Rms Heliport,Moses Lake,630
+25646,Deer Flat Airport,Deer Park,318
+25647,Harborview Medical Center Heliport,Seattle,3420
+25648,1001 Fourth Avenue Plaza Heliport,Seattle,965
+25650,Israel's Farm Airport,Sedro Woolley,1723
+25651,Bluecreek Airport,Addy,930
+25653,Rake's Glen Airport,Sequim,200
+25654,Longview Bridge Medical Emergency Heliport,Ranier,559
+25655,Thompson Airport,Kingston,183
+25656,Paradise Air Ranch Airport,Spangle,2071
+25657,Pleasant Farm Airport,Washougal,1127
+25658,Washington National Guard - Sinclair Hgts Heliport,Bremerton,586
+25659,Spring Creek Ranch Airport,White Salmon,176
+25660,Green Mountain STOLport,Vancouver,1867
+25661,Wax Orchards Airport,Vashon,2109
+25662,Frosty Creek Airport,Tonasket,1328
+25663,Kelly Ranch Heliport,Issaquah,315
+25664,Zema Private Airport,Colville,1045
+25665,Smith Airport,Colville,345
+25667,Flying 'O' Ranch Heliport,Covington,1316
+25668,Columbia Crest Winery Airport,Paterson,379
+25669,Enumclaw Airport,Enumclaw,482
+25670,Sky River Ranch Airport,Washougal,2178
+25671,Walter Sutton's Private Strip,Amboy,1937
+25672,Mc Clellan Field,Amboy,1293
+25673,Fishermans Bay Seaplane Base,Lopez,1384
+25674,The Boeing Company Heliport,Everett,582
+25675,Westsound/Wsx Seaplane Base,Westsound,3498
+25676,Auburn Academy Airport,Auburn,814
+25677,Weyerhaeuser Heliport,Auburn,206
+25678,Boeing - Auburn Complex Heliport,Auburn,807
+25680,Horse Fly Airport,Ferndale,1893
+25681,Kadlec Medical Center Heliport,Richland,1138
+25682,Floathaven Airstrip,Bellingham,553
+25683,Pathfinder Helicopter Heliport,Spokane,2162
+25684,Mc Neil Island Emergency Pad Heliport,Steilacoom,505
+25686,Washington Air Museum Heliport,Black Diamond,1450
+25687,Skyqueen Airport,Centralia,951
+25688,Leisureland Airpark,Bremerton,2159
+25689,Buena Airport,Buena,358
+25691,Flying K Ranch Airport,Castle Rock,456
+25795,Kimshan Ranch Airport,Quilcene,2418
+25796,Seattle Private Number One Heliport,Seattle,183
+25799,Erickson Ranch Airport,Colville,3429
+25800,Harris Airport,Toledo,2292
+25801,Walla Walla General Hospital Heliport,Walla Walla,2753
+25802,Decatur Shores Airport,Decatur,2422
+25803,Kendall Airstrip,Kendall,983
+25805,Mount St Helen's Aero Ranch Airport,Cougar,532
+25807,Fishtrap Heliport,Olympia,440
+25808,Vaughan Ranch Airfield,Port Orchard,1524
+25809,Pete's Airport,Deer Park,598
+25810,Burnett Landing Airport,Wilkeson,408
+25811,Komo Tv Heliport,Seattle,2350
+25812,Hoverhawk Ranch Airport,Wenatchee,2548
+25814,Gig Harbor Seaplane Base,Gig Harbor,2130
+25815,Van De Plasch Airport,Monroe,269
+25816,Lawson Airpark,Port Angeles,980
+25817,Lake Union Heliport,Seattle,785
+25818,Grand View International Airport,Sequim,1520
+25819,Cougar Flat Airstrip,Castle Rock,2529
+25821,Schoepflin Airport,Palouse,2484
+25824,Blue Ribbon Airport,Sequim,911
+25825,Clinesmith Ranch Airport,Benge,901
+25826,Slinkard Airfield,Mesa,1457
+25827,Newport Community Hospital Heliport,Newport,2789
+25828,Columbia Ag 2 Airport,Pasco,380
+25829,Ethel International Airport,Ethel,1975
+25830,Meadow Mist Airport,Ferndale,3748
+25831,Kari Field,Olympia,1299
+25832,McLaughlin Heliport,Port Angeles,417
+25833,Ross Complex Heliport,Vancouver,168
+25835,Coupeville Airpark,Coupeville,373
+25837,Flying H Ranch Airport,Buckley,593
+25838,Lower Granite Dam Heliport,Colfax,389
+25840,Take Five Airport,Yakima,568
+25842,Bear Valley Skyranch Airport,Mc Cleary,3211
+25843,Kimbrel Farm Airport,Oakville,1738
+25844,Blue Heron Field,Sequim,510
+25845,St Joseph Hospital Heliport,Tacoma,1285
+25846,Bayview Farms Airport,Burlington,707
+25847,Cougar Heliport,Cougar,640
+25848,Frontier Airpark,Lake Stevens,637
+25849,Ellerport Airport,Newman Lake,1572
+25850,Randle-Kiona Airpark,Randle,195
+25851,Columbia Basin Hospital Heliport,Ephrata,1597
+25852,Bade Rotor and Wing Svc. Heliport,Little Rock,1549
+25853,Capitol Medical Center Heliport,Olympia,1537
+25854,Nelsons Nitch Airport,Onalaska,72
+25856,Tai's Landing Airport,Spokane,987
+25857,Auburn Fire Department Heliport,Auburn,1374
+25859,J K D Farms Airport,Ellensburg,327
+25860,My Airport,Elma,1081
+25862,Southwest Washington Medical Center Heliport,Vancouver,198
+25865,Northwest Helicopters Heliport,Tumwater,2713
+25866,Evans Heliport,Bellevue,1362
+25867,Kinch Farms Airport,Washtucna,1535
+25868,St Joseph Hospital Main Campus Heliport,Bellingham,429
+25869,Burnt Ridge Airstrip,Onalaska,1252
+25871,Bergseth Field,Enumclaw,827
+25872,Wnp-2 Plant Support Facility Heliport,Richland,420
+25873,Haley Heliport,Winslow,2118
+25874,Walters Arv Ultralightport,Kelso,1009
+25875,Ice Harbor Dam Heliport,Pasco,270
+25876,Ferry County Memorial Hospital Heliport,Republic,1732
+25878,Lower Monumental Dam Heliport,Kahlotus,1021
+25881,Bryan Airport,Enumclaw,293
+25882,Martin Airport,Ocean Park,2869
+25883,Lee's Airport,Chattaroy,1624
+25885,Evans Heliport,Redmond,563
+25886,Sky Meadows Airpark,Spokane,350
+25887,Park 90 Heliport,Seattle,814
+25888,East Adams Rural Hospital Heliport,Ritzville,1345
+25889,Brown Boy Airport,Vantage,740
+25890,Misty Isle Farms Heliport,Vashon Island,822
+28489,Evergreen Field,Vancouver,1371
+41360,Eliza Island Airport,Bellingham,404
+45885,Beiter Airport,Ellensburg,940
+45886,Berkley Structures Heliport,Redmond,463
+45887,Blaine Sectors Hqs Heliport,Blaine,1227
+45888,Blowout Bench Airport,Ellensburg,1756
+45889,Cascade Heliport,Cashmere,256
+45890,Grayland Intergalactic Airport,Grayland,2473
+45891,Grays Harbor Community Hospital Heliport,Aberdeen,1593
+45892,Hammer EVOC Skid Pad Heliport,Richland,958
+45893,Hill Airport,Palouse,691
+45894,Hillcrest Farms Airport,Ellensburg,3372
+45895,Johnson Heliport,Port Ludlow,611
+45896,Kiwi Air Heliport,Clarkston,1126
+45897,Legacy Salmon Creek Hospital Heliport,Vancouver,2733
+45899,Michair Airport,Cathlamet,822
+45900,Odyssey Heliport,Renton,442
+45901,Schmidt Ranch Airport,Northport,110
+45902,Skid Row Seaplane Base,Clarkston,107
+45903,Stillwater Creek Airport,Royal City,1533
+45904,Tristan Heliport,Sumas,77
+45905,Walker Airport,Palouse,2155
+45906,Wings For Christ Airport,Omak,453
+45907,Flat Creek Field,Kettle Falls,1261
+45908,Coopers Landing,Kennewick,950
+45909,Whiterik Field,Fruitland,3138
+45910,Becker Field,Battle Ground,247
+45911,Dickson Field,Oroville,2151
+45912,Fantasy Field Airstrip,Chehalis,2568
+45913,Sky Valley Airstrip,Port Townsend,1330
+45914,Port Field,Twisp,856
+45915,River View Airpark,Chelan,857
+45916,Rocky Bay Airport,Vaughn,495
+45917,Graves Field Heliport,Seattle,284
+45953,Overlake Hospital EMS Heliport,Bellevue,2466
+45970,Forks Community Hospital Heliport,Forks,1297
+46303,Eastern State Hospital EMS Heliport,Medical Lake,483
+300321,Deer Harbor SPB,Deer Harbor,714
+301236,Ellensburg (Rotor Ranch) Airport,,2143
+301242,Deer Park / Radial Flyer Airport,,2982
+312535,Crane Island Airstrip,Crane Island,542
+316113,US Coast Guard Station Neah Bay Heliport,Neah Bay,232
+320987,Johns Island Airstrip,Friday Harbor,2414
+321935,Evergreen North-South Airpark,Vancouver,1143
+322050,Sunshine Acres Airport,Colbert,1218
+322929,Reed Airport,Cheney,892
+322932,Silverbird Airport,Cheney,2437
+325775,Flying L Airport,Glenwood,2710
+326868,RNR Farms Airport,Cathlamet,817
+327851,P-L Ranch Airport,Lacey,606
+328411,Rocky Pond Airstrip,Orondo,2818
+328975,Seaplane Scenics at Carillon Point Seaplane Base,Kirkland,1299
+329722,Crow Valley Airport,Eastsound,680
+330170,Lake Sawyer Double EE Seaplane Base,Black Diamond,871
+330176,Birdhouse Heliport,Spokane,519
+332214,Port Angeles Seaplane Base,Port Angeles,436
+333451,Blackheart Heliport,Quilcene,228
+333453,Millionaire Heliport,Quilcene,1072
+334276,Dogs Run Free Airport,Selah,726
+335855,Pianosa Flying Farm Ultralight Flightpark,Carlton,86
+335969,Spieden Island Airstrip,Friday Harbor,755
+336232,Protection Island Landing Strip,Sequim,290
+337641,Keller Landing Strip,Keller,182
+337675,Tango Ranch Airport,Addy,604
+338283,Pasayten USFS Airfield,Mazama,1512
+338687,Red Rock Field,Royal City,2367
+338690,Summit Pacific Medical Center Heliport,Elma,1201
+338710,Butler Field,Everson,252
+338756,Kautz Creek Helibase,Ashford,571
+338871,Skyraider Skyranch Airport,Yelm,946
+338925,Lakesamish Seaplane Base,Bellingham,1950

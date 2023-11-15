@@ -1,0 +1,101 @@
+id,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,wizzair,ryanair,airbaltic,lufthansa,turkishairlines
+6253,heliport,Total Rf Heliport,40.07080078,-74.93360138,11,NA,US,US-PA,Bensalem,no,00A,,00A,0,0,1,0,0
+323361,small_airport,Aero B Ranch Airport,38.704022,-101.473911,3435,NA,US,US-KS,Leoti,no,00AA,,00AA,1,0,1,1,1
+6524,small_airport,Lowell Field,59.94919968,-151.6959991,450,NA,US,US-AK,Anchor Point,no,00AK,,00AK,0,0,0,0,0
+6525,small_airport,Epps Airpark,34.8647995,-86.77030182,820,NA,US,US-AL,Harvest,no,00AL,,00AL,1,1,0,0,0
+6526,closed,Newport Hospital & Clinic Heliport,35.6087,-91.254898,237,NA,US,US-AR,Newport,no,,,,0,0,0,0,1
+322127,small_airport,Fulton Airport,34.9428028,-97.8180194,1100,NA,US,US-OK,Alex,no,00AS,,00AS,1,1,0,1,1
+6527,small_airport,Cordes Airport,34.30559921,-112.1650009,3810,NA,US,US-AZ,Cordes,no,00AZ,,00AZ,0,1,0,0,1
+6528,small_airport,Goldstone /Gts/ Airport,35.3504982,-116.8880005,3038,NA,US,US-CA,Barstow,no,00CA,,00CA,1,1,1,0,0
+324424,small_airport,Williams Ag Airport,39.427188,-121.763427,87,NA,US,US-CA,Biggs,no,00CL,,00CL,1,1,1,0,1
+322658,heliport,Kitchen Creek Helibase Heliport,32.7273736,-116.4597417,3350,NA,US,US-CA,Pine Valley,no,00CN,,00CN,0,0,1,0,0
+6529,closed,Cass Field,40.622202,-104.344002,4830,NA,US,US-CO,Briggsdale,no,,,,1,1,0,1,0
+6531,small_airport,Grass Patch Airport,28.64550018,-82.21900177,53,NA,US,US-FL,Bushnell,no,00FA,,00FA,1,0,0,0,0
+6532,heliport,Ringhaver Heliport,28.84659958,-82.34539795,25,NA,US,US-FL,Riverview,no,00FD,,00FD,0,1,1,0,0
+6533,small_airport,River Oak Airport,27.23089981,-80.96920013,35,NA,US,US-FL,Okeechobee,no,00FL,,00FL,0,1,1,1,1
+6534,small_airport,Lt World Airport,33.76750183,-84.06829834,700,NA,US,US-GA,Lithonia,no,00GA,,00GA,0,1,0,0,0
+6535,heliport,Caffrey Heliport,33.889245,-84.73793,957,NA,US,US-GA,Hiram,no,00GE,,00GE,0,1,1,1,1
+6536,heliport,Kaupulehu Heliport,19.832715,-155.980233,43,NA,US,US-HI,Kailua-Kona,no,00HI,,00HI,1,0,1,0,1
+6537,small_airport,Delta Shores Airport,48.14530182,-116.2139969,2064,NA,US,US-ID,Clark Fork,no,00ID,,00ID,0,1,1,1,0
+322581,small_airport,Goltl Airport,39.724028,-101.395994,3359,NA,US,US-KS,McDonald,no,00IG,,00IG,1,1,1,0,1
+6538,closed,Bailey Generation Station Heliport,41.644501,-87.122803,600,NA,US,US-IN,Chesterton,no,,,,1,1,0,0,0
+6539,small_airport,Hammer Airport,41.97840118,-89.56040192,840,NA,US,US-IL,Polo,no,00IL,,00IL,0,1,0,1,0
+6540,heliport,St Mary Medical Center Heliport,41.51139832,-87.26059723,634,NA,US,US-IN,Hobart,no,00IN,,00IN,0,1,0,0,0
+6541,small_airport,Hayenga's Cant Find Farms Airport,40.02560043,-89.12290192,820,NA,US,US-IL,Kings,no,00IS,,00IS,0,1,1,0,0
+6542,small_airport,Hayden Farm Airport,38.72779846,-94.93049622,1100,NA,US,US-KS,Gardner,no,00KS,,00KS,0,1,0,1,1
+6543,small_airport,Robbins Roost Airport,37.40940094,-84.61969757,1265,NA,US,US-KY,Stanford,no,00KY,,00KY,1,0,0,1,0
+45437,heliport,Shell Chemical East Site Heliport,30.191944,-90.980833,15,NA,US,US-LA,Gonzales,no,00LA,,00LA,1,0,1,0,0
+6544,heliport,Ac & R Components Heliport,39.66529846,-89.70559692,600,NA,US,US-IL,Chatham,no,00LL,,00LL,0,1,0,1,0
+6545,small_airport,Lejeune Airport,30.13629913,-92.42939758,12,NA,US,US-LA,Esterwood,no,00LS,,00LS,1,0,1,1,1
+6546,small_airport,Slater Field,38.75709915,-75.75379944,45,NA,US,US-MD,Federalsburg,no,00MD,,00MD,0,0,0,1,1
+6547,heliport,Dow Chemical Heliport,43.94940186,-86.41670227,588,NA,US,US-MI,Ludington,no,00MI,,00MI,0,1,1,1,1
+6548,small_airport,Battle Lake Municipal Airport,46.29999924,-95.70030212,1365,NA,US,US-MN,Battle Lake,no,00MN,,00MN,1,1,1,1,1
+6549,small_airport,Cooper Flying Service Airport,37.20280075,-94.41239929,970,NA,US,US-MO,Alba,no,00MO,,00MO,0,0,1,0,0
+324642,heliport,Livingston Healthcare Heliport,45.675,-110.52515,4465,NA,US,US-MT,Livingston,no,00MT,,00MT,0,0,1,1,0
+6551,small_airport,Bucks Airport,39.47320175,-75.18520355,105,NA,US,US-NJ,Bridgeton,no,00N,,00N,0,1,1,0,0
+6552,small_airport,North Raleigh Airport,36.08520126,-78.37139893,348,NA,US,US-NC,Louisburg,no,00NC,,00NC,1,1,0,1,1
+6553,heliport,Colgate-Piscataway Heliport,40.52090073,-74.47460175,78,NA,US,US-NJ,New Brunswick,no,00NJ,,00NJ,1,1,1,0,1
+321919,seaplane_base,Cliche Cove Seaplane Base,44.8118612,-73.3698057,96,NA,US,US-NY,Beekmantown,no,00NK,,00NK,1,0,1,1,1
+6554,small_airport,Weiss Airfield,42.90010071,-77.49970245,1000,NA,US,US-NY,West Bloomfield,no,00NY,,00NY,0,0,1,1,0
+6555,closed,Exit 3 Airport,41.590476,-84.141583,785,NA,US,US-OH,Wauseon,no,,,,0,1,1,0,1
+6556,heliport,Miami Valley Hospital Heliport,39.74530029,-84.18740082,905,NA,US,US-OH,Dayton,no,00OI,,00OI,0,1,0,0,0
+328503,small_airport,Gull Bay Landing Airport,36.198598,-96.217693,960,NA,US,US-OK,Sandsprings,no,00OK,,00OK,0,0,1,0,0
+6557,heliport,Steel Systems Heliport,44.93289948,-123.1299973,195,NA,US,US-OR,Salem,no,00OR,,00OR,0,1,1,0,0
+6558,heliport,R J D Heliport,39.94889832,-75.74690247,402,NA,US,US-PA,Coatesville,no,00PA,,00PA,0,1,1,0,0
+45773,small_airport,Ferrell Field,41.2995,-80.211111,1301,NA,US,US-PA,Mercer,no,00PN,,00PN,1,1,1,0,0
+6559,closed,Thomas Field,40.3778,-77.365303,815,NA,US,US-PA,Loysville,no,,,,0,1,1,0,1
+6560,small_airport,McKenzie Bridge State Airport,44.181466,-122.086,1620,NA,US,US-OR,Blue River,no,,,00S,0,0,1,0,0
+6561,small_airport,Flying O Airport,34.00939941,-80.26719666,150,NA,US,US-SC,Sumter,no,00SC,,00SC,1,1,0,0,1
+330391,small_airport,Homan Field,44.809158,-96.498897,1590,NA,US,US-SD,Gary,no,00SD,,00SD,1,0,1,1,1
+6562,closed,SW Region FAA Heliport,32.8269,-97.305801,598,NA,US,US-TX,Fort Worth,no,,,,1,1,1,0,1
+6563,heliport,Tcjc-Northeast Campus Heliport,32.84759903,-97.1894989,600,NA,US,US-TX,Fort Worth,no,00TE,,00TE,0,1,1,1,1
+6564,small_airport,Ragsdale Road Airport,35.51589966,-85.95359802,1100,NA,US,US-TN,Manchester,no,00TN,,00TN,1,1,1,1,1
+6565,small_airport,Alpine Range Airport,32.60760117,-97.24199677,670,NA,US,US-TX,Everman,no,00TS,,00TS,0,0,1,0,1
+6566,closed,San Jacinto Methodist Hospital Heliport,29.7377,-94.980201,19,NA,US,US-TX,Baytown,no,,,,1,0,1,0,1
+6567,closed,Clear Creek Ranch Airport,37.247799,-112.821998,6138,NA,US,US-UT,Kanab,no,,,,1,0,1,1,0
+6568,small_airport,Vaughan Airport,36.57600021,-78.9991684,551,NA,US,US-VA,Alton,no,00VA,,00VA,0,0,0,1,1
+6569,small_airport,Groundhog Mountain Airport,36.66329956,-80.49949646,2680,NA,US,US-VA,Hillsville,no,00VI,,00VI,0,0,0,1,0
+6570,small_airport,Lower Granite State Airport,46.67350006,-117.4430008,719,NA,US,US-WA,Colfax,no,00W,,00W,1,1,0,0,1
+6571,small_airport,Howell Airport,47.17839813,-122.7720032,150,NA,US,US-WA,Longbranch,no,00WA,,00WA,1,0,1,0,1
+6572,small_airport,Northern Lite Airport,44.3042984,-89.05010223,860,NA,US,US-WI,Waupaca,no,00WI,,00WI,1,1,0,1,1
+6573,small_airport,Hawks Run Airport,46.25,-117.2490005,2900,NA,US,US-WA,Asotin,no,00WN,,00WN,1,0,0,1,0
+6574,small_airport,Lazy J. Aerodrome,38.82889938,-79.8660965,2060,NA,US,US-WV,Beverly,no,00WV,,00WV,1,0,0,0,1
+322300,heliport,Mountain View Regional Hospital Heliport,42.840361,-106.224443,5210,NA,US,US-WY,Casper,no,00WY,,00WY,0,1,1,0,1
+6575,small_airport,L P Askew Farms Airport,33.03340149,-101.9339981,3110,NA,US,US-TX,O'Donnell,no,00XS,,00XS,1,0,0,0,0
+6576,small_airport,Purkeypile Airport,62.9435997,-152.2700043,1950,NA,US,US-AK,Purkeypile,no,01A,,01A,0,1,1,1,0
+6577,heliport,Providence Seward Medical Center Heliport,60.10587398,-149.446249,120,NA,US,US-AK,Seward,no,01AK,,01AK,0,1,0,0,0
+6578,small_airport,Ware Island Airport,32.94599915,-86.51390076,344,NA,US,US-AL,Clanton,no,01AL,,01AL,1,1,1,0,0
+6579,heliport,Community Hospital of De Queen Heliport,34.04729843,-94.35489655,400,NA,US,US-AR,De Queen,no,01AR,,01AR,1,1,1,1,1
+6580,heliport,Yat Heliport,34.60810089,-111.8649979,3300,NA,US,US-AZ,Camp Verde,no,01AZ,,01AZ,1,0,0,0,1
+6581,closed,Grant Airport,43.34170151,-85.77500153,815,NA,US,US-MI,Grant,no,01C,,01C,1,0,1,1,0
+6582,heliport,Lugo Substation Heliport,34.36824059,-117.3700587,3733,NA,US,US-CA,Hesperia,no,01CA,,01CA,0,0,0,0,0
+6583,small_airport,Swansboro Country Airport,38.79990005,-120.7340012,2594,NA,US,US-CA,Placerville,no,01CL,,01CL,0,1,1,0,1
+6584,heliport,Los Angeles County Sheriff's Department Heliport,34.03779984,-118.1539993,300,NA,US,US-CA,Los Angeles,no,01CN,,01CN,0,0,0,0,1
+6585,heliport,St Vincent General Hospital Heliport,39.24530029,-106.2460022,10175,NA,US,US-CO,Leadville,no,01CO,,01CO,0,1,1,0,1
+6586,heliport,Berlin Fairgrounds Heliport,41.62730026,-72.72750092,60,NA,US,US-CT,Berlin,no,01CT,,01CT,0,0,1,1,0
+6587,small_airport,Rybolt Ranch Airport,28.58939934,-81.14420319,55,NA,US,US-FL,Orlando,no,01FA,,01FA,0,1,1,1,0
+6588,heliport,Advent Health Altamonte Springs Heliport,28.666639,-81.3697,86,NA,US,US-FL,Altamonte Springs,no,01FD,,01FD,1,1,1,1,1
+6589,small_airport,Cedar Knoll Flying Ranch Airport,28.78190041,-81.15920258,19,NA,US,US-FL,Geneva,no,01FL,,01FL,0,0,0,1,0
+6590,heliport,Medical Center Heliport,32.47930145,-84.97910309,319,NA,US,US-GA,Columbus,no,01GA,,01GA,0,0,1,0,1
+6591,small_airport,The Farm Airport,32.67440033,-82.77110291,375,NA,US,US-GA,Wrightsville,no,01GE,,01GE,1,0,1,1,1
+6592,small_airport,Stender Airport,41.66109848,-90.74130249,725,NA,US,US-IA,Maysville,no,01IA,,01IA,0,1,1,0,1
+6530,small_airport,Lava Hot Springs Airport,42.6082,-112.031998,5268,NA,US,US-ID,Lava Hot Springs,no,01ID,,01ID,1,1,0,1,1
+6593,small_airport,Myers Field,39.88499832,-86.50669861,950,NA,US,US-IN,Lizton,no,01II,,01II,1,1,0,1,0
+6594,heliport,Hoopeston Community Memorial Hospital Heliport,40.45859909,-87.65950012,583,NA,US,US-IL,Hoopeston,no,01IL,,01IL,1,1,0,0,1
+6595,heliport,Community Hospital Heliport,40.13090134,-85.69580078,890,NA,US,US-IN,Anderson,no,01IN,,01IN,1,1,0,0,0
+6596,small_airport,William E. Koenig Airport,39.01620102,-90.31819916,670,NA,US,US-IL,Dow,no,01IS,,01IS,1,1,0,1,0
+6597,small_airport,Hilliard Airpark,30.68630028,-81.90570068,59,NA,US,US-FL,Hilliard,no,01J,,01J,0,0,0,1,1
+6598,small_airport,Caldwell Municipal Airport,37.03609848,-97.58640289,1157,NA,US,US-KS,Caldwell,no,01K,,01K,1,1,0,1,1
+6599,small_airport,Flying N Ranch Airport,38.54059982,-97.00330353,1485,NA,US,US-KS,Lost Springs,no,01KS,,01KS,0,0,0,1,0
+6600,heliport,Lourdes Hospital Heliport,37.05170059,-88.64689636,419,NA,US,US-KY,Paducah,no,01KY,,01KY,1,1,1,0,1
+6601,small_airport,Barham Airport,32.63899994,-91.7736969,90,NA,US,US-LA,Oak Ridge,no,01LA,,01LA,1,0,0,1,0
+6602,small_airport,Schumaier Restricted Landing Area,38.12580109,-89.46389771,555,NA,US,US-IL,Pinckneyville,no,01LL,,01LL,0,0,1,0,1
+6603,small_airport,Country Breeze Airport,30.70599937,-91.07740021,125,NA,US,US-LA,Slaughter,no,01LS,,01LS,1,0,1,0,1
+6604,heliport,Compaq Andover Heliport,42.62509918,-71.18009949,140,NA,US,US-MA,Andover,no,01MA,,01MA,1,1,0,1,1
+6605,seaplane_base,Annapolis Seaplane Base,38.999199,-76.456001,,NA,US,US-MD,Annapolis,no,01MD,,01MD,0,1,0,0,0
+6606,seaplane_base,Saint Peter's Seaplane Base,46.77890015,-68.50029755,608,NA,US,US-ME,Portage Lake,no,01ME,,01ME,0,0,0,0,0
+6607,heliport,Flow Through Terminal Heliport,43.04949951,-83.67970276,736,NA,US,US-MI,Flint,no,01MI,,01MI,0,0,1,0,1
+6608,seaplane_base,Barnes Seaplane Base,47.89960098,-92.55740356,1358,NA,US,US-MN,Cook,no,01MN,,01MN,1,1,1,0,0
+6609,heliport,Highway Patrol Troop C Headquarters Heliport,38.64170074,-90.48429871,615,NA,US,US-MO,Town and Country,no,01MO,,01MO,1,0,1,1,1
+6610,small_airport,Crystal Lakes Resort Airport,48.78910065,-114.8799973,3141,NA,US,US-MT,Fortine,no,01MT,,01MT,0,0,0,1,1
+6611,small_airport,Topsail Airpark,34.47529984,-77.58139801,65,NA,US,US-NC,Holly Ridge,no,01NC,,01NC,1,1,0,1,0

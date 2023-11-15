@@ -1,0 +1,5 @@
+FROM eclipse-temurin:8-jre-ubi9-minimal
+EXPOSE 8085
+COPY provider.jar /provider.jar
+CMD ["java", "-jar", "/provider.jar"]
+HEALTHCHECK --interval=5s --timeout=10s --retries=4 CMD curl -f http://localhost:8085/item/price/airbaltic/2155 || exit 1

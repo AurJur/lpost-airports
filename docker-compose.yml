@@ -1,0 +1,71 @@
+version: '3.9'
+
+networks:
+  airports:
+    driver: bridge
+
+services:
+  price-provider:
+    build:
+      context: ./price-provider
+      dockerfile: 'Dockerfile-price-provider'
+    container_name: 'price-provider'
+    ports:
+      - '8085:8085'
+    networks:
+      - airports
+
+  db:
+    image: mysql:8.2.0
+    container_name: 'db'
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=airports-db
+      - MYSQL_USER=user
+      - MYSQL_PASSWORD=user
+    ports:
+      - '3306:3306'
+    healthcheck:
+      test: mysqladmin ping -h 127.0.0.1 --user=$$MYSQL_USER --password=$$MYSQL_PASSWORD
+      start_period: 5s
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    networks:
+      - airports
+    restart: always
+
+  react-end:
+    build:
+      context: ./react-end
+      dockerfile: 'Dockerfile-react-end'
+    container_name: 'react-end'
+    ports:
+      - '3000:3000'
+    networks:
+      - airports
+
+  java-end:
+    build:
+      context: ./java-end
+      dockerfile: 'Dockerfile-java-end'
+    container_name: 'java-end'
+    environment:
+      - PRICE_PROVIDER_HOST=http://price-provider:8085
+      - SPRING_DATASOURCE_URL=jdbc:mysql://db:3306/airports-db
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - '8080:8080'
+    networks:
+      - airports
+
+  adminer:
+    image: adminer
+    container_name: 'adminer'
+    ports:
+      - '8081:8080'
+    networks:
+      - airports
+    restart: always
