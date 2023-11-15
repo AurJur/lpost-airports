@@ -6,7 +6,7 @@
 - Execute:
     - docker compose -f ./docker-compose.yml up  
       (where ***./docker-compose.yml*** is the file in this project, so change the path accordingly if executing from a different directory)
-- Should work out of the box. If not - I'd be glad to know that. 
+- Takes some time to start up (5min+), but should work out of the box. If not - I'd be glad to know that. 
 
 ### Notes:
 - React frontend should be available at localhost:3000
