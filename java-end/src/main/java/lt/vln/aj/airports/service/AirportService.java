@@ -6,6 +6,7 @@ import lt.vln.aj.airports.entity.AirportEntity;
 import lt.vln.aj.airports.enums.Provider;
 import lt.vln.aj.airports.repository.AirportRepository;
 import lt.vln.aj.airports.service.helper.PriceProvider;
+import lt.vln.aj.airports.util.ParallelismManager;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
@@ -18,7 +19,8 @@ import java.util.stream.Collectors;
 
 @Service
 public record AirportService(AirportRepository airportRepository,
-                             PriceProvider priceProvider) implements ImportCsvService {
+                             PriceProvider priceProvider,
+                             ParallelismManager parallelismManager) implements ImportCsvService {
 
     @Override
     public void importAll(MultipartFile file) throws IOException {
@@ -28,8 +30,8 @@ public record AirportService(AirportRepository airportRepository,
 
     public List<AirportInfoLowestPriceDto> getInfoByRegion(String regionCode) {
         List<AirportEntity> aeList = airportRepository.findAllByIsoRegion(regionCode);
-        return aeList
-                .parallelStream()
+        return parallelismManager
+                .getStream(aeList)
                 .map(ae -> Map.entry(ae, getLowestPriceForAirport(ae)))
                 .filter(entry -> entry.getValue().isPresent())
                 .map(entry -> new AirportInfoLowestPriceDto(
@@ -73,9 +75,8 @@ public record AirportService(AirportRepository airportRepository,
     private Map<Provider, Integer> getActiveProvidersPrices(AirportEntity ae) {
         List<Provider> activeProviders = Provider.resolveActiveProviders(ae);
         int airportId = ae.getId();
-
-        return activeProviders
-                .parallelStream()
+        return parallelismManager
+                .getStream(activeProviders)
                 .map(provider -> Map.entry(provider, priceProvider.getPrice(provider, airportId)))
                 .filter(entry -> entry.getValue().isPresent())
                 .collect(Collectors.toMap(Map.Entry::getKey, entry -> entry.getValue().get(), (a, b) -> a, ConcurrentHashMap::new));
