@@ -28,6 +28,9 @@ public class ExternalPriceProvider implements PriceProvider {
     public Optional<Integer> getPrice(Provider provider, int airportId) {
         String cacheKey = getCacheKey(provider, airportId);
 
+        //TODO: with this current implementation it is possible that two or more requests are calling the external service
+        // to get the same price. One thread checks for key "x", does not find it, goes on to fetch the price from the external.
+        // Meanwhile, while the first fetch has not finished, another thread checks for the same key "x", does not find it, goes on to fetch it.
         Optional<Integer> cachedPrice = priceCache.get(cacheKey);
         if (cachedPrice != null) {
             return cachedPrice;
